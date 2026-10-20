@@ -1,0 +1,28 @@
+# My Hot Take on Config 2026: Are Designers Focusing on the Wrong Skills?
+yobi321 · 5 мин · 103321 просмотров · en · https://youtu.be/FOQmyN48EF8
+
+
+
+[00:00] Hi everyone, welcome back to my channel. So, I just got back from the Config 2026, the Figma design conference in San Francisco. I have learned a lot. There were a lot of cool demo, announcement of new powerful features, and the swag this year is really cool. I got this magazine and water bottle. I mean, look at this magazine. As a Figma user, I really appreciate the details, the design uh they put into everything that they 
+
+[00:31] deliver from the tool to the book to the keynote speech. I think they really put a lot of thoughts and efforts in how to empower designers. You know, there were a lot of cool features announced at Config this year from motion to shapes, code layers, and more. But, after all the excitements were off, I found myself wondering, in the age of AI, are these actually skills that product designers should invest in? 
+
+[01:02] Because I think there's something much bigger is happening, and I might have a controversial take. Before I jump in, I share everything about design and tech on my YouTube channel. If you're interested on this type of content, feel free to hit the subscribe so you won't miss my future content. To me, this year felt heavily focused on making Figma a more complete creative platform. Some key features announced at Config 2026 include code layers, Figma motion, shaders, generated plugins, and weave tools to call out a few things that I 
+
+[01:33] feel really excited about. First, code on Figma canvas. So, with code layers in Figma design, you can now explore multiple directions with code side by side with your team. To me, what makes this really interesting is I think with all the agents white coding tools that it has expanded a lot on what we can build and how fast we can build, but too often the process is still quite silo, but with code layers, the interactive code becomes part of the canvas and 
+
+[02:03] making it much easier for teams to explore, iterate, shape ideas, and collaborate together in the same place. Another focus this year is Figma motion. Motion is no longer a bottleneck or one-person job. With Figma motion, any designers can now prompt the Figma agent to build motion directly on the new timeline. You know, instead of switching to After Effects or other animation tools, now designers can build all the motions in 
+
+[02:33] one place. Some other announcements include Shader. It allows you to build customized visual effects like particle stretch, lens distortion, color outline, and more with in Figma. Another really interesting feature announced is generated plugins. You know, in the past, building a tool can feel intimidating as it requires a lot of technical skills, but with generated plugins, it is now possible for you to create your own tool that you want. You know, as a design tool, all 
+
+[03:04] those features are generally impressive. You know, many things that previously requires multiple tools or platforms can now happen all inside Figma. But here is where I feel conflicted. You know, the biggest challenge I face these days as a product designer isn't really creating animations. It is often about figuring out what should we build, which problem matters the most, what should a team focus on and prioritize, and how do we validate ideas faster. You know, and none of those problems can be solved by better animation tools. This is just my 
+
+[03:35] personal opinion, but in some ways, a lot of those features announced at Config feels more aligned with agencies and brand experiences than the day-to-day work of many product designers. You know, maybe the reason I reacted this way is AI is changing the value chain of design. AI is getting surprisingly good at execution. Whether it's generating a mock or prototype or animation, you name it. If you have been playing with pipe coding, you know what I'm talking about. The type of work which used to take us hours and weeks 
+
+[04:07] now can just happen in a few minutes. So, if the execution is becoming cheaper, what is becoming more valuable? My answer, judgement, product thinking, taste, and influence. The hardest problem that I tackle these days are rarely visual problems. They are product decisions. So, I guess my hot take isn't that motion doesn't matter. Motion absolutely matters. Great craft will always matter. But, if you are a designer wondering where you should 
+
+[04:38] spend the next 100 hours of learning, I am not convinced that motion is the highest ROI skill. I would probably spend my next 100 hours on experimentation, pipe coding, understanding a new AI workflow, and drive decision-makings. You know, as a designer, no matter you are like industrial design or digital product design, I think design craft will always matter. But, in the age of AI where execution becomes so much faster and cheaper, it is the time that we as 
+
+[05:10] designers should start shift our mindset focusing on production to more framing. For example, asking the right question, shaping the product directions, and drive decision-makings. Maybe I'm completely wrong. Maybe motion will become a differentiator. Maybe Config is pointing towards where design is heading. But, uh that's why I'm curious. What was your biggest takeaway from Config? And if you are a designer in 2026, what skills are you investing in most? I hope this video is helpful. 
+
+[05:42] And if you have any thoughts, questions, please drop me a comment. I would love to hear your thoughts. I will see you next time. Bye. 

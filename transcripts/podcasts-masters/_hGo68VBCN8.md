@@ -1,0 +1,28 @@
+# How Kindness Made Me a $5,000/Project UI/UX Designer (My Story)
+Shahriar Sultan · 6 мин · 1547 просмотров · en · https://youtu.be/_hGo68VBCN8
+
+
+
+[00:00] things. I have clients who send me birthday gifts, extra money, funds, Christmas gifts every single year even though I'm not working with them anymore. I'm charging $2,000 to $5,000 per project. [music] >> [music] >> I'm Shahriar. Started my career in early 2012 and at the time I started as a graphic designer. I used to do logos, branding, poster designs. And I just 
+
+[00:30] loved to do poster designs. Those are amazing works. After a few years, like roughly 2013, I felt that in graphics I'm not feeling the kick, the passion again anymore. It's like I got into my creative block. I am not getting any ideas while working on any client projects or something like that. So, I decided to transition myself into UI UX design. To become a product designer, I didn't never have a passion or something like that. I started because in this field there was more money than graphic 
+
+[01:02] design. At that time at least, for me in my situation. When I started UI UX design, my starting projects was teaching other designers to learn Figma, components, and the UI UX. So, through the whole week I was studying myself, learning, and then teaching it out to the other designers that I targeted. And they were my clients. They were hiring me with only $15 per hour to learn from me the design works and Figma and UI UX. That helped me to learn UI UX 
+
+[01:33] drastically and become better in my field because I was teaching by learning it myself. That I thought the best method of teaching. When I'm learning it myself, then I can teach others in a way that is far better than practicing it alone in a blocked room together. And getting some real jobs, becoming a UI UX designer, then senior UX designer, lead designer, head of design, even the principal designer in some startup companies. I learned a lot of things, 
+
+[02:04] and one of the biggest thing that I have learned in this journey is kindness. Now, you might think or wonder what kind of kindness I'm talking about and how it is relevant to the UI UX work I'm doing. Basically, I learned from one of my CEO that shoot your clients with kindness, and that paid me off every single time. I have repeated clients who ask me for things. I have clients who send me birthday gifts, extra money, funds, Christmas gifts every single year even though I'm not working with them 
+
+[02:35] anymore. That kindness is actually helping the clients to achieve their goals in a flexible manner. This kindness is not like being polite or talking humbly or saying sir all the time. It's not like that. Rather, it is the intention inside me to help these clients in every way possible. Being easy to work with. I never complain if they're paying me low, if they're paying me not in the standard of the market, or what. And they become brothers. Like still now, I have so many clients 
+
+[03:06] connected with me on Facebook even, and in WhatsApp, who just want to connect with me in a family level. They're connected and talking with my dad every time, and nowadays, my younger brother is also talking with them and doing some video editing works for them. So, it's really fun to see how kindness can turn into a long-term relationship. And this kind of long-term relationship is the thing that builds your business, that builds your career. You just need one great client, one great person to 
+
+[03:36] elevate you, to move you towards the kind of goal or achievement you're trying to achieve. Kindness comes from the intention of trying to help the customers, the clients in a way so that it benefits them. I'm not trying to rip off my client, but I charge way lot than usual. Two years ago, I used to charge $30 per hour per project. Nowadays, I am charging $60 to $70 per hour just to show my skills and consult client. I'm not giving them design works, rather I'm 
+
+[04:07] doing auditing of products and that where I'm charging $2,000 to $5,000 per project. Now, these clients want me to do the auditing because they trust me and that trust built upon being flexible, being kind, being humble, polite, and easy to work with. So, clients find a safe zone that I can trust this boy, I can work with this guy, and if I get it stuck anywhere, this guy will help me. He will not just ask for money every single time. He will actually genuinely try to help me out 
+
+[04:38] with my situation and my product and help me grow, get more revenues, get more customers, and things like that. That's the faith and trust you earn after doing a lot of work, hard work, and being humble enough. I'm not a great designer. I wish to be, but in that journey, there is nothing to be arrogant about. The skills I have, the personality I have built, it's all with the help of almighty Allah and with the support of tons of clients who genuinely wanted me to help elevate in my situation. Even one of the client at a 
+
+[05:10] time offered me air ticket to go back and forth to Bangladesh to USA and and spend few days with them. That was a great offer, and I still have that offer in my account, so I can grab it anytime I want. Thank you, Josh. I want to mention your name for that. If you are watching this video, I want to say that I'm really grateful to support me in this way. So, that's all for now in my origin journey, and I will talk more about my journey, how I became 
+
+[05:41] a product designer, and how it helped me to build my current personality in the upcoming videos. If you haven't subscribed my channel yet, please do like and share the video. Thank you so much. 

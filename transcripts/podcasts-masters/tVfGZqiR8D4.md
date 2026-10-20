@@ -1,0 +1,30 @@
+# BBC: Jony Ive, Marc Newson and Bono talk about RED Sotheby's Auction
+insp. mag · 6 мин · 8017 просмотров · en · https://youtu.be/tVfGZqiR8D4
+
+
+
+[00:09] design doesn't get any more rarefied and bespoke than this 43 one-off pieces specially commissioned for an auction in New York the famous space of the sale is the singer Bono but Apple's design supremo sir Johnny I've is the man sweating over there nuts and bolts though you'd be hard-pressed to find anything so lumpy as a nut or a bolt here I think what's interesting about these things is they're so purposeful and there's incredible beauty consequent 
+
+[00:41] of just how focused and purposeful there are and many of the things you don't know you know who designed them you know you don't know their biography but you see what they do and they do they do it so beautifully a private view of the lots before their auction tomorrow for Bono's product red charity which raises money to tackle AIDS malaria and TB in Africa just wrote earlier on it 
+
+[01:17] don't give up the day job I'll hang on this Stein weighs up for grabs it has some red customising under the bonnet the u2 frontman has succeeded in coaxing apples Chingford born design guru into the limelight for example the metal works nickel-plated instead of the usual brass even see all of the hinges and which rather goes against the grain I was invited into the you know the holy of the Holies they Apple lab and Johnny 
+
+[01:48] was explaining this very deep security and if you go hang in here you know you gotta get ready I was thinking ok you know and I thought I was gonna seal and be entrusted to see all the new Apple products which I hope you're gonna tell me about and I walked in this guy's world women know they had them all covered and she's tired of Jesus so just quite upsetting and all I could see was just desks everywhere with these kind of grey kind of doling through metal gray cloth everything so as well as being hurt I was kind of like that's a very dull gray despite apples Trappist approach to 
+
+[02:21] previewing its goodies I've was willing to discuss this computer spoiler alert it's not out yet this is a Mac Pro that's just been launched and if it's like a number of the pieces here it's made from aluminium but but we are we experimented with anodizing it in the red that the product that's actually going to ship from Apple will be in a dark gray so this is the only one in the world but if there's a huge wave of 
+
+[02:52] demand and lots of people would like red so it's just too bad is it there's just one right the approach we took here was just to have essentially CPU so just naturally empty there you know the computing brain and make that as fast as possible but the cooling system actually means that it's it runs very quietly is it inspired by a wine cooler because it does look a little like very sophisticated one doesn't it what I think it's more interesting is the inside so you actually see how it's been configured around this sort of central 
+
+[03:23] chimney and so the airs pulled in through the bottom and then that's a handle on the top but it's also where the earth the the air exhausts Australian Marc Newson Ives fellow designer has co-curated this miscellany including a one-off Leica camera which they modeled five hundred times before they were happy it does sound incredibly indulgent but you couldn't choose to sort of address a more iconic object of design 
+
+[03:53] you know this century sure everyone recognizes well certainly in our world what that thing is and they still recognize it even after we've designed it which is good is there a point at which this fanatical attention to detail shades into something like OCD we put that amount of care into something not for ourselves it's because we're making something for somebody else and I think there's tremendous humanity in that I think as a you know it's part of the human condition that we we sense when people 
+
+[04:25] care and I think actually be probably sense more when people don't care and the majority of our manufactured environment testifies to people actually not really caring about it space in fact and fiction has been a major influence on Apple's lead designer no wonder he's included a space shuttle in the auction not a whole one this is a window and also I think this should the you know the shape is just extraordinary as well do you think design and 
+
+[04:56] engineering gets the credit it deserves does government give it enough attention is it is enough time spent on it at school and university are we encouraging people to be good at what you guys are exemplars of then well there's there's a very certain issue which is in it's an expensive subject to teach because it requires workshops and with PI's machinery so sadly there's not the I 
+
+[05:26] mean you know when we were growing up and certainly in the UK there was UK's had an incredible tradition of design education and it's it this certainly isn't the same commitment you don't see as many workshops when you you know walk around schools though some may feel there's a large element of boys toys about this show and this auction and they may think that it might be better and easier if Apple and you didn't just 
+
+[05:56] reach into your pockets and make a contribution that way you know Apple are leading right out front they're the largest corporate donor to the Global Fund which is the mechanism to get these AIDS drugs to people who don't have them they're very quiet about it it's a very apple it's kind of annoying sometimes because they're so doing such great work again I just say to you this is quite a sly political tool and we can all give and do and you know my bands u2 is also 
+
+[06:28] red but that's it the point is is the neon the point is the excitement's they're sort of making this a political priority by keeping it in the public discussion there's still time to get your bids in though a Russian oligarch is said to be determined to snap up the old Soyuz spacesuit 

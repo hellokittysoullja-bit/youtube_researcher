@@ -1,0 +1,54 @@
+# UX Mock Interview - Handling Design Disagreements with a Senior Microsoft Designer
+Aced (formerly Exponent) · 12 мин · 32159 просмотров · en · https://youtu.be/-ayJQ7J2Z1g
+
+
+
+[00:00] say a developer disagrees with your recommendation for improving a website's user experience how would you respond [Music] okay um if a developer has a contradictory suggestion to um a design that I'm proposing I think the first thing I would do is understand where that opposition is stemming from so um asking a lot more questions to the 
+
+[00:31] developer to understand okay is this a technical limitation is this um maybe based off of history of the product maybe that I'm not aware of um or is it is this just a personal preference right like this design is just not going to work I think starting there um will help me then decide what to do next being able to ask very explicit questions and getting to the root of why they're pushing back on the design 
+
+[01:03] and then I think you know these moments are very important to to also understand more about how a developer thinks and and what it takes to actually um develop the designs because sometimes um as designers I or as a designer I can tend to um inflate what I think is an ideal proposal but um a developer can help you know bring me back down to Earth so I think it's a good opportunity to learn 
+
+[01:35] to speak the language of a um of a developer in this case but I mean for collaboration in general it's a great opportunity to learn to speak the language of every partner in every other discipline that you're working with so for a PM or for a developer understanding like the limitations and the ways that they work makes me a better designer in in these cases so I think it's um it's really getting into a mindset you know where I don't believe it's a 
+
+[02:07] personal thing and it's not a um an attack on me as a designer on my skills but really um starting from the mindset that we're all trying to make the product better and then going from there um I think it's also important you know when facing that kind of opposition from a developer um in this case to think about or to remember that as a designer I have accountability for the health of the experience of this website 
+
+[02:40] so um you know and despite feeling maybe any kind of inferiority in that in that situation um I think I can draw Confidence from the fact that um there are certain there are certain skills that I have there's certain knowledge that I have as a ux designer that I can communicate clearly and help the developer kind of understand where I'm coming from and why I'm making um The Proposal that I'm making 
+
+[03:11] um and just kind of keeping that in mind that I have ownership of this area just as much as they have ownership of their area um so being able to choose my language when I'm expressing um a different opinion I think is very key always remaining polite but being very firm um about what kind of what boundaries I want to cross with the health of our user experience because in a way I'm an advocate for the 
+
+[03:41] user um in that in that exact situation right um and I think one way to strengthen that uh this part of the conversation I guess is partnering with research so basically strengthening my own argument in that case and saying okay what are what is the existing Telemetry of you know um that could potentially highlight the problem that the design is trying to 
+
+[04:12] solve um and if it's there then that's a great you know tool to to use to for my argument if it isn't there then um you know I could then use relevant examples from other products uh to try and strengthen about that argument but user research results really help to um highlight the suggested solution right and Telemetry helps to highlight the problem 
+
+[04:44] so I can use data and almost speak the same language and say um especially if it's not a technical limitation that's the reason for um the opposition but I can then say um you know as the Telemetry is shown this has been a consistent problem for our users over this amount of time or we've run research on this solution and on other variants of this design and we really feel like this is going to be a step in the best direction for our users 
+
+[05:15] right so I can I can strengthen or buffer my argument with some of those things got it I think I think that uh on top of that um being open to compromise of course is is necessary but really understanding okay if this is a technical limitation then how can we scope down the solution you know to an MVP 
+
+[05:46] version of it you know that maybe get things out quicker um and then make a stand for um more improvements to happen over time and really getting an agreement on on that future iteration um I think it helps to build like negotiation skills and um trust I guess between you me as the designer and uh the developer in this case yeah lastly I 
+
+[06:19] would say you know if all of that doesn't work for me then I think over my experience I've learned to rely on my manager in situations like this so especially if there is no compromise between the developer and something I've struggled with in my career so far are at some point but relying on your manager is not a sign of failure and so when I've done all that I can with Telemetry to highlight the problem and 
+
+[06:49] research to highlight the solution and there's still um disagreement then that's where I can I can pull in my manager because um he has my back where they have my back yeah yeah yeah that makes sense okay thank you so much though I think that was a well-structured breakdown and so I want to ask you first what uh what is your feedback for yourself over here what do you are there any thoughts that you have about the question and the answer that you did yeah if I if I think about it it might 
+
+[07:23] be helpful if I actually give an example so I know the question was um was phrased quite vaguely it just recommendations for improving a website but maybe I could actually set a scene and give an example um and use that to then back that hypothetical to to structure my my question yeah yeah or use an example from like a real real life example as well I think that's fair yeah 
+
+[07:54] um examples are interesting because I think a lot of times in interviews people aren't really sure whether to whether they can or can't give an example sometimes because of intellectual property or just ndas if they've worked on something and they're not allowed to talk about it but I think the alternative that you gave is a good idea that you could just use a real life example maybe something that you haven't worked on but you could draw a hypothetical and say like okay yeah like what if I was working on YouTube and this is something that we were trying to 
+
+[08:24] do it's tough to come up with those on the spot generally speaking in an interview someone might give you an example to work with yeah yeah um and if they don't I think I think the solutions you came up with were good as if you wanted to come up with an example that's a hypothetical I think that's a good way to go um but yeah otherwise my feedback for you is that being okay sorry say that again I think you got that I'm sorry yeah go ahead I was just gonna say I was just gonna say that I see this being a great whiteboarding uh or whiteboard exercise 
+
+[08:56] yeah as well yeah for sure um my feedback for you is I think I really appreciated the structure that you came to the question with it wasn't something that you explicitly called out but it was something that was very easy to follow you started off with here are the reasons that the disagreement Could Happen um and then for each one you kind of dove into it to say well if this happened here's the approach if this happened here's the approach and I was gonna ask a follow-up of um well what if 
+
+[09:27] none of those work and I think you you just beat me to that um you kind of preempted that question and you said well okay and then now let's talk about if none of this works what's the what's the last resort that you have to go to um so I really appreciated that very easy to follow structure and I think that's something that a lot of people could benefit from in their interviews is if you are able to take the interviewer with you on a journey and not require them to ask you follow-ups I think that's fantastic it's 
+
+[09:58] okay if they ask you follow-ups it's not like you've messed up or anything um it's just take that follow-up integrated back into your framework that you had in your mind and take them on the journey from there um so yeah I think that was that was very well done I'm glad to hear yeah that's it's great advice that I've been given as well um before interviews especially starting off the question by repeating or starting off the answer by repeating the question it actually helps even say okay 
+
+[10:28] this is where I'm starting and then this is how I'm going to structure my answer so yeah it resonated yeah yeah absolutely thank you so much so I um oh one last question so yeah what do you think is the skill set that is being um that's being looked for when this question is asked do you have a sense for that and what advice would you give people when they're approaching something like this yeah I think this question is what's really being asked is um how one do you 
+
+[11:01] understand that as a designer you're not just creating things on your own but you're actually working in a an ecosystem of other partners with other disciplines so a PM a developer a researcher so I think um the question that's being asked is what inspiration um experience and that doesn't necessarily mean work experience just your ability to collaborate with with other people what is that like and how do you approach tension in that in that moment and how do you problem solve 
+
+[11:31] collectively um I think that's what's being asked and then also um as a designer when you have an idea of what a solution should be um how are you able to maybe take a step back or pivot um quickly uh you know I think that's probably also what's being what's being asked here those two things yeah yeah that's fair and it's not always going to be smooth sailing you're going to need 
+
+[12:03] to troubleshoot [Laughter] yeah lovely thank you so much though it was wonderful having you here with us and I and I'm sure that this is going to be helpful for people watching at home so good luck with your interviews thanks so much for watching don't forget to hit the like And subscribe buttons below to let us know that this video is valuable for you and of course check out hundreds more videos just like this at try exponent.com 
+
+[12:34] thanks for watching and good luck on your upcoming interview foreign [Music] 

@@ -1,0 +1,26 @@
+# The Psychology of Your Pricing
+Fundy Software Inc. · 5 мин · 183 просмотров · en · https://youtu.be/DCwVOx88YoI
+
+
+
+[00:07] we're going to talk about why your numbers matter we know what we're selling now by understanding our value understanding the problems our clients have and the things that they're looking for but how do we actually price it because here's the thing our clients don't actually care how hard you work they don't care how much you pay for the cost of your album they don't care how much your competition is charging what they really really care is what they're getting and how much it's going to cost them so how you choose and present your 
+
+[00:40] actual prices um matters talking nine nines versus zero zeros at the end of your prices this is this is a hot topic through pretty much the entire sales world and research has been done on this for a very very long time do you sell your prints uh do you sell an album for 999 or do you sell it for a thousand dollars and why are you doing that according to a study done by harvard business review ending in a double or a triple zero conveys a luxury and let's 
+
+[01:13] be fair photography is a luxury nobody needs our service but it sure is nice to have it um but it goes even deeper than that uh the theory behind ending your prices in a nine actually stems from a jc penny study that was done around i think 1906 or 1907 in their stores and they determined that when someone saw a price that ends in a seven or an eight or a nine they seem to be feeling that they were getting a deal and they create this created a feeling of urgency 
+
+[01:44] that then pushed them to buy right then but as the research research expanded over the next couple of years the economist essentially found that if you wanted to be perceived as a luxury good you needed to end your prices in either a five or a zero and if you wanted to be conveyed as a discount good you wanted and wanted to be a deal you wanted to end in that seven eight or nine if you walk into any jewelry store you're gonna see fives and zeros at the end of every single price that's on there whereas if you go 
+
+[02:15] online to like a jewelry wholesaler like guilt group all of their prices end in seven eights and nines in order to convey a sense of discount and urgency just be like oh this is a deal i have to buy it right now the conversion tends to be about 15 to 20 percent higher for lower priced products however uh that only gets to about 200 once it's over 200 dollars that 789 
+
+[02:46] tends to drift off a little bit and the xero tends to have a little bit stronger purchase power customers have also been shown to have a greater loyalty to a brand when they buy a product that ends in a zero or a five they will come back and buy again they feel like they're purchasing something of greater value as opposed to that seven eight or nine feeling that they're getting a discount um so if you're doing it at a price and an end in a nine you can definitely do that uh 
+
+[03:18] if you're having a sale if you want to have a value buyer i recommend that you end your print products or your prices five or zero and i know that's a lot of numbers and math and prince selling psychology and what does that have to do with selling prints but when you're selling a luxury product which prints are like if you're selling a wedding album for example for three thousand dollars or six thousand dollars that is instantly a luxury product and so you don't want to have it be conveyed to be you know the walmart 
+
+[03:51] roll black roll back price of wedding albums you want people to feel like they're getting a luxury product we used to sell all of our albums for nine nines whether it was you know 14.99 for an album or you know 4.99 for a wall canvas as soon as we changed our prices to end in double or triple zeros our sales actually increased on all of those products i was going back through our crm uh as i was building this presentation and 
+
+[04:23] rough math because i'm not a mathematician but rough math it was somewhere around a 46 increase in buying after we changed the prices from nine nines to zero zeros so definitely give it a try in your business if you're currently trying to end in nine nine because you want to you know you don't want to be a five thousand dollar photographer and if you're four nine nine nine people are going to think 4 000 they don't they're going to round up to 5 000 but also you're letting them feel like you they're buying into a 
+
+[04:54] discounted price as opposed to buying into a luxury price they're getting a target handbag instead of a louis vuitton handbag so think about how you're pricing your products and think about the value that you are providing to people and those two things essentially set the foundation to sell more prints and more wall art as time goes on but if you ever want to run a sale in your business now you know what to do throw a nine a seven or an eight on the end of that price and people are gonna 
+
+[05:25] feel urgency and they're gonna feel like they're getting a discount so black friday coming up you wanna do uh you know a big print sale through pick time or something like that drop those nines on all of those prices 

@@ -1,0 +1,26 @@
+# Founders Always Make This One Mistake
+Dana Darr · 5 мин · 24 просмотров · en · https://youtu.be/shZCvZs-4Ro
+
+
+
+[00:00] The root of all evil for founders is over complication. The fewer choices you present to potential customers, the faster they convert. Our brains are silent super computers constantly scanning for the most efficient way to process information to avoid burning extra processing power, our brains are silently making choices for us. And that's why I always stress making the first five minutes in your product, dead simple. For every layer of friction you add to your product, the likelihood of 
+
+[00:32] losing potential customers skyrockets. In this video, I'm showing you how to cut the junk that kills conversions in those critical moments and the psychology behind that. Welcome to the channel. I'm your bald, monotone sensei Dana, here I break down the strategy behind successful products and survival skills for solo founders, so you can build something people actually want, and most importantly pay for. And if your time is extra short check out my three minute newsletter that 
+
+[01:02] sends out a tactical example each week of how to deploy the things we talk about in these videos. I'll have the link below for you to check out. Let's get into it. Think back to starting a new job. You're thrown into the trenches trying to learn an entire business while you're figuring out the role you just signed up for. It's stressful, right? That's a cognitive load building up and boiling over in your brain. Simply put, cognitive load is a mental effort it takes to do something. 
+
+[01:33] Your brain's, a supercomputer, just like I told you, but it silently makes small decisions you're not even aware of, like leaving a landing page because the solution isn't clear quitting and onboarding because it's overloaded. So you bail, or maybe it's just forgetting about the downloaded app because it didn't solve the core problem simply enough, those first five minutes with a potential customer, that's where you need to focus on 
+
+[02:05] those first five minutes with a potential customer. That's where you need to focus on if conversions are killing you the most users. The more users have to think the less likely they are to pay. Researchers found that consumers purchase 10 x more when decisions are limited. Here's the proof in the Journal of Personality and Social. Psychology. Two researchers, testers tested shoppers buying jam. Yes, I'm talking about just straight up jam. 
+
+[02:38] The display with 24 varieties, 3% conversion rate. The display with six varieties, 30% conversion rate. That's a 10 x difference for your product. Go through your most critical flow screen by screen. Ask yourself, how can I limit options? To guide users toward what my business needs them to do. You're not trying to manipulate anyone. You're building habits. Use limited choices to create positive habits that solve users' problems. 
+
+[03:11] Do that and you'll improve your revenue. The answer really is simple, just like it should be for your customers. The less time it takes for users to land their first win, the more hooked they become. That's why AI products are crushing it right now. They handle complexity for users, letting them jump in and get value immediately. Any new product built in the AI era has to deliver value fast or it will die. 
+
+[03:43] Reducing cognitive load isn't about removing features, it's about sequencing them. Instead of, here's everything you can do. Try: here's one thing that solves your problem right now, and then we'll show you what's next. Think about this. It's clarity, motivation, expectation, setting action, simplicity, and time to first win. Increasing early conversions doesn't require complete business overhaul. 
+
+[04:15] Multiple small friction points stack up and multiply across the user journey. What you need to do is deliver small 'aha' moments along the way from casual browsing to paying customer. This gives a mini reset to the mental effort of whoever's using your product. If you wanna see how I review for early conversions, I'm dropping my time to first win rubric with a real example in this week's newsletter. It gives you five easy steps to review your product and turn the first time users into paying customers. 
+
+[04:48] All right, here's your recap. Every extra choice and mental hurdle you add silently kills conversions. Research shows limiting options can increase purchases by up to 10x. The fix isn't removing features, it's sequencing them. Show users the one thing that solves their problem right now. Deliver a quick win and then reveal what's next. Small friction points multiply across the journey, so just focus on making 
+
+[05:19] those first five minutes dead simple. I wrote a breakdown of a real onboarding flow with tiny slices you can remove to get users to their first win quicker and convert them easier. I'm also dropping the time to first win rubric in this Friday's newsletter. The link will be in the description. If you missed last week's video on a manipulation tactic that boosts initial metrics but actually hurts business in the long run, click the video on the screen. Thanks for watching. I'll see you next week. 

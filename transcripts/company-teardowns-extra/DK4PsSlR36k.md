@@ -1,0 +1,46 @@
+# App Critique: Calm (A UX Designer's Perspective)
+paintpops · 10 мин · 3007 просмотров · en · https://youtu.be/DK4PsSlR36k
+
+
+
+[00:00] [Music] welcome back everyone it's margaret aka paint pops it's been a minute since my last video as i needed a break from work and took a brief vacation but that actually segues nicely into today's topic which is reviewing the calm app i mentioned this in a previous video but i try to meditate regularly as a way to declutter my mind each morning now that vacation is over and i'm settling back into a routine i'll be regularly using the app again 
+
+[00:31] for those who don't know calm is a paid meditation app that provides both guided meditations and also soundscapes so let's take a look at how the ux is so the first thing i see when i open the app is the daily calm and it's actually one of the things i use the most often they go over a brief 10-minute meditation that changes each day and it also covers a different topic i imagine calm has different personas for users who might be more beginner meditators versus say advanced meditators 
+
+[01:01] but this could actually be good for both if you're a regular user this helps set you on a daily routine um and if you are a beginner this actually lowers the barrier to entry so you don't have to go digging into the library to look for a guided meditation each day as a lot of that work has actually already been done for you i think the mountain iconography up here is a little vague but it looks interesting so i'm going to tap on it so it looks like i can set a scene which 
+
+[01:33] is essentially like the app background um and also the volume of the ambient noise they have night and day scenes depending on whether or not you have dark mode on your phone but i wonder if actually makes more sense to auto adjust based on your time of day so kind of like what apple already does with their screensavers um i'm not too sure how many people are regularly switching between light mode and dark mode on their phones so 
+
+[02:03] i mean i think of it as kind of a set it and forget it sort of thing i'm also not too sure what play sounds outside the app means and why i can adjust the duration of it the scenes are a nice surprise and delight feature for users who care about customizing the look and feel of their app for something like a meditation app maybe it actually helps set the right mood for them alright now going back again to the home screen as i scroll down i see that there are 
+
+[02:34] different subcategories for content and as a new user it might seem like these are all meditations but i discovered through clicking on them that they aren't some are what they call sleep stories and that's like a narrated story that helps you fall asleep kind of like you know if a parent reads books to kids to help them fall asleep another surprise and delight element that calm introduces to the app is having celebrities narrate these sleep stories sometimes 
+
+[03:04] um kind of like with audio books when i click into see all however it doesn't give me a whole lot of context i think it could help if they include a brief description under each of these subcategories oftentimes new users of an app browse through the home screen before they even start tapping into other sections just to get a sense of what the app is all about diving into the sleep section okay so here i get a better sense of what the app focuses on 
+
+[03:35] and it goes beyond meditation similar to the home screen they've broken it down by subcategories here but there's also an additional layer of navigation at the top that covers broader categories under sleep the hierarchy of this menu up here tells me clearly that if i were to tap into any one of these i will probably end up seeing similar screens with you know sort of these subcategory cards below one thing i wish they moved higher up 
+
+[04:07] are the filters here that says by narrator and all sleep stories um i understand that having the subcategories with pretty cards up top is great for someone who's new to the app and who's you know just discovering this for the very first time but if i'm a regular user and i'm past the whole discovery phase it would be kind of annoying to have to scroll all the way down each time just to see these filters all 
+
+[04:38] right next moving on to the meditate section so this is what i use most often and honestly i mostly use the navigation up top to filter by category and again this main meditate screen seems more for people who are just discovering what the app has to offer versus like regular users for that reason i wish that this top level navigation wasn't a horizontal scroll 
+
+[05:08] because it contains so many choices if someone wanted to regularly listen to meditations on personal growth they would have to scroll all the way right to it each time which causes a lot of friction in the ux maybe if it were only a few menu items the horizontal scroll might be okay but when the list is this long and this lengthy i think i prefer to have it displayed vertically when i click into one of these menu 
+
+[05:38] items i see a bunch of cards that do not seem to be organized in their display in any meaningful sense at first glance however i do like that when i click into them i can see that they've already curated a set of meditations for me chunking content is super helpful and allows users to have kind of like a curriculum based experience that being said i do wish there was some way for me to just filter by narrator or duration kind of like with 
+
+[06:10] workouts there are probably some instructors you gel with more and you know maybe you only have 15 minutes in your schedule to get a meditation in alright so when i go into the music section it looks like i can browse by artist here so i'm not sure why they couldn't have done something similar for meditate i do love the option of having soundscapes though sometimes i find that they talk way too much during the guided meditations especially if they're particularly short 
+
+[06:41] you can also set a timer here to modify the duration and although you know they call it a sleep timer you can actually use it for meditation to help you control how long it goes for um and i use this particular feature pretty often i would love to see a feature where i can play the audio on different bluetooth speakers that i have at home kind of like what spotify already allows you to do um my phone speaker is pretty crappy so you know it'd be great to just be able to play it 
+
+[07:12] elsewhere that gives you a more ambient feeling for example if you have an app that focuses on video it's pretty standard expectation these days to also include an option to cast it to tv and you know just because this is a mobile app that doesn't mean that you have to limit the experience to the confines of the phone on the plus side with soundscapes i find that having these really beautiful photographic thumbnails for the cards does help users quickly scan through you 
+
+[07:43] know kind of the mood that they're looking for and what they can expect to hear based on what they see i actually find the more section to be the most helpful because it has better search functionality so here you can actually type in a keyword and they'll spit back results that are already segmented by meditations music or sleep stories there are also additional content categories here 
+
+[08:14] um though once again i think it would be helpful to have just like a one sentence description under each one because you know it's not super obvious what the spark means now within the settings you can actually change the language of the app which would give you a whole different set of meditations spoken in your chosen language by different instructors all together and i just found that to be really cool so com is available for both iphone and 
+
+[08:45] android users so i really like that they paid extra attention to adding os specific features so here you can see that there's apple health and siri shortcuts in the profile screen you can track your engagement with the app which can be a good motivator to continue your streak since meditating is probably best practice daily um even though you know i've been pretty horrible about that but you know you're also going to see 
+
+[09:16] something like that in language learning apps such as duolingo they like to use the idea of streaks to get users back on the app i know there's you know questionable dark patterns out there that try to get users addicted and you know come back on the app every day but for something like meditation and language learning i do feel like streaks is something that makes sense and are okay because you can't really improve without constant practice 
+
+[09:47] but since the goal of a lot of apps is to increase the average user engagement i'm honestly kind of surprised that all this profile info is not on the home page maybe referrals are more important to the business goals than getting users back on the app every day i don't know let me know in the comments below if you also use a call map and what you think of it from a ux standpoint until next time [Music] bye 
+
+[10:26] [Music] you 

@@ -1,0 +1,28 @@
+# Jony Ive and Marc Newson talk about RED Sotheby's auction on CBS
+insp. mag · 6 мин · 1451 просмотров · en · https://youtu.be/e79XboOhnVI
+
+
+
+[00:00] jony ive and marc newson are two of the biggest names in the world of design this weekend they're teaming up with rock legend bono to auction dozens of items in new york city we sat down with I've and Newson they shared some of the keys to making designs that work but you know simplicity is is so complex in itself I mean you know it really is a full circle I mean you know simply complex to achieve than anything else absolutely i mean you know when you see simplicity you simply don't see all of the hardship that it took together is 
+
+[00:31] healing simplicity it's not an aesthetic style I mean it's not the absence of clutter right I mean that would just be an aesthetic right but I think simplicity is refining and being able to define the very essence of or something does finding the essence and then and and therefore you understand what it is and you understand what it does as apples design chief jony ive has created the distinctive look and feel for products like the ipad ipod and iphone redefining a modern digital age mark 
+
+[01:03] Newsome's industrial designs have graced everything from household items to cars and airplane interiors to separate design forces united in friendship tell me about the kinship in ideas kinship and approach kinship in appreciation can ship in sense of of design and beauty and function one of them in some ways that's that's why we are you know the close friends that we are that we share 
+
+[01:33] the same the same view of the world and the same taste and will relate to the same attribute for aspects of of an object most importantly we really hate the same things yeah how you won't find anything they hate here at Sotheby's together the two friends have curated an impressive collection of items that would be auctioned off on Saturday all the proceeds will go to the red campaign run by their friend and humanitarian bono all of the money from this 
+
+[02:04] to bono's great effort to combat aids in Africa correct that's right all of the items defined the best of what contemporary design is a combination of function and beauty this is an object that has to be designed to such exacting standards that you know person's life relies on how well it's done some of the items they improved on with their impeccable touch and two they designed 
+
+[02:37] together just for the auction this one-of-a-kind like a camera will start at a bid of 500 thousand dollars it's such an iconic piece you know everyone knows that like ur is it such a rich object you know culturally speaking so to sort of address that and there were things about it that frankly speaking I think you know we both thought we could did I want to say do better believe it we could do it in a different way when it's this case I mean you know when we were talking about simplicity I mean so 
+
+[03:07] that there are there are new numerous sort of elements on that but i think what what this does is it communicates so quickly and immediately that it's a camera hmm where does function come in in terms of design and the balance I think it depends what the object is but in most cases of course i think it's a it's a it's a balance you know I don't know I know often you know we will talk about function as if it's in conflict with beauty i but i actually don't think 
+
+[03:37] it is a deleter but don't tell me why you don't think it is and well i mean i think the tribes dutiful object that i think the beauty is in the clear expression or function and they both share the fanatical attention to detail that the late Steve Jobs was known for Steve had a great sense of caring that he knew what went into the inside of a iphone or an ipad and that kind of thing is part of the legend of of the 
+
+[04:10] collaboration between you and Steve you know I think it's just part of a much broader picture and so I think at the highest level it's to try and make something great the only way you can do that is to care you know to an extraordinary level and I think many things then testify to that whether it's how you've you've finished the inside of something how it's assembled right the way through to how you try to communicate its value or how you package it but I think I think certainly one of 
+
+[04:43] the things we feel strongly about an apple is is you know that commitment to care and so trying to make the very best product that we can it is that pursuit of perfection simplicity beauty and function that drives these two in everything they do you just have to try to design great things that stand the test of time you know it's sort of the antithesis of disposability in a way you know if you can design a really truly wonderful object and a lot of the objects that were surrounded by have 
+
+[05:15] stood the test of time which also is one of the things that makes them great i love these guys i mean they are the masters of their world let me just think of the ipod my god they are and and and what Mark has done and the friendship is also I mean we're all friends but those guys have been friends and they met in Tokyo and their story is as interesting as their products so did you get Gail and I something for Christmas there I'm talking to me oh you know I think it's like $500,000 cameras all for how they 
+
+[05:47] can make it more like shoes they can make simplicity look so effortless and what Lena what we know is that's a lot of what what they're doing and it's probable simplicity is the essence of what they do and look how simple this device yeah this one yeah I got it right there yeah Charlotte that's her name you gave her to me 

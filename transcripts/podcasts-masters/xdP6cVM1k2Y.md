@@ -1,0 +1,26 @@
+# Product Design: Everything you need to know about becoming a product designer.
+The Bulb Africa · 5 мин · 25179 просмотров · en · https://youtu.be/xdP6cVM1k2Y
+
+
+
+[00:07] hi my name is and i'm the product design leader at wolf africa what is a product a product is an item or a service that is sold to serve a customer's needs that is it can either solve a problem or help the customer out wherever they have issues who uses a product a product is typically used by people human beings so products are pretty much created for people to help solve problems products can be physical can be digital which is software 
+
+[00:38] mobile applications web applications and whatnot so yeah a product is used by people what is product design product design is the process of creating meaningful products or solutions to help solve a customer's needs simply put what the product designers do product designers are responsible for creating meaningful products to elaborate more on that i would say product designers are responsible for the user experience of a product as a product designer your 
+
+[01:09] goal is to merge business needs and business goals with user goals and cook up a meaningful solution so yeah in summary product designers are responsible for creating meaningful products and meaningful solutions what industry needs product designers product designers are pretty much needed in quite a number of industries we have different types of product designers we have digital product designers we have industrial product designers and quite a number for digital product designers i would say 
+
+[01:40] they are needed in industries where the companies are heavily dependent on software so you need your software to be very easy to understand you know for your users or even for your staff you need a product designer to help you do that so the industries that need product digital product designers are industries that are or companies that are heavily dependent on software what are the processes of designing your products the product design process is pretty much in quite a number of phases and stages and i'll mention quite a few 
+
+[02:10] we have brainstorming this is where you identify a problem and you try to look for ideas or solutions for that problem here people bring up different ideas and you know you just narrow it down to the best one that fits the second stage is user research this is where you try to validate the problem you're trying to solve and understand your user's pain points their goals their needs and whatnot so here you pretty much craft personas that you work with you conduct interviews for you to be able to craft 
+
+[02:41] these personas and yeah you complete your well the research process is not exactly complete but i mean that's a starting point the third the third stage is the point where you are gathering requirements so you've gone through the process of brainstorming validating that there's a problem to solve coming up with your solution now you need to gather the requirements now this is typically done with um products managers product designers and even some engineers as well the fourth stage of the product design 
+
+[03:12] process is wireframing this is where you pretty much take all the requirements that you've gotten and put it in design so here there are different types of wireframes we have low fidelity and high fidelity you can sketch on a paper that's low fidelity higher wireframe you can also go high fidelity and this is where you use a design tool you know to pretty much design an interface you know put in colors and whatnot now the fifth stage i'll talk about is 
+
+[03:43] usability testing now this is when you have designed a couple of screens for whatever problem you're trying to solve and now you need to test it with users with the target audience you are building for what tools are used in product design so um there are quite a number of design software to use to be very honest to design something we have figma we have xd we have sketch we have envision and 
+
+[04:14] quite a number for me i use figma to design also sometimes i can use photoshop if i want to do any image manipulation for maybe website design or i don't know anything i want to use it for but majorly i rely highly on heavily on figma what are the uses of these design tools um you use design tools to design interfaces literally so for figma you use you can use figma to go from low fidelity wireframes to 
+
+[04:46] high fidelity wireframes to prototyping as well so they are pretty much used to design interfaces for people what is next after i become a product designer so there are different phases your career can go in you can choose to narrow it down to becoming a specialist in probably ui design maybe ux design as well because i mean there are two separate separate things they mean two separate things you can also choose to just follow the career path of being a product designer here you become a senior product designer 
+
+[05:17] probably design lead at some point a design manager at some point and for companies that are embracing design now we have vp of design and you know stuff like that yeah so those are the possible career paths i'm sure these have been helpful but there's always more subscribe you 

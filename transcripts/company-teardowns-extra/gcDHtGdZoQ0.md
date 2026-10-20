@@ -1,0 +1,34 @@
+# My Process for App Design, Ideation, & Getting Inspired 🎨 | Software Engineer & UX/UI Designer
+Maisy Leigh · 7 мин · 148726 просмотров · en · https://youtu.be/gcDHtGdZoQ0
+
+
+
+[00:01] [Music] you can't start designing without an idea but where do you get ideas from in my experience by living experiencing the ups and downs of life and hearing other people's life experiences whenever an idea pops into my head i jot them down in my phone and over the years these ideas get revisited refined executed or trashed regardless of the outcome experience is gained in the art of ideating and in the art of understanding people better 
+
+[00:31] so let's say you have an idea now where do you start there is design in everything in life and i like to take note of them and one way that i do that is by appreciating and intentionally seeking out existing beautiful designs for example through all sorts of magazines there's so much attention to detail in magazine layouts from the typography to colors photography and the white space i love finding the little details and brainstorming of ways to incorporate those things into my own designs 
+
+[01:07] [Music] when i find designs that i am inspired by i use my ipad to take notes on the different design elements that i want to remember in this example i'm in love with how the creators interplayed a handwriting styled font with a bold sans-serif font i think that the two complement each other really well and give a minimal yet warm and approachable feeling [Music] 
+
+[01:38] in this next example i am taking note of how the creators used different font weights to draw attention to different points they do it in a way that isn't overbearing and they still keep it clean and simple separating details in different columns i can go on and on about the different details that i'm inspired by in different magazines but i hope that you get some sort of idea of what goes on in my mind during these kinds of sessions 
+
+[02:09] it's actually fun to just sit down and jot random thoughts that i might be having about a particular design because i'll never know when those thoughts might come in handy in the future so other than magazines where else do i source design inspiration i love browsing dribble for example for different ui design inspiration and i love how i can search for specific designs that i might be looking to reference there's so many talented designers out there and there's always so much to learn and improve on 
+
+[02:45] i also love browsing popular apps in the app store because not only do i have access to so many designs here but i'm also able to read app reviews from users digesting the user feedback is very helpful when designing my own app because i know what things to include and what elements to stay away from the best part of referencing popular apps is that i can actually tangibly experience them myself there's something different about judging an app design as a wireframe 
+
+[03:17] versus a working application sometimes things on a wireframe might look perfect but in practice it can be absolutely terrible playing with different ui interactions on my device allows me to test these things for myself and make my own judgments [Music] now that i have all of this inspiration what i like to do is create a mood board in figma creating mood boards allows you as the designer to start getting a feel for the design direction that you want to take 
+
+[03:48] in my opinion i think one of the most important parts of an amazing design is that unique feeling that you create when a user experiences your app this is something that you can completely make your own other apps can always solve the same problem that you're trying to solve they can have the same intentions functionalities and goals as your app but your app's design and feeling is something that others cannot replicate [Music] on figma i create a new page dedicated 
+
+[04:20] towards the design elements that i have saved and noted i arrange them in a digestible aesthetic way and proceed to write further observations about them but this time i consider how these design elements come into play in my own wireframes it helps to write down the pros and cons of the different designs you're looking at you'll have some feedback to work off from [Music] after looking at my mood board i start 
+
+[04:51] to get an idea of a color palette in typography style that i want to go for there are so many color palette tools on the internet some of them generate color palettes for you that you can just switch and play to your liking but for my particular app i am sticking with a warm gray neutrals palette this is one of my favorite color palettes to design with because it instantly makes my designs feel warm and cozy which is my favorite feeling [Music] 
+
+[05:23] pairing this color with my chosen font futura will give a minimal and clean yet welcoming and warm aesthetic and i think it fits really well with the targeted audience and the use case for this application that i'm designing so with all those things combined i start playing around with design ideas that i have incorporating the many points that i wrote down in my mood board design is all about iteration nothing is perfect just like in life but it's all about how 
+
+[05:55] you respond to feedback user research and trends in the industry [Music] my design isn't even close to done but i know that taking these steps makes me way further ahead than i was if i had never started by the way this is a sneak peek of the app that i am building i don't want to show too much of it yet hey if you made it to the end of this 
+
+[06:26] video i just wanted to say thank you so much for watching all of it i hope that this video inspires at least one person out there to just go for the thing that you always wanted to do or learn the thing you always wanted to learn you know life is always going to have curveballs thrown at you and there's never going to be that perfect tool or that perfect piece of equipment or the perfect time in life to just start doing things and everything will be magically better it's about your hard working spirit 
+
+[06:56] your passion and what you want to accomplish in life and with that positive mindset you'll be able to do anything you know i taught myself how to design from scratch and i didn't have any mentors when i was learning if you like this video please give this video a thumbs up it helps me gauge what content people like to see out there and please subscribe and turn on notifications on for updates on my future videos and lastly comment down below what your design process is or what creative stuff you like to do 
+
+[07:27] i love to connect with designers creators or entrepreneurs from all over the world and i would love to spark more of that conversation follow me on instagram if you want to get to know me more details are in the description thank you so much again talk to you next time you 

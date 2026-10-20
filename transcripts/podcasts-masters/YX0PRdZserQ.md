@@ -1,0 +1,30 @@
+# 3 Ways To Ace a Designer Interview for a Design Job
+Pierluigi Giglio · 6 мин · 173 просмотров · en · https://youtu.be/YX0PRdZserQ
+
+
+
+[00:00] nailing design interviews can be tricky and in this video i want to share with you some of the advice and the lessons which i learned from being a designer for over eight years now and also interviewing many different designers so essentially the very first thing that i wanted to convey is don't overthink too much at the interview ideally should be a friendly conversation between two individuals who are simply looking to solve a problem uh each one so so essentially you're there because you 
+
+[00:30] want to have this conversation and understand if you can add value in exchange of money of course and they want to understand on their part if you can deliver that value and specifically those things which they are requiring because sometimes it's all about just fine you can get the perfect alignment and the right fit for that job so this would be the first thing that you need to consider when it comes to the mindset and you shouldn't really focus on it as 
+
+[01:03] uh something which you know is scarce because you can find the endless opportunities to hop on a design interview so the opportunities are definitely out there it's even if a design interview doesn't go well don't take it personally because a lot of the times it's just a matter of finding that alignment now with that out of the way let's get started with the very first step now needless to say you're going to discuss your projects and you're going to need to prepare for 
+
+[01:33] that specifically so you wanted to have a portfolio at hand so bring your mac or your computer with you so with your portfolio website available or social media profile where you have your portfolio available and be ready to show it again to the potential employer and also be ready to discuss through the individual projects one by one and with special emphasis on the problem solving elements which already mentioned in the 
+
+[02:05] previous video so you want to identify why you had that problem in the first place that basically asked you to create that design solution and what was the end solution and how you got there essentially now another advice that i have for you is to test the company's product before you go to the interview especially if there are a sas company or a company which has a web app you definitely want to check out that web app 
+
+[02:36] prior the interview because there's nothing more awkward than having them ask you a question such as what do you think about the product or do you have any questions about a specific part of the flow of the product and you have no clue what the product even is about especially if it's one of those products that you can sign up for free definitely do that have a look around and have a basic understanding you don't need to become an expert of the product prior the 
+
+[03:07] interview that's not what i'm saying but even just having a 5-10 minute overview of the product is going to really help you out and that is not only because you need to be a good kid and do your due diligence but it's simply because you want to understand more about the product and the company that you're eventually going to work with and you might want to ask questions as to you know the workflow or the product itself so this is actually something 
+
+[03:38] which is more for you than for them now another advice which i have and i shouldn't really say this but i've seen so many designers that didn't really compel to this and that is to be punctual so you don't want to arrive later at an interview that's a big no no and even though you might be a great designer you have a lot of experience yada yada if you're not punctual that's not going to give a positive first impression to 
+
+[04:10] the interviewer so definitely consider this and be punctual at your interview also another piece of advice is to have your resume with you since this is something that you might be asked during the interview process and the way i actually use my resume because i'm not being asked for it all that often these days but sometimes especially in corporate companies i noticed this trend they still want the resume and what they do is i basically go on linkedin and i 
+
+[04:41] selected the save as pdf of my entire profile since my linkedin profile is essentially my cv so the moment i do that i have a physical pdf which i can also print and hand out as a resume and it takes me two seconds and i never have to design a resume these days ever since linkedin template is good enough for the job it's not the most amazing design out there i know that you can become more creative with the design but it's definitely 
+
+[05:12] enough in my opinion and it won't hinder any opportunity to get the job done and you're going to save a lot of time now on a final note i want you to be authentic and honest again you're at the interview because you want deliver value in exchange of money but the main thing is to just be honest and authentic with what your skills are and especially at what you're not good at and this this is something which is going to really be helpful because the 
+
+[05:45] other person is going to understand this and if you're the right fit because it's going to be awkward if you tell them that for example you're willing to do html css and javascript code and then you go on the job in the first day you're required to do that and you don't really know how to do it or maybe you don't have that level of experience which is needed for the job so you definitely want to keep it honest and authentic and again there's endless opportunities out there 
+
+[06:16] for having a design interview so don't necessarily feel the pressure that i absolutely have to have have to get this uh this job or uh this project because otherwise you know i'm screwed that's not going to be the case at all so definitely keep it in mind there's millions and millions of companies which are requiring design services these days so keep it chill keep it authentic and honest and you'll be good 

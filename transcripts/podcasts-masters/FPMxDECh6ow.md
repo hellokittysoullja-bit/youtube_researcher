@@ -1,0 +1,24 @@
+# Let's Talk About Zines and Why You Should Make One
+Greg Kletsel · 4 мин · 1058023 просмотров · en · https://youtu.be/FPMxDECh6ow
+
+
+
+[00:03] [Music] hey my name is greg letzel and on this channel we talk about sketchbooks and illustration and making things and zines today we're talking about zines zines are a huge part of my life they are a huge part of my illustration career and illustration practice i love zines i love making scenes and i'm hopefully gonna convince you to make your own zine but first what is a zine a zine is a self-published book it's like a little self-published 
+
+[00:35] magazine it's short for magazine it's so somewhere between a book and a magazine it could be about politics activism art fanzines pop culture history cooking writing literature poetry it really could be about anything you want and that's the beauty of zeans you just make something and then it exists people can make them in their rooms print them from a printer staple fold get your friends over buy some pizza magazines together people love to get something that's handmade and physical you know we live in a digital world now and you just consume it 
+
+[01:06] swipe swipe swipe it's very temporary you know someone works super hard on something and then you just consume it really quick and then it's gone but with a zine it's something that's you know physical you can have like a little zine collection put it on your coffee table on your toilet shelf thing it's a thing that you have forever and it's pretty cool and if you don't have it forever that's okay because it's just like a little silly handmade book that someone spent their life working on these are labors of love these are things that people care so much about and they want 
+
+[01:37] to share their little corner of the world with you they want to communicate something about their life their experiences their passions their ideas with you you can share your particular story your own unique voice and experiences with your audience this scene is called conceptual bar mitzvah video and it's about my bar mitzvah or a bar mitzvah from 1997 which is kind of like my bar mitzvah it's a whole exploration about bar mitzvah video tapes in the 80s and 90s 
+
+[02:08] and that's like a pretty specific part of my story growing up it says a lot about who i am it's me sharing that with others to say like hey this is like part of my world this bar mitzvah world you know it could just start as just like a little idea that you share on your instagram there's some potential in that idea and it's like oh i could see this as a series and then you make another image and then you make another image and you say oh this seems like a little collection and you can put it together into a little book takes you on a journey the cover and then the inside cover and then the title 
+
+[02:39] page could have text it could have no text it could be a collage slap together thing there's like a trash zine that mark todd and esther pro watson make they just take all the scraps from their studio staple it together and then it's a one-of-a-kind book there's like original drawings in there and i have that scene and it's like i have a little piece of their world these artists that i really love i have this one-of-a-kind art object that's amazing that's a scene yeah so it's total creative freedom it's whatever you want it to be do it yourself diy do you know how cool 
+
+[03:11] it is to just do something yourself and not need permission slap it together with a bunch of stuff that you have available to you whatever it is and then share it with people that's the whole principle behind the zine printed at the local kinkos fedex what is it now copy shop photocopy it's like make it rain but with paper like not money paper do it for fun break even make it as cheaply as possible make it as affordable as 
+
+[03:42] possible these are accessible let's say make 100 copies and then give them away sell them make a little website put it on your etsy shop once you've made it you get to learn something about yourself through doing it and that's something to take with you into the next project into the next piece of work you make it's been like a year and a half since i made my last scene and it's like i can feel it it's like i want to make the next one and i want to make the next one in this video i'm barely scratching the surface of what zines are all about their significance in the culture and their history and the 
+
+[04:13] myriad ways that a zine can take shape and how to make it and all of that i'm hopefully going to make more videos about making zines in the future because there's a lot to say about it and i'll show you how i make my zines step by step process from beginning to end i'll say one more thing about zines just don't worry it's a book you made and then it's here see do this instead magazine do this instead of something else why why not magazine 
+
+[04:46] bye 

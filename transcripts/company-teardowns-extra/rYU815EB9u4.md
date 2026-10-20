@@ -1,0 +1,22 @@
+# Headspace Meditation App
+Nicholas Peter Urgero · 5 мин · 97 просмотров · en · https://youtu.be/rYU815EB9u4
+
+
+
+[00:10] hey everyone this is nicholas peter eugeral and as i previously stated in my other videos i wanted to show you guys the headspace application it's for ios and for android it helps with guided meditation and it also has a bunch of other features and so just to start off i wanted to just play this quick video 44 seconds let's just see how this goes [Music] 
+
+[01:15] see it has um exercise routines that you can do and there's like the free version and then you can also pay to get a lot of the stuff that's locked but like the guided meditation i've done it's really really good i've done one of the workouts the exercises the mindfulness workouts it's i thought that was really good and beneficial definitely was sweating and feeling really good um yeah it's got yeah it helps with meditation with sleep with stress 
+
+[01:45] mindfulness um things that help you focus obviously like the move mode which has the different exercises that you can choose like clear intentions stress meditation i came to learn and to hear some stories i came to learn that the storyline in my head was holding me back headspace provides me with a connection to myself and a disconnection from negative thoughts feelings and sensations changing my thoughts has allowed me to 
+
+[02:17] change my life i now go to a place where i was previously afraid to go inward to myself headspace has allowed me to simply be present with my patience and not stuck in my emotions andy's guidance helped me to understand the functioning of the mind yeah and andy is like one of the males that does the guiding meditation and he was he's really good i like him a lot um so you can just see about that's just do have space for work 
+
+[02:47] your team is at the heart of your success support their health and happiness with headspace for work our award-winning research-backed app has hundreds of meditations on everything from stress to sleep to focus and anxiety headspace for work has what you need to launch headspace promote mindfulness and measure the impact customer service team provides guidance and tools so you and your employees get the most out of headspace after reading the employee feedback on headspace we knew it was the right choice for us with headspace we're able to provide an on-demand approachable solution to 
+
+[03:18] support our employees well-being in a way that works for them yeah because then they can choose whatever they want to do for their particular moment and however they're feeling 30 days of headspace lower stress by 32 in just four sessions reduces burnout by fourteen percent four weeks of headspace can increase focus by fourteen percent and just a single session cuts mind wandering by twenty two percent three weeks of headspace shows twenty one percent more compassionate behavior in cuts aggression and reactivity to negative feedback by 57 
+
+[03:51] yeah i don't like general mills and all that stuff but uh yeah i've i've had good experiences with this app obviously you can try it out for free i i had downloaded it and i was using it and there's no like screen saying like hey give us your credit card information it's only up to you if you want to pay for that after using it if you feel like it's it's worth the value so i just wanted to do this really quick video i don't want to make it too long i just wanted to show you guys this just you uh have an idea of what it is i'll 
+
+[04:22] obviously have the links to both i'll have just the website so that you can just go on your phone and do that or obviously i'll do the app stores too just to make it easier for you guys but as always i really appreciate you guys watching really means the world to me and i hope that we can continue to grow and and learn and become better people uh continue to have integrity work through our our traumas uh do the shadow work face uncomfortable emotions uh deal with 
+
+[04:52] uh mistakes that you've made in in the recent past don't shame yourself yeah we just gotta just work on ourselves first and foremost because otherwise we're not gonna be able to change the world with the way that we wanna see it because if we're still traumatized we're not gonna create anything else but some other form of trauma so as always i appreciate you guys watching god bless all of you and take care 

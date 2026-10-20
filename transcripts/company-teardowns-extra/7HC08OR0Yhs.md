@@ -1,0 +1,44 @@
+# I Rejected 90% of UX Portfolios—Here's the Case Study Formula That Works
+aspira design · 10 мин · 19259 просмотров · en · https://youtu.be/7HC08OR0Yhs
+
+
+
+[00:00] I rejected a candidate last week. Beautiful portfolio, clean UI, good typography, nice color balance, but her case study, it was just screenshots with descriptions. There is no story, there is no thinking, no decisions, no trade-offs. That's the problem with the 90% of the portfolios I review. I'm Rambal, I have reviewed over 10,000 plus UX portfolios in the last 6 years, and at Aspera, I run a 3-day career 
+
+[00:31] intensive where I teach one thing that changes everything. How to write a case study that actually gets you interviews. They get 3x more interview calls. Not because they suddenly become better designers, because they finally show recruiters how they think. And today, I'm going to teach you that exact formula. Chapter 1. Why most case studies fail. The screenshot gallery problem. Let me show you what I see in nine out of 10 
+
+[01:02] portfolios. A typical case study, project title, one paragraph about the company, 15 to 20 beautiful screens, some wireframes, the app improved user experience, end. That is not a case study, that is a screenshot gallery. And when a recruiter sees this, they scroll for 30 seconds. They think, "Nice UI." And then they move on. Because you gave them the zero reason to interview you. So, what recruiters actually want? So, 
+
+[01:32] recruiters are not evaluating your aesthetics first. So, they are asking, one, can you think like a designer? So, do you understand the problems? Do you connect insights to solutions? Can you justify the decisions? Two, can you work in a real team? Do you understand the constraints? Did you collaborate? Can you handle the feedbacks? Can you able to iterate or did you iterate? Three, do 
+
+[02:02] you understand the business? What changed because of your design? Did metrics improve? Did user behavior shift? Your screenshot gallery answers that none of these. The formula I am about to teach answers all of them. Chapter two, the Aspera case study formula. So, this is a exact seven-part framework I teach inside our career intensive. When students restructure even one case study using this, interview calls change. So, let's break 
+
+[02:34] it down. Part one, the hook. So, start with the problem, not the project. So, I designed a food delivery app for XYZ. This is a very bad example. This is a good one. Users were abandoning the checkout 68% of the time because the payment flow had seven steps and forced re-entry of address details. See the difference. One is very generic, one [clears throat] shows the pain plus data plus clarity. So, in the first two to three lines, I want to know what broke, 
+
+[03:06] why did it matter, what was at stake. So, if you can't answer that, you don't have a case study, you have a UI exercise. Part two, context and constraints. Real designers don't work in ideal conditions. So, you have to show the timeline, two-week sprint, our team structure, one product manager, two developers, one designer, the platform, Android first, budget or research limitations, technical constraints. Why 
+
+[03:37] this matters? These constraints are proving that you are the matured one. So, when I worked on a prepaid card system that later become a 300 million plus business, we had a brutal constraints. So, six weeks a deadline, 16 different user types, integrations with the multiple banking systems. Constraints forced better thinking. So, recruiters respect the designers who think within the limits. Part three, research and discovery. So, this is where most junior designers lose 
+
+[04:09] interviews. They either skip the research or they show competitive screenshots with arrows. So, that is not a research. So, you need to show the method, insights, impact on design. So, I can tell you some example. So, conducted eight interviews with the users who abandoned the checkout. Analyzed 1,200 session heat maps. Then you have to show the synthesis. Users were in leaving due to the price. They were leaving because they couldn't edit their cart after the payment section. 
+
+[04:42] So, that insight changed the design direction. So, research should change the thinking. If it didn't, it is decoration. Part four, ideation and design process. Show the messy middle. So, include early sketches, multiple directions, what you rejected, why you rejected it. So, framework before single page checkout. So, during you have to showcase though user testing showed cognitive overload. After split into 
+
+[05:13] three-step flow with the progress indicator. So, this process shows the adaptation. So, recruiters don't hire the perfection, they hire the thinking. Part five, the solution. So, now you can show the beautiful UI, but annotate it. So, example annotations, persistent cart reduces memory load. So, green CTA chosen to reinforce the good positive association. One-tap reorder based on the 78% repeat 
+
+[05:44] behavior. So, every screen should answer, why does this exist? So, beauty without a reasoning is decoration. Part six, impact and results. This separates average from serious designers. If real data exists, abandonment dropped from 68% to 34%. Average order value increased to rupees 240. So, task success improved 60%. If concept project use testing data or 
+
+[06:14] projections. So, recruiters think did this work? If you answer with the numbers, you are ahead of 95%. Part seven, learnings and next steps. So, this shows the growth. You need to include what you had to do differently, what you misjudged, what you had to test next. So, I'm going to share one small example. I started wireframing before finishing the research. It caused entire rework. So, that honesty builds that trust. Self-awareness is very rare. So, 
+
+[06:44] now here is something most students ignore. A great case study should not just be structured well. It should be visible. So, at Aspera, when students finish their case study rewrite, we publish approved work on our public Behance profile. That profile has a 2 million plus project views, 1.6 lakhs plus appreciations. So, 12K plus followers. So, far two UI award-winning student projects. So, why does this matter? Because recruiters, 
+
+[07:16] they trust the platforms before they trust the resumes. When your case study is structured well, presented clearly, and published in high-visibility platforms or the environments, you are not invisible anymore. Structure gives the clarity, visibility gives the leverage. There is a big difference. Chapter three, the formula in action. Let me show you the real transformation. So, Arun from Chennai, he did the eight projects, beautiful UI, zero interviews 
+
+[07:46] in three months. So, we helped him to rewrite one case study using this seven-part framework. Same screens, new structure, clear problem, clear research, clear decisions, clear impact, clear learnings. Result, six interview calls in two weeks. Three offers. Same designer, different storytelling. So, that is the power of the structure. Chapter four, common mistakes. Mistake number one, too much text. Number two, 
+
+[08:17] generic phrases. Three, only showing success. Four, no narrative arc. Five, writing for designers instead of the recruiters. Recruiters don't care about your Figma plugins. They care about can you think, can you communicate, can you create an impact? Here is the truth, your UI might be stunning, your type photography might be perfect, your spacing might be flawless, but if you can't tell the story of why it exists, 
+
+[08:48] what problem it solved, what changed because of it, so recruiters have no reason to call you. They are not a hiring pixel pushers, they are hiring the problem solvers who can design. And the case study is your proof. So, here is what I want you to do. Pick one case study, rewrite it using the seven-part formula. Remove the screenshots without thinking. Add clarity, add numbers, add reflections, track what happens to your 
+
+[09:19] interview calls. Now, if you want to go deeper into how recruiters decide in 30 seconds, why most portfolios fail silently, what a realistic six to nine-month UX transition looks like, and how to build visibility instead of invisibility, watch the free orientation session. It's not a sales pitch, no urgency, no discounts, just clarity. [music] After watching, if you still have doubts, join my live UX career decision Q&A. No slides, no pressure, parents are 
+
+[09:52] welcome. And if you want a personal guidance about your portfolio, message our team on WhatsApp. So, you can ask your questions if this path fits you, we will guide you. If not, that is completely okay because in 2026, clarity beats the confidence, structure beats the talent, storytelling beats the screenshots. I'm Rambal, I will see you inside. 

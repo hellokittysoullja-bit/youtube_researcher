@@ -1,0 +1,32 @@
+# App Critique UX/UI Design | ASOS | Homescreen deep dive | PART 1/5
+ZeroToDesign · 6 мин · 766 просмотров · en · https://youtu.be/a-9DCB7DnwY
+
+
+
+[00:00] your audio cut out a few times actually that dj is really weird even so you agreed with my point so yeah yeah it's just better when we can't hear you it's just easier to agree with you [Laughter] i'm not sure you're finding it funny enough zacky so today we have our first guest on the show welcome juana thank you very much in fact you're most welcome 
+
+[00:32] some of you may be familiar with juana's voice from our podcast yes annoying today we're going to be taking a look at online fashion app asos in a special multi-part episode yep we're going to be buying me some brand new clothes and we'll be digging a little bit deeper into the app today to give you a real flavor of what a design critique looks like let's jump in 
+
+[01:03] stunning 1.1 million ratings 4.8 stars editor's choice as well so it's got a special badge there does that just mean they paid apple for that badge let's head over to the app oh okay that is so sick yes we're into notifications very engaging start the video does not just get you excited i got excited seeing that first thing that is cool you don't see that a lot right it's quite unique interesting that they start simply by asking you a question of women or men oh is that what you looked at i'm 
+
+[01:33] still i'm still looking at the videos the videos are so cool the thing is you don't know that it's a fashion app it's kind of people having fun that's actually very true it just seems quite enjoyable yeah yeah like i said i got excited by it yeah i definitely got excited by the fact that some of the videos aren't actually full screen and they create a unnecessary blur in the background because we've got a guest on it's only fitting let's go with women agreed app update search just got better 
+
+[02:07] do you think they really needed to tell me this in a fat screen wow i mean depends how much of improvement they've made i'd imagine it'd be quite a big one it says now you can easily go back to your previous searches with the filters still applied okay that is like saved searches which is quite cool yeah i guess if you're a returning user though this is useful if not if you just downloaded the app for the first time it seems a bit much to see this when you have no idea even how to search in the first place yeah could this not be shown maybe when you've started searching or if you've done a search with multiple filters 
+
+[02:39] it's quite relevant at that point but obviously i'm assuming they don't have my technical skills to filter out the customers by a new customer an existing customer and they've just really challenged the devs i'm sure our pm will love that like you you say this isn't feasible right now and all i hear are the words right now we know that the search has gotten better that's great i'm gonna say okay thanks and go on well before we get started on the buying actually i'd just like to talk about these two things up at the 
+
+[03:10] top you see premiere delivery and the and the sale is that highlighted to you quite quickly because for me i was just like i felt they were quite addy i have used the asos app and in my kind of mental model i do remember those two areas you know being used for their sales or promotion so i personally might just skip those yeah i haven't used it in a while but that that those two came out first and i was like i'll probably peruse through it maybe read through it but i definitely got struck by those two first so it's interesting how for a new user and i would say i'm a new user now because i haven't used it in such a long 
+
+[03:41] time those two things were important but for dj as a returning user into this yeah i think one thing that you definitely need now is uh a top because even if we're not going out on holiday or partying sadly in covid we are still on video calls what's wrong with my current hub it's just a lose-lose situation you want to do something nice oh my dresses suck is that right just a minute i just i just thought you 
+
+[04:11] could add to the collection that's all i really like the use of copy that they have because usually like you know fashion websites have like dresses tops shoes whereas their sections especially on the home screen are like a lot more creative and i like the sub um the descriptions as well which are not again like super creative and they try to be funny and original let's browse let's look a bit more copy let's keep scrolling down dj you 
+
+[04:41] mentioned one thing earlier that talked about what could be in right now i think with face coverings right like they're they're on trend i assume they've ordered it you know based on what's popular i'm just wondering if it's worthwhile categorizing some of these two things like what's hot what's new summer trends like a new trend kind of thing if that makes sense i know they've got it in the title a little bit with new makeup but almost as like a different type of layout i quite like this one yeah i mean it's much more traditional i think to 
+
+[05:13] have typical categories like you say you know what's popular what's new these kind of things but like you said i think i like what they've done here it's a bit different when they've just shown you that right i don't know if you need to have the the higher level of the categories and show the category but just actually show me what things i would like to click on what else is there scroll down look at the copy again wanna pull intentions nice i don't know if i'm a fan of the typography here like there's just it feels like just 
+
+[05:44] this part of the screen is like five different styles it feels a bit much and with the imagery and colors i just yeah it feels like a bit much to me yeah if you look at this green one for more ways to pay it looks like the top line is one style with icon logos the second line is bold and the bottom line is like ultra thin all in one container it just feels like pick and mix ui 
+
+[06:14] shove them all in all sorts the coloring is interesting because i don't know how readable that is that kind of pinky red and purple accessibility police okay let's get one or a top a cute little top that ties it all together all right i am excited and scared at the same time it's really clean really really clean why is it clean what does clean mean to you it's minimal from an icon perspective to 
+
+[06:47] me 
