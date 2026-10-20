@@ -1,0 +1,26 @@
+# Animal Crossing New Horizons: A HIDDEN FEATURE (How To Unlock Sable's Patterns at the Able Sisters)
+Mayor Mori · 5 мин · 162302 просмотров · en · https://youtu.be/hsw-hA0XnMQ
+
+
+
+[00:00] hey YouTube welcome back to a brand new animal crossing new horizons video today we are taking a look at Sabres hidden feature in New Horizons and how to unlock it so without further ado let's get straight into today's video so as you know Animal Crossing New Horizons has a number of features built into the game that sometimes it doesn't even tell you about we literally have to play until someone discovers it or stumble across it by accident one of these 
+
+[00:32] features involves the able sisters of course Mabel the youngest of the sisters starts out by visiting our New Horizons island randomly like any other special character but after purchasing items from her on three different visits she'll eventually suggest moving here permanently and opening up the able sisters building if you've been playing for some time you're probably already at this stage and visit the able sister store regularly it's once the able sisters is built we finally meet sable for the first time she's the oldest of 
+
+[01:03] the three able sisters who quietly sits at a sewing machine working super hard and minding her own business if you talk to her you don't really get much of a response but it turns out if you make the effort every day she'll open up to you over time and eventually become much more friendly sharing childhood stories and tales from when the sisters were younger you may have already heard of you anyway speaking with sable is the key to unlocking a hidden feature if you introduce yourself and continue to speak with sable for 11 days 
+
+[01:34] she'll gift you some exclusive patterns she's been working on these patterns can then be used to customize certain furniture items like beds or sofas or pretty much any furniture item that has some form of fabric on it the reason this is so exclusive is because the game doesn't tell you about these and it's the only way to access her pattern so it's pretty cool once the feature is unlocked sable will continue to hand out new patterns every day currently there are ten sets of patterns to obtain each including 20 unique desires totaling 200 
+
+[02:07] patterns these include the polkadot print the striped the checkered one the checkered to the traditional one the traditional to the retro the natural the toys and finally the cool patterns despite sable physically handing them to you when you get them they go straight into your memory don't worry they don't take up any space in our inventories or 
+
+[02:39] in our personal patterns spaces to use these patterns you have to head to a crafting bench and either craft a piece of furniture like a bed all have one ready in your inventory then of course is as simple as customizing the design using a customization kit at the crafting bench you'll know you have some sable patterns available when you see the little square icon on the customization screen then it's a case of choosing one of Sables patterns you like and making it in total if you consider 
+
+[03:09] the eleven days it takes speaking with sable and then the 10 days it takes to receive each of her pattern sets is going to take around three weeks to unlock all the patterns available it's these kind of hidden goals that really makes animal cross and so awesome now to debunk a myth quickly it doesn't matter if you skip a day and forget to speak with sable many guides specifically state you need to speak with sable eleven days consecutively or in a row but this is not the case you just need to speak with her on eleven different days to unlock this feature you are 
+
+[03:42] raising Sables friendship level much like other villages and speaking with her increases that by one each day and as we know unlike past games avoiding animals or not speaking with them doesn't decrease their friendship level so that's really useful if like me is taking two months to talk to eleven times anyway unless I'm missing something I still find it absolutely crazy that this game doesn't tell you this is something you can work towards just imagine what other undiscovered features could be hiding in new horizons 
+
+[04:12] so there we have it that's everything you need to know about Sables hidden feature and how to unlock her patterns but what do you think about this feature do you like unlocking new patterns or is it something you don't really bothered about let us know in the comments anyway for now that pretty much wraps up this video if you're an animal question fan don't forget to subscribe to it if miss out on any new horizons news until then I'd like to give a special thank you to this channel's patreon supporters as well as this channels members you guys absolutely Rock don't forget to head over to our discourse over to and of 
+
+[04:43] course if you've got this far in the video please comment sable just let me know you did that would be super awesome and please be sure to include which pattern set is your favorite and why I'd love to know anyway I hope you enjoyed this video and found it entertaining please be sure to leave a like if you did thanks for watching I have an amazing day stay safe and I'll see you in my next video peace [Music] 
+
+[05:15] you [Music] 

@@ -1,0 +1,40 @@
+# How to focus on on work that matters (Forest App Review)
+Mister Itchon · 8 мин · 218 просмотров · en · https://youtu.be/h_GWLsyZgmo
+
+
+
+[00:00] are you a student in high school or college and you need to study for a test or work on a big project are you an entrepreneur that needs to get your business off of the ground are you a writer trying to get that next article out by the deadline are you a photographer that wants to be more efficient with your client work do you simply want to set aside time to read or learn a new skill if so have you ever gotten distracted to the point where not much gets done oh wait hold up i got a 
+
+[00:31] text [Music] you know what i might as well check espn real quick to see which games are on tonight [Music] oh hold up lebron did what i need to do my research on youtube [Music] you know what while i'm here i might as well check out this recommended video how do they know five hours later okay so where was i again oh yeah lebron terrible acting skills aside 
+
+[01:02] has that ever happened to you where you had the best intentions to focus but one slight distraction led to another and you went down that rabbit hole of procrastination and never came out in the age of the internet and our smartphones it's more difficult than ever to just sit down and focus on work that matters to you by giving in to just one drifting thought you can easily get derailed and end up wasting a ton of time what has helped me has been to schedule 
+
+[01:33] time for what cal newport calls deep work simply to find it's the ability to focus without distraction on a cognitively demanding task to start first identify how much time you're committed to spending on this work is it 30 minutes an hour several hours then figure out how often you want to work on it is it daily only on weekdays it's through the concept called time blocking where you make a commitment to 
+
+[02:04] only focus on the task at hand and nothing else you're setting up an appointment with yourself that you can't be late to or miss this video creating stuff is hard so i have blocked out at least an hour on weekdays to work on it during the school year it would be before my workout from five to six am but over the summer it's been after my workout from eight to nine am if i'm clicking on all cylinders i'll work past the hour but even in moments where i'm completely unmotivated 
+
+[02:36] i will put in the hour anyways i'm not creating because inspiration strikes i'm creating because i made a commitment to create on tuesday at 8 00 am when you have the mentality of working when you feel like it you'll end up sabotaging yourself by making all sorts of excuses not to get the work done and you won't get much accomplished the game changer for me that i wish i used in high school and college has been the pomodoro technique which is 
+
+[03:07] a technique that allows you to be efficient with your deep work time i found it to be extremely beneficial with helping me focus on completing personal and professional projects and practicing my art skills the pomodoro technique is a time management method developed by francesco cerrillo in the late 1980s the technique uses a timer to break down work into intervals or what he calls pomodoros pomodoro is italian for tomato and is 
+
+[03:37] based off of the tomato shaped kitchen timer that he used as a university student each pomodoro is usually 25 minutes in length followed by a short five minute break after four pomodoros you can then take a longer 30 minute break why 25 minutes it's not too long to where you want to drift off and do something else and not too short where you don't have much time to get meaningful work done you're welcome to experiment with shorter or longer time intervals 
+
+[04:09] based on your current ability to focus to break it down into workout terms it's like doing a hit workout as opposed to a marathon where you work in short bursts and rest instead of working at a steady pace for hours this technique allows you to stay fresh and make the most out of your focused time instead of a long drawn-out work session where you get distracted throughout and your attention and energy starts fading towards the end 
+
+[04:39] using this technique over the years i've realized that while it can be super difficult i can get a ton of work done within 25 minutes when i'm laser focused on what i'm doing now there are a ton of pomodoro timer apps out there and you can use the timer app on your phone i've tried several myself but my app of choice that has stuck with me has been the forest app as of the recording of this video the app is two dollars but it's the best investment you'll ever make because it gamifies 
+
+[05:10] your study sessions all you have to do is set the timer to the length of time you want to work and get your work done while watching your plant grow the key feature is that the moment you try going on social media or another distracting app you'll get a pop-up notification asking you if you want to kill your tree so it holds you accountable for focusing on the task at hand instead of being constantly distracted if you choose to stop working before the timer is over 
+
+[05:41] you can press the give up button which basically kills your tree you can get coins after successful study sessions which you can use to buy more plant species or different ambient music to play in the background you can also include motivational messages that will cycle throughout your session to inspire you to keep plugging along what's also cool is that you can track data on your study time by how many trees you've planted for the day week month and even year to give you an 
+
+[06:13] idea of just how big of a nerd i am i started using it in 2018 and have been using it ever since since the most important thing is to just start forest has a new stopwatch feature that you can use where you would need to work for at least 10 minutes in order for your tree to grow and for you to stop i have found myself using the stopwatch at the beginning of my sessions to get in the mood and just get started [Music] 
+
+[06:43] did you know that if you get interrupted it takes about 25 minutes to get back to the original task with that said it's crucial to minimize or eliminate all potential distractions during my deep work sessions it's essential that i have my wireless noise cancelling headphones with my spotify playlist best instrumentals on shuffle this playlist consists of lo-fi hip-hop beats without lyrics that help set the mood and get me in the zone if others are 
+
+[07:16] around it hopefully will signal to them not to bother you well at least until you finish your pomodoro if your mind wanders off to other thoughts and ideas have a piece of paper on hand or use your favorite note-taking app to jot down those random ideas and shift your mind back to the work i personally use onenote and have docked it to the side of my computer to where if an important thought comes up during my timer that i don't want to forget i write it down there be consistent with 
+
+[07:48] the duration of your breaks the issue i have is that after the 25 minutes or so i have a tendency to overdo the length of my breaks which kills my momentum to help with that i simply set a separate timer on my watch which goes off after 5 minutes and i don't turn off the buzzing on my watch until i start the timer for my next pomodoro if you're in the zone and clicking on all cylinders by all means keep working past the 25 minute mark until the inspiration runs out 
+
+[08:20] the cool part about the forest app is that if you work beyond the timer it will track the additional time as well you may find that your deep work may go on for longer than you thought for those of you who are productivity nerds like me what strategies or techniques have you found helpful to get work done also let me know if you've tried any of these strategies and how they've worked for you with that said what are you waiting for get to work [Music] 
+
+[08:52] peace you 

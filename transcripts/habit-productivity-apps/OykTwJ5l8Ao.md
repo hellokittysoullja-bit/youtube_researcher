@@ -1,0 +1,36 @@
+# Gamify Your Life | A Quick Look at Habitica
+the Trandumonium Channel · 8 мин · 1005 просмотров · en · https://youtu.be/OykTwJ5l8Ao
+
+
+
+[00:00] [Music] [Applause] [Music] welcome back to the VAT bad Zak Channel today we're taking a look at a bodega my new favorite app for gamifying your life we're not gonna waste any time gonna dive right in and give you guys a quick overview of using the app on your mobile device so the first tab we're taking a look at is the habits tab and on the habits tab you'll be able to practice 
+
+[00:31] building new habits and each time you practice one of those habits you get to click that little plus symbol which will add experience points in-game money and other potential rewards now off to the right hand side you'll probably recognize there's a little minus symbol you can choose to have that available so if you skip performing or practicing that new habit you hit that minus symbol and your character loses and health its 
+
+[01:02] detrimental the next tab to look at is the Daly's tab these are tasks that repeat each and every day that you want to see completed and it's the same concept you complete the tasks you gain experience points you gain money which you can use in-game to purchase items etc etc etc the to dues tab are items they're tasks that need to be completed but they don't repeat on a daily basis you can set a deadline for each task if you'd like and you can even set it so 
+
+[01:34] that if you don't complete that task by the deadline it is detrimental to your character it actually causes damage your character will lose health so it's always good to utilize this list to make sure you're getting things done but it kind of holds you accountable because it will hurt your character if you don't finish the task another great feature of the - duze section is the fact that you can break each to do into multiple chunks so let's say that you want to organize your closet you can separate 
+
+[02:05] that into separate pieces and say okay these are the steps that I need to complete in order to see back to do you done the reward stamp is something I'm still trying to figure out I think that you can earn each of these rewards or at the very least you can find items that will unlock these rewards for you so still something pretty cool something to take a look at for yourself since I'm not gonna be the biggest help in helping you understand it but that's a brief 
+
+[02:37] glimpse at some of the items that you can work towards over in the right hand corner I have pinned an item that I would like to work towards which is a steampunk suit type thing as I think is just awesome and I geeked out when I saw it this is your menu tab here you have your inbox tavern party guilds challenges shops customization options equipment items pets mouth subscription 
+
+[03:09] options basically anything you can think of relating to the game you're gonna find right here this is a fantastic hub for your habitable experience from what I can tell the tavern is somewhat of a forum slash chat for everyone who is taking part in the have it occur experience so it's kind of fun to go in there I haven't done a whole lot of interacting in the tavern yet but from what I can see there are people just 
+
+[03:41] being friendly and cordial with one another as well as people asking questions about in-game items or challenges and things like that and having them answered by other players or admins the party tab is probably one of the places that I'm most excited about within the app of a bit occur because you can put together your own team of people to take on quests the kicker is let's say that you've got items that you 
+
+[04:12] need to accomplish within a day if your team is taking on a challenge if you don't complete that item it could have a negative effect on your teammates you hold each other accountable knowing that by not taking part you're being a detriment to your team yes Vedika also has guilds and this is so much fun each guild has its own unique style its own unique members all you need to do is 
+
+[04:43] click the join button off to the right-hand side there depending on what it is that you'd like to be a part of I joined the ADHD years guild because that's what I'm about right now and there are challenges that have been created by the advent of those guild guilds for the players and it's the same concept complete a challenge again experience points it's pretty awesome the challenges portion of the app is simply going to show you what challenges you've undertaken and what tasks need to 
+
+[05:14] be completed within those challenges to see the challenge completely completed of course you gain experience points for completing each challenge for completing its task so it feeds right into strengthening your character building your stats and thus preparing you to go on quests now I'm not going to go into every single portion of these the pretty self-explanatory shops you can have a handful of shops where you can purchase various types of items to affect your 
+
+[05:45] character in game customize your avatar obviously you can customize your avatar equipment you can check you and check your equipments and equip it items it'll show you what items you have available for use however we are going to take a look at the pet section because I really think this is a lot of fun the pets you have various different types and you can unlock different pets by hatching eggs using hatching potions eggs you acquire as you complete tasks some level up etc 
+
+[06:16] etc and depending on the potion you use will depend on the type of pet that you acquire you can raise these pets to become mount's I think I haven't fully researched ideas I don't quote that on me but I know that you can also purchase or unlock quests that will earn you certain types of amounts the games subscription portion is somewhat foggy to me but my guess is is that you 
+
+[06:47] subscribe using one of these levels and it earns you some perks you can buy gems with gold you get exclusive monthly items retain additional his history entries and your daily drops are doubled so some perks there I don't know if that interests anyone it doesn't interest me right now I'm just kind of doing the free version but it might in the future guys thanks so much for jumping in with me to learn about habiddig I I'm genuinely enjoying the experience and it 
+
+[07:18] really does give me a sense of reward as I'm going throughout my day practicing habits checking things off my to-do list I mean the fact that I'm a gigantic nerd and grew up on these types of video games really just makes it feel nostalgic so if that's you if this is something that you think you might enjoy I encourage you to download the habiddig a p-- you can visit the habiddig a website as well they have a web browser 
+
+[07:52] version which I use while I'm at work when I'm away from my desk I'll pick pull out my phone and use that remember every day this month releasing a new video for vlogmas and then after the start of the new year will be doing one video a week we're really gonna be digging into some quality content for you then I look forward to seeing you again soon deuces [Music] 

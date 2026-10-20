@@ -1,0 +1,20 @@
+# MANTENHA O FOCO COM ESSE APP | Forest
+Beatriz Cavalcanti · 4 мин · 12620 просмотров · pt · https://youtu.be/6CklczUITJQ
+
+
+
+[00:00] Oi e aí pessoal tudo bem meu nome é Bia e hoje eu trouxe uma dica de aplicativo para vocês e se você se considera uma pessoa que fica procrastinando muito tempo do seu dia esse aplicativo é o ideal para você é o aplicativo chamado Forest ep ele é uma forma de game ficar o seu dia alguém ficar o seu tempo e assim você consegue ser muito mais produtivo porque você consegue focar no que você tá fazendo e não começar uma coisa pegar os para fazer pegar outra não levanta ficou inteiro sentado então 
+
+[00:31] ótimo aplicativo e eu vou mostrar um pouquinho de like para vocês só para vocês terem uma ideia de como funciona até porque é um aplicativo pago então eu mostrando aqui para vocês como ele funciona Pode ser que fica convença a comprar e adquirir ele e esse daqui é o ícone do aplicativo isso aqui na App Store eu não sei se tem para Android eu acho que tem sim mas eu não tenho certeza nome dele na Apple Store tá Forest Mantenha o foco e sem o principal ponto desse aplicativo é a questão do foco logo que você abra o 
+
+[01:02] aplicativo você vai encontrar uma Arvorezinha e um cronômetro esse cronômetro serve para você marcar o quanto de tempo que você quer se manter focado em alguma coisa então por exemplo aqui no meu tá 25 minutos se eu for girando esse cronômetro nessa bolinha verde o tempo ele vai aumentando Então vamos supor que eu queira ficar 60 minutos ou seja uma hora focado em alguma atividade algum trabalho que eu tenho que fazer eu vou lá coloco 60 e a parte plantar e durante esse tempo eu vou fazendo as minhas coisas do meu 
+
+[01:33] trabalho e Arvorezinha vai crescendo e terminando o cronômetro a hora que dizer a ela vai ter crescido e ela vai ficar plantada na minha Floresta o que eu acho mais legal desse aplicativo é que no final das contas e até perceber quanto tempo que você tem trabalhado de uma forma produtiva então por exemplo eu costumo fazer assim eu coloco 25 segundos bem cinco minutos e Beleza Fico 25 minutos fazendo alguma coisa depois de 25 minutos eu levanto o beber uma água fazer alguma coisa durante cinco minutos depois eu volto 
+
+[02:03] falou com mais 25 minutos nisso eu vou criando vou plantando várias árvores vizinhas e o legal desse aplicativo aqui no final das contas você consegue por meio dessas árvores linhas dessa gameficação de tempo você consegue perceber Qual foi o tempo total que você se Manteve focado no mês no dia na semana isso é muito interessante para quem trabalha principalmente em casa que às vezes não consegue conciliar trabalho vida pessoal rotina então o aplicativo ele ajuda bastante para isso uma coisa muito legal também que é o que eu mais gosto e eu indico muito se você vai 
+
+[02:35] comprar esse aplicativo é usar o modo foco Total esse modo é muito legal porque a partir do momento que você ativa ele realmente vai fazer com que você tem um foco Total ou se a gente veio o Tempo começou a correr se no meio desse tempo eu saí do aplicativo e for fazer outra coisa automaticamente a minha Arvorezinha morre eu vou ficar na minha Floresta com uma Arvorezinha morta o que não é legal porque para você conseguir remover essa Arvorezinha morta você precisa de moedas e você só consegue moedas quando você consegue 
+
+[03:07] plantar árvores vivas enfim pessoal Essa foi a dica de hoje esse aplicativo forte que é super bonitinho e é uma ótima maneira da gente ver como é que a gente está sendo produtivo e até mesmo focar melhor você pode usar também não só para o seu trabalho mas como por exemplo para ler um livro ou para treinar então Toda vez que você for ler um livro e você ativa você quer ler 25 minutos ativa vai ler hora que você voltar você vai ter plantado uma árvore e você vai ter ficado focado sem por cento só na sua leitura eu espero muito que você tenha 
+
+[03:37] gostado desse vídeo e se você gostou não deixa de se inscrever aqui curtir comentar compartilhar e lá no meu Instagram robô Beatriz Cavalcante O que é isso pessoal grande beijo e tchau tchau E aí e agora vou plantar mais uma Arvorezinha E aí 

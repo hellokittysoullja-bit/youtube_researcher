@@ -1,0 +1,28 @@
+# Game core loop explained
+Nikhil Malankar · 5 мин · 855 просмотров · en · https://youtu.be/GkUB53D9b-I
+
+
+
+[00:00] Hello friends, welcome back to my YouTube channel. In this video, I'm going to explain to you what a core loop is in a video game. But before I do that, let me play an iconic clip from an iconic game. Can I ever tell you what the definition of insanity is? Insanity is doing the exact same [ __ ] thing over and over again, expecting [ __ ] to change. That is crazy. And exactly like that, 
+
+[00:31] every game has a core loop that you like to do over and over again. That's basically insanity as explained by was and this is a popular report by Einstein. But that is what a game score loop is. It is an activity that you enjoy doing over and over again. Take for example any game out there. There is that one piece of activity that you like to enjoy doing over and over again. For example, subway surfers. In subway surfers, you move left, right, up and 
+
+[01:03] down and keep on collecting points and power-ups. That's the core loop of subway surfers. Take for example Need for Speed going from point A to point B or you know participating in circuit races. That's basically all you do. You essentially have to come first, second or third. That is the winning spot. Then take for example Grand Theft Auto. In Grand Theft Auto, you go from point A to point B in cars and shoot people. That is the core loop. That is the most fun aspect of a game to play. Now, this is 
+
+[01:33] actually the most difficult to get right because if you don't have a fun enough core loop, then you don't have a fun game. And popular game developers understand this very, very well. Making a game is not just about writing code or putting art assets together. It is about finding the right balance of fun which is extremely extremely important as well as difficult to get right now. Not everyone can make fun games. Even if you can make a video game, it doesn't guarantee that that game is going to be 
+
+[02:04] fun or not. That gets decided by the audience. That gets decided by the people who play that game. And that is the reason why at the very beginning when you don't even have any fancy graphics, you need to test out this core loop and you need to get it right. Because if you don't get that core loop right, then no matter how much fancy graphics you have, no matter how interesting or intricate story line you have, none of it will matter without a proper fun game play. Yes, you heard that right. Even a gripping story line 
+
+[02:34] will not save your game if it's a boring game. All right. So that is the reason why the most important aspect for a game to be very fun to play is its core loop which is also determined by its game design. Now game design when I talk about game design, it is nothing to do with the artwork of a game. It is essentially how you can come up with unique mechanics, unique activities that the player will like to do over and over again. And that is what will keep the players engaged and retained inside your 
+
+[03:05] game. And this is the reason why if you want to identify how to make your game fun to play, you need to play a lot of games. You need to consume a lot of games. You need to understand what are the various different mechanics that give joy to the player. It is very much a psychological science that you do when you're making a game. It is about bringing joy to the player, bringing emotions, you know, not just joy, it can be a wide range of emotions. Like for example, take Last of Us. Last of Us was an extremely emotional game. It kept the 
+
+[03:36] players invested in its entire journey and it kept the players hooked. Um, I can also talk about Render Redemption 2's ending. I was so invested in Arthur Morgan's story line that it really struck a chord in my heart towards that character and I felt a rush of emotions. So, you know, when it comes to a core loop that is also defined by all these other external factors. Now there is also one more concept of meta. Let me explain to you what a meta is. Okay. Now 
+
+[04:07] we understood what a core loop is. That is an activity that the player likes to do over and over again repeatedly. Meta basically amplifies the core loop. Now core loop essentially keeps you invested inside the game. But meta is what brings variety to your game. Take for example subway surfers. Now the core activity in subway surfers is running left and right and dodging the incoming obstacles. Uh the meta inside of that game is the upgrades. How effectively you are able to lengthen the duration of the magnets 
+
+[04:37] or you know u different different skins and customization options. That is the meta which keeps players engaged with more and more content. So if you run out of the core loop and there is nothing more to add to the table that is where game developers rely on meta to lengthen the interest of the player inside the game. Uh now there are different types of categories of games as well like for example hyper casual games they do not focus on meta at all. They only focus on the core loop but casual games or 
+
+[05:08] midcore games or even hardcore games rely heavily on these metas so that they can add more and more depth to their games. So that is in a sense the entire concept of a core loop. Again repeating it is basically very much like insanity. It's to do the same thing over and over again to derive joy from it. All right, so I hope this is super useful. I hope you guys learned something new from this video. If you did, hit the like button. I'm a game developer by profession and I keep making videos around games and game 
+
+[05:39] development. So that's it for this video. I'll see you in my next one. Until then, take care. 

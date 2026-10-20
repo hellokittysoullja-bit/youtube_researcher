@@ -1,0 +1,26 @@
+# Dos and Don’ts in Designing Chatbots by Tudor Teisanu  | 4th Webinar by ShoutOUT
+ShoutOUT · 5 мин · 70 просмотров · en · https://youtu.be/rZh4kL5TIn0
+
+
+
+[00:00] our fewer do's and dont's I never know how to write this so I wrote it in all the ways I know this is based on my learnings and the tests I've been through so make sure that you take the basic principles and then test it on your own Chadwell platforms the biggest advantage I see in them is that there should be easy to roll out to a large amount of people targeted and data-driven and then you will be able to iterate as quickly as quicker than any 
+
+[00:30] other product as I said before don't create billboards shuffle if I'm pronouncing it correctly almost every button opens a webview and that might work for their users maybe I'm wrong but in my opinion we shouldn't create a chatbot that does that you should also try to provide some native experience and use the web views as a support and that's what the Facebook guidelines say as well and wiper guidelines that whether it should be your support and I think Twitter as well 
+
+[01:03] keep it simple all throughout the books and not just in the beginning because nobody likes a monologue right if you look at the one on the left if you need to read that much text to do anything then you need to redefine the scope of your chat wall right and obviously people are just gonna write a few words or a word right but then make sure that you mix long and short messages don't just show super long messages all the 
+
+[01:35] time otherwise gets boring really quickly don't explain very six buttons were invented way before chat BOTS so instead of saying select this say select size because that's what actually you're going to select it right and we're building these for the future four year-olds use tablets now and they are the children generally are super use of technology to to voice commands and the moment they reach adulthood they will be expecting something totally different so 
+
+[02:06] we have to think in advance explain the input format this is important as well so in this case I was trying to order some flowers right and you see on the screen on the right it just becomes a guessing game because I don't know how I'm supposed to write my phone number so I kept writing it and everywhere I knew I just needed an example and that that should that would have been enough I talked about this a lot before news data 
+
+[02:36] keep it contextual I think it's really interesting there are some chat button and Facebook that try to mix it up a bit so for example you have an audio message on the left because you I can listen to the word of the day which was a nice experience and on the right I really liked how they used emojis to select the food type it's not amazing but it's a small it's a micro interaction almost that is delightful enough to make me remember that thought right and mixing all these texts with a few images and a 
+
+[03:07] few other interactions keep it natural so when you do that research and figure out that people are used to using an app look why are they using an app what did they like in the app and it doesn't mean that you have to bring everything in but for example comparison works best in a top to bottom list where you see the prices on the right or on the left right what we used to do is to put everything that you can buy in carousels but we found out during research that people have a hard time comparing them because 
+
+[03:38] they have to slide through each one so Facebook has this component and viber as well with a list if I'm not wrong and then you can just use it and this was again the input format and this was a short more fair-minded you just need to write how many things you need from people you need to let them know in advance because you don't have any other visual way of communicating that right and how they need to write stuff down I 
+
+[04:11] always get annoying the moment you type in something and it doesn't work you get frustrated right and don't be too I wanted to find an example here but I couldn't find it anymore but in this case for example you keep getting the same error message it would be nice if they mixed their response based on the same action so the action is still that they don't understand the input but they could have a mix of different responses to keep it more fluid recover from 
+
+[04:42] errors just as important as everything else may let make sure that people know what to do next right so example on the Left I'm given option I'm given options on what to do next which is good maybe a bit long example in the middle and they actually use a field real agents to talk to me another example on the right it tells me what to do and what happened but it tells me to chat with a human friend but I have no idea how to check with the human frame 
+
+[05:13] and make it memorable and I think this is the last one it's really important to create an emotional bond with the chat bot so you want to make it as human-like then we have to make it memorable so the one on the left as a bot from fiber with Golden State Warriors and I think they really customize it and it really shows and it really shows the value it brings right and the emojis on the right 

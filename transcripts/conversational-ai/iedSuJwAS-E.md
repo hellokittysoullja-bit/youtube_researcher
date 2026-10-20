@@ -1,0 +1,34 @@
+# What is Conversation Design? | Conversation Designer
+Conversation Design Institute · 7 мин · 4814 просмотров · en · https://youtu.be/iedSuJwAS-E
+
+
+
+[00:00] [Music] hello world conversational Academy so in this video we're going to talk about what is conversation design you signed up for the course so you have some understanding of it but we really want to talk about what this role is in a conversational team the learning goal of this video is to really understand what conversation design is and what the conversation designer does so do you know who this is this is mafe and she's 
+
+[00:32] a character on the TV show called Westworld and Westworld takes place in the near future and Westworld is a fantasy Park where people go and they interact with robots and these robots are hosts in the park so mafe is actually a robot and she seduces people that come to the park but she's also very obedient and serves them if we look at the bot landscape for both voice assistants and chatbots there is a great 
+
+[01:03] similarity between the two because we can use chat Bots and voice assistants for customer service but also for sales and persuasion what's also great is that you see the combination of artificial intelligence and actually writing dialogue and that combination is also very relevant for the chatbot and voice assistant industry as it is today so what you see in this whole ecosystem is that we can use chat Bots and voice 
+
+[01:33] assistant for service and sales and that there's always a combination of artificial intelligence and writing dialogues designing conversations so this image is from the movie Her it's also a movie that takes place in the near future it's about a guide that buys an OS and you know he builds a relationship with that with that voice assistant so Decap involved in a great relationship together and what this movie shows is that in the near future 
+
+[02:06] humans and Bots are going to be living closer together and you're going to be working together and doing all kinds of things together so what that means is that I have to learn to communicate and that's what the conversation designer helps with he helps Ai and humans to communicate and that's an important role so conversation designers make chat thoughts and voice assistants more helpful natural and persuasive when they talk to users 
+
+[02:36] when you have a conversation between robots and humans then there's two things that stand out one has an artificial brain and the other one has a human brain and they both need something else to function so a robot brain an artificial brain needs structured data so it needs to understand intents and context and entities and variables and natural language understanding a subset of artificial intelligence helps 
+
+[03:07] him do this so it turns natural language you know the way that humans speak and it processes that and it translates that to structured data that the robot can then understand that triggers something in the robot and then it can respond but humans have a different brain and they need something else to function they need empathy helpfulness persuasiveness sometimes a pet on the back so when we design conversations and we write the dialogue we want to make sure 
+
+[03:38] that the text that we write sort of adhere to that functioning of the human brain so a conversation designer needs to understand the limitations and capabilities of both artificial and the human brain so as a conversation designer we need to understand technology psychology and copywriting so as a conversation designer you're going to learn a lot of micro skills and learn certain methods that's going to help you perform and 
+
+[04:09] create better experiences so let's talk about where conversation design is needed we've already mentioned two important ones we can use them for chat Bots and chat Bots can be used Anywhere Customer Service is an obvious one but you can also use them for sales and persuasion you can use chat Bots to make people fill in a form uh or you can use chat bots in your HR department where people can ask questions about him how many holidays they still have 
+
+[04:39] conversation design is also crucial for making Voice assistance sound a bit more natural so the Google Assistant Alexa and who knows what's coming out in the next few years but for everything voice related you're gonna need a conversation designer to create a good experience for the users but it doesn't stop with chat Bots or voice assistants you can easily imagine robots keeping Lonely People company or maybe greeting you in the hotel lobby 
+
+[05:11] there's so many applications for AI and Robotics and every time they interact with a human you're going to need a conversation designer to make that experience a bit more natural and a bit more friendly but conversation design is going to change over time as well so what we're doing today will definitely change in the next few years when AI gets smarter and more important so when you look at chat Bots most use cases right now you're just going to be 
+
+[05:43] making frequently asked questions a bit more conversational but as the market matures we're going to be creating more transactional dialogues so instead of just asking a question we're going to help users actually do stuff like order a pizza or change an address or book a hotel room so we're going to be integrating with back-end systems that's going to make the dialogues a bit longer and a bit more trickier to design and the next step is conversational AI so 
+
+[06:13] when there's more AI involved in conversational AI then the role of the conversation designer really changes so right now I would say that about 10 of conversation design is AI and 90 is you actually writing the dialogue eventually that balance is going to shift so a few years from now maybe 50 percent of the interaction will be AI driven and 50 of it will be written by you so what that 
+
+[06:44] means is you're not going to be writing all the dialogues but you're also going to be setting and designing the parameters within which AI can operate so conversation design is a really exciting field humans and Bots are going to be living together and they're going to learn how to communicate with each other and right now you're going to be a conversation designer you're going to be writing lots of dialogue but you're going to be very close to all development in artificial intelligence and conversational experiences so we 
+
+[07:16] don't know exactly what the role of the conversation designer is going to look like five years from now but we do know that's going to be a very important role so let's sum up conversation design is really about making an artificial brain communicate with the human brain and we're going to be using copywriting techniques for that so we're going to be learning about technology psychology and copywriting I'll see you in the next class [Music] 

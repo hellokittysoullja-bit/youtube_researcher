@@ -1,0 +1,24 @@
+# Cyborg Anthropologist Amber Case: Our Old Technology Will Survive the Future
+Galactic Public Archives · 4 мин · 115 просмотров · en · https://youtu.be/8n5rzEDmono
+
+
+
+[00:04] every time there's like a new technology like vr or ar which is old it's from the 60s it's not even new um we think the whole world is going to be replaced with it now we have bitcoin everything's going to become bitcoin place it's like well we have credit cards not everything's a credit card some is digital some is physical we still pay our taxes with a check maybe you know we still have cash we still have bartering it's just one new way of working with the future no i completely agree i can't i can't i mean it's untold 
+
+[00:35] amount of headlines every the headlines are you know are books dead or books it's not even our books dead books are dead oh end of cable end of this it's always i mean i think this is the media's fault really i mean it's like an all-or-nothing thing i mean it's the same thing in terms of you know i mean maybe it's a sort of leftover of capitalism or really just how we think of either predators or or or um friends maybe maybe 
+
+[01:06] it's that but it really is like when something's it's there's no oh we can have both there'll be some books some magazines it is this very and i i wonder if is it sort of evolutionary or is it just sort of the media trying to sell faith so uh typically it's the media trying to sell papers that kind of science journalism sorry that kind of journalism works oh will the e-reader destroy all books obviously not look at all the books behind you books physical books are a way to 
+
+[01:36] immortality are you going to bring your kindle reader to like an off-the-grid trip now you're going to bring a physical book maybe you'll even bring a sketchbook oh will digital sketching replace all physical sketching no all the best architects and designers i know do something they always do something on paper or they go on a walk in the forest and when they come back they write it down and then use the computer as a tool to get them to their goal so i think what we've done i think in science fiction and the media is we have conflated 
+
+[02:06] technology to this higher level outside of nature and we've said okay the origin of humans and technology was just it's a tool it works alongside you then you have larger scale technologies like the cotton gin or any of these manchester machines for child slave labor right to make textiles right and and aside from making great music because there's a lot of discontent you know that that led to a lot of a lot of death because it was basically harnessing people at scale so then we 
+
+[02:38] learned how to harness people at scale in a nicer way by having social media where you can just be changed into that machine and do all the work for social media but i think there's this idea of that technology is separate from humans and i think that's where we get the issue we get terminator we get robocop we get the aesthetics of innovation that it needs to look big and needs to look shiny and then we get all these unusable annoying pieces of technology that interrupt us whereas we look at a hammer and a hammer 
+
+[03:08] hasn't really changed in two million years it does the same thing and when you're looking at like a skilled person in a profession a hammer is just an extension of their their ability and they kind of change based on the tools that they use you know like a gamer uses tools to make money right they're professional gamers in south korea and all over the place um but they look a certain way they look almost like race car drivers they've got their like logos and everything they can only work maybe until they're 25 because their hand-eye coordination and 
+
+[03:39] their speed goes away and then you have to work as a coach after that you know you've got a short lifespan they're athletes wait a second they're not physically moving oh they are physically moving because it all comes back to like the physical sense like everything we're doing is still rooted in the physical world and so when we think that technology is separate from us and that somehow it doesn't have to do with time you know upload your brain into a box is the other form of immortality it's like upload your brain into a book by writing a book it's a pretty effective form of 
+
+[04:09] immortality make a family trust make uh have a house for three generations you know there's there's ways to do it that we've we've used for immortality for many many years um i like to read all these early retirement blogs and podcasts and my main question through researching them is what do people do after they have enough what do they work on they work on immortality on some level don't they when they have 
+
+[04:41] all this money and they have all this wealth they want to actually have people remember them in some ways 

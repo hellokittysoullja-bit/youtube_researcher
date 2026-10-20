@@ -19,6 +19,12 @@
 - [ ] push в youtube_researcher после каждой волны
 
 ## Находки для продукта (вне задачи, предложить отдельно)
-- iOS: navigator.vibrate не работает → хаптики на iPhone нет; обход через <input type="switch"> (iOS 18+), риск что Apple закроет
+- iOS: navigator.vibrate не работает → хаптики на iPhone нет; обход через <input type="switch"> (iOS 18+), риск что Apple закроет; проверить, работает ли программный клик вне жеста (hapticReward идёт из setTimeout 850мс)
+- ПРОВЕРЕНО: hapticLandmark/hapticRare нигде не вызываются; reveal-island.tsx:78 всегда hapticReward() — редкая находка неотличима на ощупь
+- ПРОВЕРЕНО: hapticStart на отправку реплики/тап по чипу (companion-chat.tsx:645,799) — хаптика на тап, против CLAUDE.md §4
+- hapticDone одинаков для конца сессии и «скопировано» (chat-bubble.tsx:148); hapticThreshold один для пикера и порога жеста; нет выключателя вибрации
+- лендинг: <title>/OG («не даст тебе слиться» — звучит как надзор) расходится с H1 («Начать — самое трудное. Я прихожу первым»); соцдоказательства нет — честный вариант: живой фрагмент продукта, потом одна реальная цифра
+- спор: данные behavioral-design в пользу более короткого старта новичку, чем дефолт «25 мин рекомендуем»
+- промпты api/companion|breakdown|session-voice: рецепт против дрейфа (бриф+non-goals, плохо/хорошо/идеально, самопроверка) — podcasts-masters
 - drag-to-reply: обнаруживаемость жеста (ux-principles_03, JFirvnAVmtc)
 - Tiimo (App of the Year 2025) — ближайший аналог, разобрать (zNU6DHHlq6U)

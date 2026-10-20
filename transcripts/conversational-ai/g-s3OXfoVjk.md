@@ -1,0 +1,26 @@
+# ChatGPT and Conversation Design – do Conversation Designers still have a job 3 years from now?
+Conversation Design Institute · 5 мин · 673 просмотров · en · https://youtu.be/g-s3OXfoVjk
+
+
+
+[00:01] well hello there lately there has only been one question that people ask me and it's do I still have a job is conversation design still a thing will I have a job in the future or is that job going to change over time we're going to talk about all of that at conversation design Festival the impact of large language models on the conversational ey community and conversation design in particular in particular I think it way to think about it is that currently 
+
+[00:32] people are creating the experiences people are creating conversational experiences and they are being supported by technology and I think what we see now with large language models getting better and smarter that they're going to increase productivity of the people that are actually creating the experiences so people are still in the driver's seat but over time that might very well change over time the large language models the generative AI might actually 
+
+[01:03] be creating the experiences that people have when they reach out to a brand but that doesn't mean that the human is out of the loop CU even though the human is now Drive in the driver's seat and creating the experience when the AI starts creating experience people are going to be you know supporting the AI and they're going to be doing quality assurance and making sure that it aligns with their tone of voice and Benchmark it against design patterns that they want to use so there's still a job for you out there and I think it's going to get more and more exciting and we've 
+
+[01:35] always embraced this at CDI you know algorithms need parents too and you're going to be a parent of these new technologies so what are some of the ways that you can use this stuff to already increase your productivity well here are a few things that that we've been doing at CDI um just to play around with it and have some fun but you could ask chat GPT to write a happy path for a certain scenario or you know maybe you'd ask it 
+
+[02:05] you know what could a conversation about this topic be like you know WR you know simulate a conversation or maybe I have a Persona a tone of voice and I'm just not entirely sure or I want to make it come to life I could ask the system to write a biography write a one-page biography or what are some of the Hobbies this person person might have or how might they say something all right so I can create a backstory for a 
+
+[02:36] Persona and use that to create more depth and and get inspired by it um something that comes up a lot and it comes with a warning as well you can use this to create training phrases you can say you know what are 20 different ways that people can order pizza and you'll get 20 phrases that you could use to train an intent but is this really how your audience speaks that's the first question um and more importantly this system chat GPT has no 
+
+[03:10] idea about the rest of your Corpus so if it gives you these phrases you can just throw them in there because they might be competing with other intents that are in your Corpus right so don't just blindly throw that stuff in there be very careful when you do that same goes for entities right if I have entities I can use this to create variations and synonyms for those different entities makes it easier for me to extract that when people talk um and variations also kind of neat right if I have people that 
+
+[03:42] reach out to my AI assistant more frequently whether it's a chatbot or a voice application I don't want to greet them the same way every day so if I have you know a welcoming phrase I can ask the system to create some variations on that or you know when at the end of a conversation when We Say Goodbye maybe want some variations there so we can use large language models to create some variety and and you know use some of that stuff in our design work and of 
+
+[04:13] course when you're really bored or you know you staring at the blank page and you don't know what to do you're not sure how to uh answer certain question or or write a prompt you can ask it to write you a prompt and a lot of times that problem makes no sense you know if you try five to 10 times you're going to get something that you can work with that you can then rewrite polish make sure it follows all the design patterns that you care for um and then kind of do 
+
+[04:44] it that way so definitely lots of ways that you can large use large language models already uh to increase your productivity as a conversation designer but be be careful like don't just jump in water and and commit fully right see where where you know see what's possible start studying it start embracing it and then when the time comes to to really put this stuff in production you'll be ready so conversation design Festival we're going to talk about this Alan from razza is going to be talking about it 
+
+[05:15] Brett canel is going to be talking about generative AI in some of our workshops we have people focusing on this and zooming in it so I hope to see you there and it's going to be a great event and I'll see you in the next videos 

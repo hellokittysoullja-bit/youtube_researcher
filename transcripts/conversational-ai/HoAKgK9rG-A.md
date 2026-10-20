@@ -1,0 +1,22 @@
+# Do we still need Conversation Designers?
+Voiceflow · 4 мин · 3903 просмотров · en · https://youtu.be/HoAKgK9rG-A
+
+
+
+[00:00] the last year with llms has been fun but for conversation designers like myself you can sometimes feel like they could become an existential threat to your job so let's chat about [Music] that hey it's Pete and today we're going to answer the question do we even need conversation designers anymore but first let's look at what conversation designers do P.S I'm not going to look at the world before voice flow those were Dark Times filled with Lucid chart excels spreadsheets word docs uh okay so 
+
+[00:31] for brevity sake I'm going to distill what a conversation designer does in one sentence here we go a conversation designer meticulously constructs and refines the interaction blueprint between users and AI ensuring dialogues are coherent context aware and tailored to provide a smooth and intuitive conversational Journey this means pre- llm you would do things like working out how to get a customer from A to B with just one sentence or even better predicting a user's intent before they said anything creating edge cases throughout your design so that you 
+
+[01:02] didn't overload customers with information and where needed allow them to ask clarifying questions making sure that your training is super focused enabling you to answer customer questions directly and because everything is deterministic it means that high performing assistants are usually extremely complex requiring large teams to maintain them but with llms that's all sort of changed for one you can use llms to handle a lot of the complex logic that you used to design out and using retrieval augmented generation or rag alongside an llm means 
+
+[01:35] that you can easily answer Edge case questions in context similarly rag can also be the backbone of all your FAQs meaning you don't need to focus on training this is all to say a big part of what we have done in the past is beginning to get abstracted away we're not going to need to sweat that small stuff as much anymore so where does this leave conversation design as a discipline well rather than designing assistance turn by turn will focus on designing Frameworks that agents can work within it's the shift that will see 
+
+[02:05] us change from conversation designers to agent designers and as agent designers here are three things that I think we'll be doing agent design conceptualization and research so let's start with agent design this is all about building the Frameworks for an agent to work within this will see us do things like using prompt chaining to develop flow like functionality managing external knowledge bases to allow an agent to access the right information at the right time and developing personas to 
+
+[02:36] ensure an agent response in a way that's both empathetic and on brand okay so now let's look at conceptualization and the kind of strategy component of agent design while we'll be designing Frameworks for our agents to work within we'll also need to think about how these Frameworks fit together this will include defining interaction models determining when to invoke specific functions and when not to and how an agent can best meet both the needs of the user and the business this will require designers to think beyond the immediate thing that they're designing 
+
+[03:07] and consider the long-term implications ethical concerns and overall direction of the product development and finally informing the design conceptualization and strategy will be done through research and insights this will be about understanding user behaviors and preferences and interpreting data and giving actionable insights to a team and sure we'll probably use use AI to kind of augment this and we'll need to run user testing and yes I can already hear the collective grown of conversation 
+
+[03:37] designers worldwide we'll need to read transcripts so to answer the question do we still need conversation designers I guess it's a yes but if you want to remain relevant then you need to start upskilling now start learning about prompt engineering design and chaining learn how retrieval augmented generation works and as odd as it may sound start learning how to code a bit by knowing the fundamentals you'll be able to use llms to generate working code for you and that can expand what you do so that's my take on whether we'll need 
+
+[04:08] conversation designers let me know yours in the comments and remember stay [Music] curious 

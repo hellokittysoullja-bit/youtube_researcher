@@ -1,0 +1,36 @@
+# 6 Tips To Make Chatbots More Customer Friendly
+Innofied · 8 мин · 476 просмотров · en · https://youtu.be/H9D5DFf7UoU
+
+
+
+[00:00] chatbots have revolutionized our business there are ready thousands of chatbots that has been deployed which are helping humans get their work done faster but the question is how can you make chatbots user-friendly as well as as human as possible hello friends have written show stuff from innovate and today we are going to discuss the six best practices of making your BOTS more customer-friendly before 
+
+[00:35] I go deep into our discussion I would like to request you to subscribe to our channel if you're enthusiastic about product design and development app development startups and entrepreneurship we discuss a lot of problems and solutions in the tech world and how it can solve your business problems we also send a lot of three giveaways like ebooks templates worksheets to our subscribers regularly so please stay connected to us and get regular updates chat bots are the latest tech disruption chat bots will cause a 
+
+[01:07] near-term disruptions on how businesses interact with customers and a long-term paradigm shift in how people will interact with machines for those of you who do not know what chat bots are chat BOTS is an artificially intelligent software that can simulate conversation or a chat with a user in a natural language through messaging applications in website mobile apps or through telephones the incredible potential of chat BOTS lies in its ability to 
+
+[01:39] contextually and individually communicate one-to-many if you are a tech savvy person then you must have come across various news of utilizing chat bots in real-life scenarios businesses soon realized the potential and benefits of chat BOTS in business and started implementing the technology in customer care website chat and HR interactions in a nutshell people all across the world have started to understand the paradigm shift initiated 
+
+[02:10] by the chat pod technology means it's hiding that you implement chatbot for your business so I have made a list of six tips that will help you make your bot user friendly which will in turn help your business tip number one never make your chat bot lie to the users now do try to make your bot as human as possible but do not try to make your customers believe that they are talking to a human being when in fact 
+
+[02:42] they are talking to a machine because if you try to over convince your users then they might get annoyed and may leave trust me people will be more comfortable if they know that they are talking to a machine with some limitations tip number two make conversation more action-oriented when you release the bot it is your duty to make an easy conversational interface for your end users you can ensure this by making all the commands and buttons 
+
+[03:12] actionable this makes the bought conversation more human and also interesting for the person who is chatting with the model to make it easier for the bot to find the solution that they are looking for tip number three design better human emotions conversation with bought not only sounds boring but it can actually be boring so try to incorporate some personality to your board to which the users are looking for the best thing to 
+
+[03:42] do here is to incorporate a user friendly language that is easily understandable tip number four don't make the conversation unlimited your users are cleverer than what you think they might play games with your bot for instance they might ask weird or out of the world questions for testing how your pots reacts to those so don't be afraid or confused you have to show the users that your part is listening to them as I 
+
+[04:13] said earlier make use of the buttons and call to actions to keep the conversation going on show them that your bot is understanding their pain offer them with several options on how to handle this tuition but be sure that you never leave your users with an empty white space without a reason or a specific call to action on what to do next in case needed add an option of a phone number or an email for users to directly contact your customer support if they are not happy 
+
+[04:43] with the answers provided to them tip number five increase wait times with each additional message to give users time to read one of the most common and noticeable mistakes made in chat boards is loading message without the wait time on loading messages with wait time that are still too short it's incredibly distracting when a messages are sent to quicken as the new messages will move the text that the user is still reading 
+
+[05:15] the wait time should of course depend on the length of the messages tip number six take your users feedback you need to ask for your users help you might be wondering why and how should I take users help well by asking them for help I mean here is to ask for feedback feedback are one of the most crucial aspect of improving your product and services it is only through the users feedback that you can provide them with 
+
+[05:47] better and enhanced services allow your users to provided you with proper feedback directly through your bot during the interaction process why do you need to do this because your bot is after all a machine which cannot fulfill every requirement of your users by asking your users feedback you are indirectly helping them getting the desired solutions it's better if you ask them something like are you satisfied with the responses remember optimizing BOTS are the key to enhance user experience and once you 
+
+[06:18] have collected some user data studied for identifying areas where the pot optimization is required you may need to edit the way your bot handles the user path or clarify its wording or add user flows and workflows based on user input there is no hard and fast rule of following these six best practices that I just said but if you follow at least a few of them your job is done my friend so let's quickly sum up what I have just discussed in the entire video I have 
+
+[06:49] discussed the role of chatbots in our business and how it can make communicating with your customer easier chatbots are disrupting the ways customers are interacting with business and it is important for you to go ahead and implement it in your business and in such a way that it actually helps not just your business but also your customers I hope this video has answered some of your queries about chatbots and the best practices to make it more customer friendly also please share this video with any of the friends or colleagues whose business can 
+
+[07:19] be helped using chat boards this video might help them succeed faster if you have any other best practices in mind I'm going to know about it so please share your ideas with me or with our audience in the comment section let us know what you think about it and what has worked for you if you're an entrepreneur startup business person or somebody associated with tech industry do subscribe to our YouTube channel we discussed a lot about the problems startup and entrepreneurs face and what are the best ways to deal with them please like and share this video and 
+
+[07:50] spread the message thank you so much for watching this video see you soon [Music] 

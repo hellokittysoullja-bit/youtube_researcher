@@ -1,0 +1,28 @@
+# Training the Idea Muscle for Product and UX Designers - Design Tool Tuesday, Ep61
+vaexperience · 6 мин · 2386 просмотров · en · https://youtu.be/zxXBGSHass0
+
+
+
+[00:00] i can guarantee you if you implement this today the ideas you come up with in the future are going to be 10 times better and out of 100 ideas it's not just going to be one idea which is amazing it's going to be 10 ideas which are just groundbreaking innovative and meaningful [Music] welcome back design squad in this episode of design tool tuesday i'm gonna talk to you and present to you a framework a tool 
+
+[00:31] which i use myself to come up with better ideas what i'm going to talk to you about today is this guy called james alterger he's a serial entrepreneur and an author his take is that ideas are the currency of the future only the people who come up with the best ideas in the future are gonna be the top earning people that's what's gonna make you outstanding from let's say the rest of the designers be it in ui design product design ux ux research service design you name it and james altucher is basically saying hey if you just write 10 ideas every single 
+
+[01:02] day on a notepad on a waiter's notepad or you know like myra board or whatever or your notes app you're going to become much better i think that does make sense right but the caveat here is that for every 10 ideas every single day you would have a different prompt so for example maybe today i'm going to ask you to come up with a groundbreaking 10 new tools for ux and all you have to do is just make 10 different checkpoints and write out what do you think they are 
+
+[01:32] it could be that it's a user research app which is automatically transcribing what you're saying and tagging different bits and using ai and you know and n is super effective something which doesn't exist but you can now imagine if you have a notebook like that and let me show you one of my notebooks which i dug up because i've been doing this type of effort of writing down 10 ideas a day for years this is number two it says 10 ideas number two it's the second notebook it's very minimal 
+
+[02:03] as you can see all the pages are filled in over four or five years ago you're practicing to connect the dots what altiture puts as a idea sex basically which means that you combine different sets of ideas together into better new ideas and what about this concept of idea sex what does that mean because that's almost like the next level or the black belt level of 10 ideas a day yeah so let's say i'll take just a simple example let's say um you're having a hard time getting a babysitter so you know this is a problem 
+
+[02:35] i wish there was an easier way for me to get a babysitter meanwhile uber is a successful app for uh finding transportation when you when it's hard to find transportation so what if i combine those two ideas uh uber with babysitter now i'm gonna make the uber of babysitters so you always revisit and you reconnect the doors and to be entirely honest from my personal experience just practicing it makes all the difference you have so much noise in your brain and so many different bits you're 
+
+[03:06] exposing yourself to like tech news i remember those days when let's say chad bought where all the hype and all the fire and everybody were just you know oh how can we solve this issue of just bringing chatbot we would immediately default to that idea of chatbot of ai of all those keywords which are meaningless unless done right and unless done in the right environment right time frame so if you write technology right but if you do the prompts you're more likely to come up with something truly groundbreaking instead of just 
+
+[03:36] limiting yourself to one thing if you come up with 10 things chances are that last the 10th item on the list is gonna be but actually meaningful idea and so for those who actually want to make this tool part of your daily activities and you feel like this is something which you actually could benefit from i have some examples which i copied from altitude's website you can find more about it of course on his blog take a new notebook write for each of the pages vs as titles 
+
+[04:06] put 10 bullet points and then flip through every day day in day out and add your ideas for example 10 things i learned yesterday it's not really an idea but if you think about it you have to dig deep into your mind to recap and so i'm just gonna take that [Music] 
+
+[04:49] boom and so you just witnessed me quickly well quickly it literally took me over 10 minutes to come up with these ideas and to be honest the last two the ninth and tenth and actually seven took me majority of the time because that's the whole point you push yourself to the limit and that's why 10 ideas is such a good framework with each idea you can dig deeper and then come up with other prompts for example linkedin recommendations i just gave for the linkedin recommendation and had a really good catch up and i felt like just giving a few praise wars were super 
+
+[05:20] effective for us to connect better as two people right so maybe i could come up with 10 people from the past i should give a praise and for what so i could list the people also list out exactly what i could give them praise and then just action it i'm training my idea muscle but also benefiting myself give it a go at least for a week a couple of weeks see if you like it see if it actually benefits you and then let me know also in the comments if you have any other ways to train your idea muscle thanks a lot 
+
+[05:51] for watching i hope it's useful give a like subscribe to your channel check other videos around if you should be floating somewhere here and until next time [Music] you 

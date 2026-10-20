@@ -1,0 +1,74 @@
+# Pixel Art Class - Simple Character Idle Animation
+AdamCYounis · 17 мин · 398151 просмотров · en · https://youtu.be/vs-ierVdE7I
+
+
+
+[00:00] nice and simple just really simple like [Music] that hey Pals welcome back to a new video today I wanted to cover something quite simple uh it's just my setup and workflow for doing NPC Idol animations or or animations for NPCs in general uh in aprite so I'm just going to show you kind of like how I set up my document and a walk through of how I might do an idle animation and uh hopefully you 
+
+[00:31] enjoy it so let's get started here I am in a Sprite and I've got my basic document set up here is a character uh that I have been working on I've got an idle uh pose but I don't have an idle animation for this character yet so the way that I set my dock in order to make this uh work is for my game I usually give myself like a one tile border outside of this main canvas uh most of that has to do with little things like shaders you know if I want to do an outline Shader on this character I need to have pixels around the character uh 
+
+[01:03] to fill in so I usually give myself a nice big border as well as like for any animations if the character is going to be animating you know in an expressive way I want to give them space for their arms and legs to move around so the center of this Sprite is going to be the Pivot Point we've got this uh yeah 64x 64 square plus an extra tile of padding now behind I've got uh two layers one is my reference character this is my main character in the game and he can just sit here nicely this is 
+
+[01:35] mostly for the design of these NPCs I need to know like how tall they're going to be relative to the main character how they fit color-wise that kind of thing and then uh I've got like a background flat color this can be used basically to you know as I'm animating sometimes the the colors of these checkerboards can be uh a little much or a little inconsistent if I want to keep something that's like super flat I'll pick this color here and I might change this like it's something that I change quite regularly as I'm working just to see 
+
+[02:05] under different lighting conditions whether certain body parts and elements of the silhouette are visible or less visible so you know if if we were to take like a darker color you know maybe the eye looks a little bit different than in you know lighter color so I've got this layer in the back it's just something that I keep there and I link both of these layers so the the player character and this character now with a lot of my more active animations you've seen me go through this process of doing you know 
+
+[02:36] very uh layer intensive draft animations for things like attacks and run animation but for an idol because we only have one key pose and this is assuming that you are doing an idol that that is more simple then it's kind of okay to do more simplistic adjustments to a key frame like this so rather than do our layer approach I'm just going to do some tweaking now that's not to say that you can't have more advanced idle animations one of the things that I've been going 
+
+[03:06] for in my game is um I've been looking to have animations that move between states so a character like shifting their weight or turning and looking somewhere else these are more expressive movements that you can kind of stagger out once every 5 seconds or so that feel natural without trying to make the character look like they're constantly heaving for air and that's a risk in general with characters you know at 64 pixels or 
+
+[03:37] smaller you know even one pixel up and down can feel like a lot so if your game's trying to go for something more natural it it can be a risk to over animate something that should be very simple especially if it's not in the character's nature to to breed that way so this character she's quite stoic she's she's quite seasoned and so I want her to seem calm so that's what I'm thinking about before I start now the first thing I want to do is make a new tag and call this idle I keep a lot of 
+
+[04:09] my character animations in single documents like this and I separate them with these tags I also have an export script uh that I've just mapped to shift T that I can use to export each of those tags as their own Sprite sheet so that's how I do my animation in my game and you can find uh this script in my turbocharge your aprite work work flow video so we've got our reference we've got uh a nice idle here I sometimes will copy and paste this and then just put this on a layer as well and I might just 
+
+[04:41] put that actually on this side here we'll call this ref and maybe just for the sake of the workflow I might make this like 128 uh just so I can put this one out of the way and have like a nice clear space to look at here I don't want to get too distracted let's say we want this to be just a simple Idol we're going between two two major sort of points exhale inhale I'm going to take all of the stuff that's above the hips and I'm going to shift it down one pixel so these are my two you know 
+
+[05:13] States I suppose and I'm going to give 10 frames for this like most of this stuff is uh like a holding so we can do it this way and I I do prefer to do it this way just in case I want to do some more subtle sub pixel animations during these pauses right like if you look at this we've got one up and one down over five frames so the approaches we can take is we can try to modulate those slowly over the course so it's a slow 
+
+[05:45] exhale slow inhale over 10 frames or we can do like two or three frames either side so it's like inhale over three frames exhale over three frames and everything in the middle can just be kind of like either like repeated frames or or you can even extend the duration of these frames now for my game I don't have any way of interpreting these durations so for me I'd have to then go into the engine and duplicate the frames or uh tolerate them being duplicated here I'm going to try to like just keep 
+
+[06:15] it really simple and a little bit of waste of data it's not a big issue I might even go to 12 frames actually so we got 1 2 3 4 5 6 7 8 9 10 11 12 fine so uh what I want to do is take this transition point and kind of smoothing it out a little bit in order to make this feel subtle right right now it feels quite jarring because everything moves at once but I think what I can do is start with the core elements first and then animate kind of like extending outwards to the extremities so we can 
+
+[06:46] start with the chest and we can start bringing down parts of this so we could take maybe this part here and start descending that and start just smoothing a lot of this out and I might even bring some of this up and then feather out this so it's more of a sub pixel drop okay so this middle tone it's 
+
+[07:17] almost like the white is moving from white to gray to black or to the darker gray over three frames and it makes it feel a lot less uh a lot less jarring and we might even keep one of these here so it's this again feels like a transition because it's like three pixels moving to one pixel moving to no pixels on this line which also feels like a transition now I might take this Frame move it back 
+
+[07:49] one so that we can do it over more than that and make it go even more smooth so here we've got two pixels of the gray and then five pixels and then we transition down we can even bring this in a little to continue that that out and I think at this stage I'm happy to essentially uh copy this and flip it for the other side so what I'm doing 
+
+[08:20] here is I'm just trying to preserve the material characteristics of this metal breast plate right the idea is it's not something that can be deform too much so even if I want to do some sub pixel stuff here it needs to be quite Snappy so I've removed some of the you know smaller fine adjustments and just saved them for the larger ones and I think we still get you know 1 2 3 4 five frames of transition here which is nice and so we can at this stage because we haven't done any of the secondary motion we 
+
+[08:51] could take all of this copy it that's 5 6 7 8 9 five frames we're going to start it on frame 12 and we're going to wrap it around so we're going to paste it at frame 12 so now we have 12 13 14 15 16 so we can reverse these frames and then we can take these back here and move them over to here so now we should have this boomeranging up and 
+
+[09:24] down and I want to keep this inhale a little longer two more frames at least maybe even a couple more frames on this side too and I'm just going to keep going until I feel comfortable and in engine we could probably take all of these idle frames and call that its own animation and then play an exhale inhale so just this part here that can just be the animation that plays and transitions into an idol that 
+
+[09:56] just holds it doesn't have to be quite this many frames but for the sake of just us today right here right now animating it I want to be able to feel it and see it as I would in game and that's why I've got this many frames so we're happy here this is fine moving so far I want to do a little more secondary motion so when we start to shift down here what I'm going to do is have the hands respond a little bit later so I'm going to instead of dropping them down I'm going to move them 
+
+[10:27] out and let's have that happen a little further up and I want that to to be a little more like delayed I want that to take a few more frames so we're just going to see what we can get away with here so then on this Frame we're going to include a little bit more 
+
+[11:00] transition maybe even flare this out slightly more just to give us a little more something and the same for the arms maybe we could even slightly shift some of this shoulder pad stuff around and I think this Frame it should be like as close as we can get it to the SEC to the 
+
+[11:31] last frame cuz I don't want it to feel like we're moving evenly I want it to feel like we're moving so it's like out almost finished and then finished so this here is probably a little too high cramp this down a little so it's like just getting it as close as we can to that last frame I think that makes it it feel more of like a more of like a 
+
+[12:02] rest we can definitely flare the hair out that's an easy one so let's start with the hair so as we drop we're going to have the hair flare out and then it's going to rest over two frames so out down rest and especially with this little stray hair but this way we're going to have it move from this to this and it's 
+
+[12:34] going to sit up a little I think we could even drop it down a little and have it spring back up normally I I probably wouldn't say that this is very appropriate physically but I think because this is still kind of cartoony I I actually kind of like it so I'm going to keep it and we're going to go for the same thing on the other hairs so we're GNA like maybe just bring this up basically with this line here when we drop down it can't go any higher than it was okay so 
+
+[13:06] this stuff doesn't really work but we can flare it out and we can bring this out a little bit too let's shift this up a little bit and out a little bit maybe as well not bad now as we rise back up we can do the same thing with the hair drop it 
+
+[13:38] down a little bit but probably not as much as if it's coming up and as I'm looking at this I think this is probably even a little too much probably take away a little bit of that and we could probably bring this a little bit in just on this 
+
+[14:08] Frame now I want to do just a little bit here with the legs and the shadow so let's watch that again as we drop I want to see this drop a little bit maybe stay dropped here now I wouldn't really go too far with the legs I mean technically like you know we could make the the knees bend a little bit here or there I'm more 
+
+[14:38] inclined to just shift this Shadow just a little bit keep the silhouette exactly as it is for the legs uh because I really don't want the breathing to be too heavy so I might just shift like this up here and then on these two frames keep it up yeah nice and simple just just really simple like 
+
+[15:09] that and I'm just wey here on this Edge I'm watching it sort of pop and I don't really like that so I'm going to take some pixels away so we're in a pretty good spot now I'm pretty happy with how things are looking and I don't think I want to edit any more of this visually but I I think we've got probably too many frames so let's take away from this last frame here let's take away all of the frames where we think we 
+
+[15:40] can this idle becomes breathe okay and we can just take uh this looping frame so it loops on frame four here so what I'll do is I'll take frames 1 2 and three and put them at the end and then make breathe 13 frames so that it fits the end there so now this is our idle frame we drop we return and that's it so now we could probably take this Frame one and then call this a new tag 
+
+[16:13] idle and now we can sit here and then we can play this and then we can sit back here again for as long as we want and we can have the character breathe you know periodically or whatever we want to do in the script my animation system allows me to play a onef frame animation for as long as I want so I could say hold this for 2 seconds or hold this for 1 second and then play a breathe and then go back to the start and do the same thing again so in my engine I could do it this way if you wanted to keep it really simple 
+
+[16:44] you could just have one giant animation which is the whole thing as long as you know how many frames you want um so yeah that's what I would do uh before we export we should probably make sure that our reference is not in the frame and drop this down to the or origal canvas size don't forget that so take this export it and now our breathe animation will look like this so that's all we get I'll take that into Unity slice it up put it 
+
+[17:14] in an animation file and play that on a loop so that's it that's how easy it is to take an idle frame and turn it into a very simple idle animation like I said there's way more you can do with this uh but for this video that's all we'll be doing today thank you so much as always I've been Adam you've been the pixel Pals this has been the Indie Tales pixel art class until next time hey pal thanks for watching and thanks most especially to the patrons and twitch Subs who support this Channel and my Game Dev project Insignia to find out more click the links in the description below and 
+
+[17:46] uh if you like this video tell YouTube by clicking the like button and then YouTube will tell me and then I'll make more videos that's nice thanks again and until next time 

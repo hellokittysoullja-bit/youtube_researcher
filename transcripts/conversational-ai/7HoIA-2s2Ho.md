@@ -1,0 +1,36 @@
+# Hacks to become 25 lpa AI UX Designers (proven results)
+UX Anudeep · 8 мин · 25625 просмотров · en · https://youtu.be/7HoIA-2s2Ho
+
+
+
+[00:00] See, if you want to become an AI powered UX designer in 2026, this video can literally save you months of wasted effort. I see so many experts on the internet saying the same thing. Learn all the AI tools. Learn prompt engineering. Don't miss out on these new AI features. AI AI AI AI AI is it the economy right AI products and features. Keep learning AI tools is the worst 
+
+[00:32] advice I've ever heard these days. Come on, seriously. This is so unrealistic for a normal person who has a life, who has a job, and who goes to college. You'll have to spend more than 10 hours a day just to keep up with these new tools. And 50 more tools will come next week, and 50 more next next week, and so on. It never ends. All this is just a big trap. See, the problem is this old generation advice doesn't work anymore. 
+
+[01:02] The previous generation of designers learned a tool, and they tried to master it. For example, they learned Photoshop, and in the next generation, they learned Sketch, and then the next one Figma. This pattern of learning a new tool and becoming a master worked for more than 20 years, but it doesn't work anymore because AI is not just about these tools anymore. AI literally changes how products actually work, what users expect, and how they fundamentally 
+
+[01:33] interact with products. The whole game has changed right now. And if you are busy chasing tools like the old generation people, then you are literally running in the wrong race. The designers who are getting hired at 20 lakhs or above are not the ones who are actually going behind using these most tools out there, but they are the ones who are thinking very differently. They are the ones who understand how is it that they can design products in the AI era. In this video, I will show you three 
+
+[02:04] hacks that actually matter, and they absolutely help you become an AI powered UX designer in 2026. This is not some casual advice on, "Hey, here you go, 10 tools to learn." No, this is literally how to think when AI is a part of a product. And I've trained over more than 1 lakh designers. I worked at Amazon. I've hired a lot of people. I've seen thousands of portfolios. Trust me, tool collection is not the way ahead. It is this new thinking in this age of AI that 
+
+[02:36] really matters. So, let's get into it. For the last 20 years, we have designed the same thing. User taps a button, then the app responds. Tap responds. Tap responds. Tap responds. Every product worked until right now. But, you need to understand that AI has completely changed the way how humans interact with computers. For example, if you look at ChatGPT or Gemini today, you can observe 
+
+[03:06] that other than just chatting with you, the product can understand your intent and do things without having to tell exactly what needs to be done. And this is our biggest clue. For example, let's take food ordering. Right now, we have to open Swiggy, then search, apply filters, look for restaurants, and then select dishes, and a lot more steps just to place an order. But, in the AI generation, you just have to tell Swiggy, "Hey, you know what? I am so tired. I want to order some Andhra 
+
+[03:36] meals." And Swiggy will exactly find that dish and also give you more recommendations based on your intent. Do you see the difference? You just shared your intent, and the product shared its own thinking. And you know what? This exact thinking is happening to all kinds of products. Music, banking, shopping, whatever it is, it is happening everywhere. So, our job as a UX designer right now is no longer about where to place that particular button, but it is about designing for these conversational 
+
+[04:07] interfaces. So, the hack for you is to stop creating workflows just for tap and response. Instead, observe and practice design for what we call as intent-based workflows for apps which you are using literally on daily basis. For a long time, we thought the biggest value a designer was bringing to the table was ideas. You know, like brainstorming creative solutions for design problems. But, 
+
+[04:39] that's not the game anymore. See, AI is already incredible at generating 50 design ideas in seconds. So, your value isn't about bringing ideas onto the table. Your value in 2026 is something completely different. It is your obsession to make sure it is not just the initial idea, but the final execution also matches your vision. It is this obsession that makes a UX designer really valuable. You need to use your AI as an assistant to reach that last pixel perfection. And as a 
+
+[05:11] recruiter, I don't hire people who just use AI tools. I hire those portfolios which show how they have not gone to stop until they have reached those exact final details in their work. They are looking for those edge cases which you have actually forced AI to account for those complex workflows. Where did you push for those micro interactions, and how fine-tuned is your product? This is what they are looking for. So, the hack for you is it is not about what AI can 
+
+[05:41] do, but it is about what you can make AI do. Most designers use AI as a factory. They make it give a layout. They ask many ideas. But, this is just basic in 2026. The real hack is not just to use AI as a designer, but to use AI to help you make design decisions. See, traditional research can take a lot of time and 
+
+[06:12] budget, and this is where AI can immensely help. Instead of guessing if your design works, tell AI to act as a specific persona, maybe a 60-year-old first-time tech user. Run your flow through it and ask which part of the design makes them feel unclear and what to do next. And AI will give you a detailed usability report, and it just doesn't stop there. Once you have a solution, use AI to audit your logic. This is where AI can behave as a senior design consultant. You can tell it, "I'm 
+
+[06:44] choosing between these two interaction patterns. Approach A, it reduces cognitive load, and approach B increases discoverability. Audit this based on UX heuristics and give me what are the trade-offs." So, the hack is stop using AI to just generate pixels, but instead use it to simulate the pain points and weigh complex trade-offs. And if you can show a hiring manager that you have used AI to research and test, and you have used it to arrive at a very good logical conclusion, you aren't just acting as a 
+
+[07:15] normal designer anymore. You are the AI powered UX design leader. So, these three shifts, designing for conversations, obsessing over the finish, and using AI as a user and design consultant, is literally going to make your entire workflow as a UX designer very powerful. And the best part is most designers will spend their 2026 the same old way chasing tools, watching tutorials, and learning about the next update. The designers like you 
+
+[07:46] who will go on act on these hacks are going to be way ahead. So, what hack would you best recommend to someone else after watching this video? Let me know in the comments. Thank you. Hit that like button and subscribe to this channel for a lot more of this content. 
