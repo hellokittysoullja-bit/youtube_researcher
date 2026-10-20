@@ -1,0 +1,34 @@
+# Weekly Reviews in Things
+Chris Coté · 7 мин · 205 просмотров · en · https://youtu.be/vEh8lol93WE
+
+
+
+[00:00] uh my name is chris cote i'm coming to you from castlerock colorado just south of denver and i'm doing this my very first screencast because i shared an idea about how to effectively conduct a gtd weekly review using things but mimicking some of the helpful functionality toward that that's in omnifocus and some of you apparently had the same struggle it struck a chord and you gently bullied me into doing 
+
+[00:31] this and so here i am it's worth it if it helps you like it's helped me just cut me some slack along the way a real quick background i am a near-original things user i've wandered away every time a new app comes out that looks nicer has more features or the developers are more responsive and offer a road map for what's coming and yet time and again i find they just don't work as naturally they get in the way and i come back to the simplicity and minimalism and customizability of things 
+
+[01:04] but there was a time where i spent about six months with omnifocus with the most recent version and i really loved the feature where you can set intervals for weekly review for either a an area of your life or a project that's in an area of your life and since i struggle with the weekly review and it's the really the key to making gtd work i wanted to figure it out and so i want to show you real quick how i've set up my system to accomplish that 
+
+[01:35] real quick i have a three screen setup this lives in my right monitor and as you note using the great new feature that cultured code introduced in things three there are multiple things windows so on the left is my inbox and that's also where i'm able to quickly look up projects and interact with them during the day at random in the center is the today view with the sidebar and so i'm in and out of this kind of to set my plan and stick to it 
+
+[02:05] and then here on the right the upcoming panel where i'm able to either just kind of see what my workload looks like coming up or drag tasks to that i'm scheduling for another time so this works great for me the other thing i'll notice is you can see here i make liberal use of tags i know other states say stay minimal i get why they say that i have enough different hats i wear and enough complexity and my roles that this just really helps me so i've come up with my own system do 
+
+[02:36] what works for you all right so here's kind of the the way this works um what i've done is i've gone through my areas and my projects and i've identified you know which one i need to review regularly maybe it's an area where there's not a lot of to do's in it not a lot of complexity no urgency and so it's fine to look at that as an area and not have to pop into the projects unless i want to in other cases i've got projects like this one where i want to keep my wife 
+
+[03:06] happy and stay up on house maintenance where um i need to be in the project itself uh to review and so this works for either one um it's got a lot of customizability what i did was i went into the specific area or project and i simply created a to do the to do was labeled weekly review i included this little check mark icon to go ahead and visually set it apart and then here's really the key to making this work i decided what interval i wanted to do this by 
+
+[03:39] and in this case i want to do it every one week so at weekly i want to go ahead and review this item and i made the repeating to do have the exact same repeating interval so every friday it creates a new to do to do this and i know how frequently i'm reviewing it because i can quickly look at that symbol in the brackets i do that for weeks in the bracket so here's one that's every two weeks here's one that's every four weeks you know just areas that can afford to go longer don't need as much attention 
+
+[04:10] and watching and that works really really great um there are some things though that are you know need even less frequent review and so those can go month uh by months and so i've used the curly brackets to set apart months so this one is every three months in other words every quarter and again the repeating to do task rather is you know set up to match that exactly so i'm going to go back to today when i started this morning this was filled with stuff 
+
+[04:41] you can see here some regular to do's that i had to do that i haven't gotten to yet in the day projects individual tasks you can see a few more right down here and the downside of the system right now is that on fridays it's littered with all of these weekly review tasks which is a little annoying and if cultured code would give us the ability to have saved searches it would be easy to have a saved search to not show these and that would be great it would really help 
+
+[05:11] but we don't have that yet but cultured code if you're listening please take a note give us that um but it's easy visually to kind of just dismiss these and go through the tasks during the day now here's where the magic happens when it comes time to do the weekly review it's just super easy because of the small amount of forethought and setting this up to go ahead and to select the weekly review tag and make everything disappear and i get rid of my sidebar and now all 
+
+[05:42] i have are the items i want to go ahead and review i'm reminded about how long it's been since the last time i reviewed it which can be helpful sometimes and i've right here got access to the actual area or project that i want to go to so i can click to personal and see which of these projects within is of interest to me or which tasks uh you know that i want to go ahead and drop in or review or stuff that i've got kind of camping in someday 
+
+[06:15] and then it's as simple as jumping back uh to the today view and again the weekly review tag and checking these off usually i have my checked off tasks disappear immediately so i watch the white space open up but on fridays i always like to leave them so that they do it at the end of the day so i can kind of see the satisfaction of going through all these and having them sit there as checked off and knowing that my system is working 
+
+[06:47] my brain is empty and that's good i can go into the weekend and play and i don't have to have any anxiety about having forgotten anything so that's really the setup it's not harder than that it's highly customizable you may come up with some variations that make it even better in which case i would love it if you share those would love to see them but i have never been more regular in my weekly reviews than i am right now and this system is really 
+
+[07:17] really working for me i'm still looking for ways to refine it so again let me know if you come up with any variations or improvements i hope this has been a help and i thank you for taking a look at it thanks 
