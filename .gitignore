@@ -1,0 +1,5 @@
+.yt_api_key
+tool/ytr.sqlite
+tool/chunks/
+tool/chunk_*.txt
+__pycache__/

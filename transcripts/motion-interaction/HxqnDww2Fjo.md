@@ -1,0 +1,38 @@
+# Haptic Feedback - Unity XR Toolkit Tutorial
+Valem Tutorials · 8 мин · 31561 просмотров · en · https://youtu.be/HxqnDww2Fjo
+
+
+
+[00:01] this is an optic feedback it vibrates the controller to make you feel that you are touching an object and in today's video i'm going to show you how to use it with the unity xr toolkit we are going to see how to tweak the duration and the intensity and trigger it when you are interacting with an object of course this video is made possible by the awesome folks on my patreon so if like them you want to have access to the source code of this product and exclusive content join us link in the description below but without further ado let's get started okay so to better illustrate how to use optic feedback 
+
+[00:31] with the unit xr toolkit i'm going to use where i was left with my latest unit xr toolkit series now of course you don't need to do it from the start to make optic feedback but this will be useful for me to show you some examples and the first example that i want to show you is using optic with the interactor component so let's head over to the xr origin select one of our interactor let's say the right hand and as you can see in the xr direct interactor we have the optic events and 
+
+[01:02] using this we can super easily trigger some active feedback when we interact with an object so let's say you want to trigger optic when you grab an object we can enable here the unselect enters and then choose an intensity and a duration for the uptick in my case i'm going to set it to 0.7 and a duration of 0.3 but now if we save and click on play when i grab an object with my right hand i get an update feedback awesome and of course apt 
+
+[01:32] feedback is not that much visible but anyway believe me it is working now there is a problem using this method first thinking haptic with interactor means that the optic will always happen for all object and will always be the same suddenly as you can see there are no event here when we activate so this means that if i want to trigger some haptic feedback when i shoot with the gun over there so to answer all of these questions i'm going to show you how to trigger update feedback but this time writing our own component are you ready 
+
+[02:03] so let's first uncheck the optic font that we just added and get started for this example i'm going to trigger update feedback when we shoot a bullet with this gun so let's select this pistol of course click on add component let's call this component haptic interactable and open it to trigger optic feedback by code it's really simple we first need to write at the top using unity engine.xr dot interaction and that toolkit and then add two variables 
+
+[02:33] a public float called intensity and another one called duration now little tips the intensity needs to range from 0 and 1 so a cool thing that we can do in that case is right at the top range 0 1 this way if we save our script and go back to unity as you can see the parameter is now a slider that goes from 0 to 1 and now if we go back to our script i'm going to create a new function called trigger uptake with public void in front of course and 
+
+[03:05] this function will need a xr base controller that i can name controller and now we can simply trigger unaptic feedback on the given controller if the intensity is greater than 0 with controller sent optic impulse the intensity and the duration perfect now we got everything ready so what's left is to trigger this when the interactable is activated so for this in this start function let's get the interactable width xr base interactable 
+
+[03:37] interactable equals get component of type xr base intractable and finally do interactable dot activated dot but as you can see we now have something a bit annoying you see the activated ad listener needs a function that asks for input type something that is different that the xr based controller that we made for our uptick function so to fix this i'm going to create another function of the same name so trigger haptic that we'll 
+
+[04:07] take as an input something that the activated listener will like so in our case base interaction even args call event arcs and now to convert this into a xr base controller for the other optic function i will first make sure that the interactor is of type controller interactor with if event args dot interactor object is xrbs controller interactor controller interactor and if 
+
+[04:37] it's the case to trigger uptick and feed it the controller from the controller interactor so controller interactor dot xr controller and perfect now as simple as this is we can simply write this trigger optic function on the activated.addleythinner there you go perfect now let's save a script and go back to unt what's left is to test this and see if the controller vibrates on the corresponding end when i 
+
+[05:08] shoot a bullet with the gun of course we can set the intensity and the duration of the optic feedback in the unity inspector and now let's click on play to try this and there it is guys it is working when i shoot i get a little vibration on the hand but for now we have made our script only use optic feedback on this object when we activate it but what if i told you that we can do the same for the other interaction type as well in just a few seconds let me show you the secret is to turn the optic 
+
+[05:41] behavior that we just made into its own class so the intensity the duration and the trigger optics function here let's go at the top write public class any name we want so uptick for example cut and paste there everything related to the optics so basically everything that is not the start function there you go and now that we turn this into its own class we can reference it as a variable in the optic interactable script so if i do public uptick 
+
+[06:12] uptick on activated it should show in the unity editor but for this we have one remaining step to do and it's to write at the top ear system dot serializable now we can use this parameter in the start function as well with arctic on activated dot trigger uptake and if we head back to unity as you can see now we can see our optic class as its own parameter in the editor this is awesome and we can eat it as before the 
+
+[06:42] intensity and the duration but the best thing now is that if we go back to our script we can create one uptick for each type of interaction so let's do public uptick uptick over entered public uptick uptick over exited the same for selected now so uptick select entered uptick select exit and give them their proper add listener 
+
+[07:14] in the start function so let's copy and paste this line 4 times and now write the corresponding event but for the corresponding uptick each time there you go and now there it is we have finished with our script we can save and go back to unity and as you can see now we can say for each interaction the optic that we want so let's add another one uh for when we over enter for example 
+
+[07:47] with 0.3 intensity and the 0.3 duration and another one when it's grabbed so in the select entered with 0.5 intensity this time and a 0.3 duration why not and for the other two the intensity is at zero so it will basically not play anything now if i click on play everything is perfect and everything is working well we have made our own optic interactable component and 
+
+[08:17] anyway that is the end of the tutorial i hope that you enjoy watching it the source code is on my patreon if you want to learn more about vr development and support my work here on this youtube channel so thank you for watching and see you soon bye 

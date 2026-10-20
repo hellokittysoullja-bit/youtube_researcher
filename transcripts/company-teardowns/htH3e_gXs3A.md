@@ -1,0 +1,24 @@
+# Boost Your Web Design Quality with these 5 Figma Plugins
+Pixel Point · 4 мин · 83139 просмотров · en · https://youtu.be/htH3e_gXs3A
+
+
+
+[00:00] here are the top five plugins that will improve your web design this list is based on our personal experience from working on numerous projects these plugins are very simple to use and today we'll create some amazing designs with them very quickly plugin number one eometric by using this plugin you can easily create isometric illustrations similar to those from raycast website or Isa icons collection directly in figma to get started just create a new frame and make it into a component duplicate it by pressing common plus C and then 
+
+[00:31] common plus v select instance of the component open E metric plugin and choose the direction now our main component is connected to its isometric instance we can draw on the left component and it will automatically update on the isometric instant to the right the main advantage here is that you don't need to work directly with the noisy 30° isometric grid instead you can draw everything flat using 45° angles which are much easier to create by holding shift while using the line 
+
+[01:03] tool it's that simple after that it's all about practice and your own imagination for the disc example and for all other practical Demos in this video you can find figma files in the link provided in the description there are many more videos coming soon from our TM if you'd like to support this channel don't forget to subscribe and hit the like button on this video plin number two loer Legacy this plugin is especially handy in the era of AI Ops where everyone is is trying to create their own version of SE blob we'll create one too start with a simple 
+
+[01:35] ellipse remove its F and add a stroke then open Looper Legacy plugin this plugin can generate multiple iteration of your shape by rotating scaling or changing the position of each new instance creating super interesting effects the results can be hard to predict so I recommend experimenting with different values even just by multiplying in lips we can get some very interesting results with some default settings but we will go with something like this you could it as is for a minimalistic look but let's take it further by combining it with another plugin blobs before we move on let's add 
+
+[02:07] some color to our shape we will use masks if you're unsure how masks work check out our figma mask tutorial essentially we will use Looper shape as a mask then create multiple ellipses with different colors layer blue and sometimes orlay blend mod next we'll create a nice center part open blops plugin and choose a shape you like apply plus lighter blend mode to achieve a nice light effect we'll use blue purple color and add layer blue 
+
+[02:40] then just duplicate this shape multiple times within a group adjusting position size rotation or color as needed with this same Technique we can highlight parts of the background for even better results copy and paste the entire Looper group then change the stroke size of ellipses by applying stroke to the group scale it up a bit more and add some blur finally apply an overlay blend mode to that blur shape see how much better it looks with just a few simple tweaks it Blends smoothly into the background I 
+
+[03:10] can't wait to see what you create using these techniques feel free to mention me on social media with your results and I will try to share some feedback plug-in number four perspective toolkit this plugin lets you easily adjust the perspective of any image or layer just move sliders until you find the desired look and then apply it to your image we cover this in detail in our ban cards video where we created an apple style gallery banter card by adding a few extra colorful Shadows to the background 
+
+[03:40] and beneath the cards we achieved a very professional looking design plugin number five noise and textures by Ry using this plugin you can quickly add interesting noise patterns or even some animated versions to your designs combin it with the techniques with discussed in our textures video and you can create a beautiful card in almost no time add noise to a card use it as a mask and bring multiple ellipses with 
+
+[04:10] different background feels and layer Blues a big thanks to rer who pointed out that some functionality of the pattern hero plugin can be replaced by noise and texture too by clicking on this little image icon you can create a pattern from your own layer then adjust settings like size amount Mount rotation and opacity I hope you enjoy this video these five figma plugins are ones we often use when designing websites and they can definitely add extra flavor to your work the techniques we've shown are very 
+
+[04:41] simple and require a minimum amount of time that's it for now see you in the next one 

@@ -1,0 +1,48 @@
+# Figma Tutorial: Create the Perfect Typography Scale for UI & Web Projects (IN 10 MINUTES) - Part 1
+Mizko · 11 мин · 197814 просмотров · en · https://youtu.be/6EuBIwUeF48
+
+
+
+[00:00] most websites are 80 to 90 text and copy hands down look at facebook twitter all these websites it is predominantly text so if you don't know how to create a topography scale you are going to face some challenges as a designer so in this video i'm going to show you exactly step by step how to create the perfect topography scale and not only how big the font sizes are also the line height how to snap it to a eight point vertical grid there's a lot of value in this video so make sure to stick around watch to 
+
+[00:32] the end and learn everything within 10 minutes all right guys let's get right into it [Music] hey guys let's get right into it no time to waste let's get you value as quick as possible so how do you create your very first perfect type scale for all your ui and web design projects generally most of these projects will all projects should include headings from one to six these are six different styles and hierarchy for your 
+
+[01:04] headings and then you should always have a paragraph style i like to include a small and large iteration or like variation of the standard paragraph style mainly because it's always good to have something to turn to when you need font sizes which are a little bit smaller than the paragraph or a little bit larger than the paragraph paragraph small for example might come through as a form of a caption so you want a text that's a little bit smaller so where do you get started how do you get started sometimes you don't know all the 
+
+[01:36] answers sometimes i don't know all the answers but there is something online that you can refer to so all you have to do is i've got it hidden behind my figma head over to figma oh sorry not figma type dash scale.com this is a simple app that jeremy church has created jeremy church so feel free to follow him and give him some support and all you have to do is enter a base size you have to select your scale and you can pretty much ignore the rest of these this you only need to 
+
+[02:07] input two input fields the base size is generally 14 pixels or 16 pixels this is the most uh the most commonly uh used font on your website so generally that is the body font so the body content generally all the content that you see on the website that is not a heading so start with 14 or you start with 16 i like to use 16 because i just like where text is a little bit larger so you can actually read it so start with 16 you can have a play 
+
+[02:38] around with all the different type scales so you can have the minor second major second and really the ma the main difference is just the variance in how much the type will scale accordingly so here we have the major third if you go down to the golden ratio there you have very large fonts so i'm more of a ui ux designer so i would normally turn to the minor third mainly because if you take a look at any website online that's ui focused you will notice 
+
+[03:09] that a lot of the fonts are quite compact the ui is very complex and generally you just you don't really use large fonts however if you're designing something along the lines of awards sorry websites that are featured on awards so let's make this a little bit larger let's quickly see here obviously big fonts abstract layouts negative space oh it looks so good right then you probably want to have a play around with the golden ratio because that's when you see 
+
+[03:41] big headings sort of spanning across the entire page breaking out of the grid layout but you know i'm more practical and i'm more of a finer third designer so what you can do is after that all you have to do is head over to your figma file right and you can see that this is the base font is highlighted as 16 pixels right so all you have to do is select your paragraph the regular holding command on a mac or control on a windows will give you direct 
+
+[04:11] selection of it and you hit 16 right and then you can see that one level below 16 is 13.33 so how that has worked out is you can from the base font you notice that the scale is at 1.2 so if you multiply it by what 16 by 1.2 you will get 19.20 so let's just quickly calculate uh q later so if i go 16 times 1.2 you'll get 19.2 
+
+[04:43] if you want to times it again then you get whoops that is not correct what did i do wrong there whoops let's quickly do it i can't do my maps 19.2 times 1.2 equals 23.04 so you can see it and these scales will gracefully and seamlessly um sort of uh increase within the scale and that is why it's perfect because the scales are perfect as well so let's quickly do this 13.33 so that's one below 16. so 13.33 
+
+[05:15] there we go the body font a little bit larger so 19.20 let's put that in there 19.2 then you have once that a little bit larger and if you just click out from it you can already see that it's creating a bit of hierarchy on this page itself so what you can do now is really depending on the type of project that you're working on it could be ui it would be web design have a play around with it there is no one way to defining the perfect type scale so you can see 
+
+[05:45] that the large paragraph is 19.2 if you want to keep the headings always a little bit larger than the paragraphs then work with the next um type scale so make this 23.04 right heading 5 27.65 there we go and then the next one is 33. then you have 39.81 39.81 see that they will increase gracefully let's move this down 
+
+[06:17] a little bit let's hit change the heading 2 to what was it uh 39.81 or was that already used i think that was already used yep so if you need more typescales hit the juicy little plus icon at the top that will give you additional sizing so let's make that 47.78 bang and if you need another one you have 57.33 0.33 so there we have it it's as simple 
+
+[06:47] as that but don't get too excited it doesn't end there all right so let's move this down and you might have noticed if you download this file i have cr i've turned this group of paragraphs and this group of headings into an auto layout if you have not watched my previous figma sort of tutorial or guides please click on the video above afterwards please watch it because auto layout i do give an explanation on what it does very quick summary is that i wanted to make sure as i increased the sizing of 
+
+[07:18] these paragraphs that the spacing would stay consistent and turning this into an order layout i can define that the space would always be 60 so as i was changing the text it would sort scale gracefully hopefully that makes sense but if you haven't watched that video please do and make sure to give it a gentle uh smash on the like button anyways so now that we've created our headings and we've got the perfect type scale for all the headings all the paragraphs now let's turn on the layout grid that i also taught you guys in a 
+
+[07:50] previous video if you haven't seen it make sure to click click up above and it'll take you to that video but obviously hit command g on your keyboard oops sorry control g my bad and you will see that the vertical eight point grid will show and also the layout grid would show as well now what we want to do is we want to make sure if you all if you want to use a eight-point grid that this content also snaps and aligns the line height of this text will align to the eight-point grid as well 
+
+[08:21] so let's just quickly zoom in and see what is happening here let's make this a little bit larger we don't need the type scale anymore and you might notice that it is a little bit off the eight point grid um uh eight point grid vertical flow so how do we fix that now what we can do is actually just use our eye and we can have a play around with um and try to align it but the very quick way to do this is make sure that the line height is a 
+
+[08:51] multiple of eight so if we do 16 you'll notice that it will snap let's just move this up a little bit give me one second there we have it if you have 16 you will notice that it will snap exactly to the eight point grid now if we make it a multiple of eight or you can also use four if you wanted to but let's just do eight for example say 24 you'll notice that it snaps perfectly so remember the eight point grid everything that's uh sort of spanned 
+
+[09:22] vertically or aligned vertically will need to be in a multiple of eight so even your line height for your text so this could be 16 let's just whoops because it's now let's just remove this from the auto layout i can now position this and you see that it snaps beautifully to the actual um lines if you say that's a little bit too tight let's go let's do 24 and you can make it 24. same as this one we can make this you can make it eight if you really 
+
+[09:53] wanted to it's probably a bit too tight make it 16 and you will notice that it will snap beautifully to the eight point grid so there we have it it is that simple um it is that simple so if you want to have a have a go with this download the file and make sure to refer to type-scale.com this is the simplest and most effective way to set up your very first perfect type scale for all ui and web design projects 
+
+[10:24] so if you want to learn more i've got a couple more figma tutorials that i've already launched there's going to be a lot more where i will help you sort of accelerate and elevate the use of figma and also use your design skills so make sure wait to the end there will be a few videos that pop up and i hope you enjoy this video guys i will see you in another video very soon 
+
+[11:03] [Music] you 

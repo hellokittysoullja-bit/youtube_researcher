@@ -1,0 +1,18 @@
+# Industries Impacted Most by UX (Jakob Nielsen)
+NNgroup · 4 мин · 3041 просмотров · en · https://youtu.be/PZrHdvHyNAw
+
+
+
+[00:00] [Aurora] At the keynote speech in Las Vegas, an attendee asked Jakob Nielsen to predict what areas may be most impacted by the evolution of user experience. [Jakob] What I can say I do think that we've seen, empirically so far, a dramatic broadening of the scope of user experience. It really started out being only in the  telecommunications, computer, high-tech business. Microsoft actually had a nice usability group about 30 years ago, they might have started that. 
+
+[00:32] So, then it grew from there, and there were more computer companies. But now it's really all industries. I think it's more-- those cases where you can see more of the immediate business return those are the ones that currently have the most. Ecommerce is a great example because  conversion rate. Anytime you do even the smallest project, you can see your conversion rate go up. The business case is so obvious there. Almost all of these big ecommerce companies have pretty good teams by now. 
+
+[01:06] Then, you go to those places where it's more indirect and, particularly the cases where a lot of the B2B or enterprise style products -- they are the ones that are suffering the most. Or intranets. We do a lot of work on intranets  -- the internal systems in companies. They tend to often be very poorly staffed and have just a fraction of the UX work done compared to what the public facing website has. Because companies can easily see, "Oh, we make the public-facing website better and 
+
+[01:38] we sell more," but honestly, if you make your internal or enterprise software and intranets better, you get the direct bottom-line impact of not having to pay for your own employees wasting their time. Any time you roll out another enterprise product, what I like to say is: you should envision your training budget for high-tech rollouts; the training budget is like a juicy pork chop just ready to be eaten by user experience. Because training -- I wouldn't say all training is wasted, but it's kind of like... 
+
+[02:13] training is the excuse for bad design,  it's the cost of bad design. We can't always design perfect so there will be no training, but definitely any training budget should be able to be cut in half if you do good design. Then you have the daily use of these products, where the productivity advances could sum up to vastly much more. But that sort of an argument I can make here, but it seems to be less something that strikes home more easily in the companies. So I would predict, sad to say, that the entire enterprise software field will still be suffering a lot. 
+
+[02:51] Another area that seems to be suffering a lot are heavily branded products where people might buy just because of the name on it. The actual interaction design is not viewed as being as important. But I think, well, how do you build up a brand so that people think, "This is a great thing"? Well, you do it by the experience. It's brand as an experience these days in the interactive world. Brand is not like your logo or having some celebrity guy in an advertisement. Brand is the experience of the design. 
+
+[03:22] Therefore, not to build a brand for necessarily today, because that was built over the last twenty years. But how do you build a brand for the next twenty years -- it will be through experience design. Even those guys will eventually get on board. Remember I was talking about the next 33 years, not necessarily in 2 years it will happen. But it will happen eventually. 

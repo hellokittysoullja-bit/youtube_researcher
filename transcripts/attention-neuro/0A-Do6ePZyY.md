@@ -1,0 +1,56 @@
+# Hooked by Nir Eyal: The Full Summary
+Yapping Books · 13 мин · 40 просмотров · en · https://youtu.be/0A-Do6ePZyY
+
+
+
+[00:00] Why do you open some apps without ever deciding to? You have 10 seconds to [music] kill. Your phone is already in your hand and somehow it is open. [music] You never made a plan. You never wrote it on a list. >> [music] >> You just did it. So how does a product become something you reach for almost automatically? Not something you decide to use, something you just use. This is Hooked by Nir Eyal, written with 
+
+[00:30] Ryan Hoover and published in 2014. It is about how products create habits and why some get so [music] deep into a routine that they stop needing to remind you at all. The model [music] has four parts: a trigger, an action, a variable reward, and an investment. A product [music] gets you to do something. It rewards you. You put a little back in and returning gets easier each time. 
+
+[01:00] Repeat that loop enough times and the [music] product may not need to call you at all. I should say where I had this wrong. I assumed a habit product was one with good notifications. Read properly, [music] it argues close to the reverse. Start with the first phase. Something happens and you act. A notification appears. An email lands. Someone sends you a message. These are external triggers and the product is 
+
+[01:30] telling you what to do next. Think of a red badge on an icon. You see it [music] and you already know exactly what it wants. Tap. Open. >> [music] >> Check. There is a catch. An external trigger only works while someone keeps sending it. Stop paying for the reminder and the behavior stops with it, which is why the interesting move is inward. The strongest habits begin when the trigger stops arriving from outside and starts arriving from within. 
+
+[02:01] You feel bored, so you open something. >> [music] >> You feel uncertain, so you search. You feel lonely, so you check your messages. Nothing was sent to you in any of those. The emotion itself did the work that the notification used to do. And here is why that matters commercially. A company can only send so many emails, but boredom, uncertainty, and loneliness happen on their own. Attach a product to one of those feelings [music] 
+
+[02:32] and life starts generating the reminders at no cost to anyone. This was the idea that stayed with me. If the goal is an internal trigger, you are not really competing on features. You are competing to be the thing attached to an emotion. That is a stranger race than the one I thought I was running, and a much harder one to copy. It also reframed notifications for me. >> [music] >> I had treated them as a product. Here 
+
+[03:04] they are scaffolding, used while the real structure sets, [music] then taken away. But a trigger on its own is not [music] enough. Your phone says an app has an update. Do you stop everything and install it? Usually not. So, the second [music] phase is the action. The simplest behavior someone does in anticipation of a reward. Open the app. Scroll. Tap play. [music] Search. Swipe. 
+
+[03:34] That is the entire action. >> [music] >> One move, not a project. This phase leans directly on B.J. Fogg's behavior model from Stanford. A behavior happens when motivation, ability, and a prompt arrive together. Which means if the thing is hard to do, wanting it badly and being reminded constantly [music] will not rescue the behavior. Picture two versions of the same product. One wants an account, a confirmed email, a username, and a profile first. 
+
+[04:07] The other gives you what you came for in one tap. That gap looks trivial on any single visit. It is not trivial across a thousand of them. So, when a behavior is not happening, the instinct is to make people want it more. Eyal points at the more practical lever, make it easier. If I applied one thing from this chapter, >> [music] >> it would be small and boring. Count the taps between opening the product and the first moment it gives 
+
+[04:38] anything back. Then, try to remove one. Not add a nudge, not write better copy, remove a step and see whether the behavior moves on its own. Now, the third phase, the one the book is best known for. Imagine a button that gives you exactly the same thing every single time you press it. [music] Interesting once, dull by the hundredth press. Now, imagine you do not know what is coming. Sometimes ordinary, sometimes 
+
+[05:10] remarkable. That is the variable reward. The user still gets what they came for, >> [music] >> but not in the same shape every time. It is why scrolling feels so different from reading a page. Most posts are forgettable. One is funny. One message matters. >> [music] >> One video is exactly right. You cannot tell which is coming, and that uncertainty is what [music] keeps the search alive. And he groups them three ways. Rewards of the tribe, approval, 
+
+[05:42] belonging, [music] attention from other people. Rewards of the hunt, the search for information or resources, and rewards of the self, mastery, competence, [music] finishing something. Likes are the tribe. A feed you troll for something good is the hunt. Clearing an inbox or leveling up is the self. What I found useful was not the categories for their own sake. It is that naming which reward you actually offer is clarifying. [music] 
+
+[06:14] Because most bad feature copying I have seen comes from lifting a mechanic off a product that was pulling a completely different string. But suppose you use a product, take the reward, [music] and leave. Why would tomorrow be any different? The fourth phase is the answer. [music] An investment is something the user contributes that makes the product more valuable later. And that distinction is worth holding. The point is not that you spend something. The point is that what you 
+
+[06:45] spent improves [music] the next experience. You follow people so tomorrow's feed is better. You rate a film so recommendations improve. You upload a file and now this is where that file lives. It can also set up the next trigger. You send a message so now you are waiting for a reply. And their reply is what brings you back. You post [music] a photo, someone comments, and that is another one. The 
+
+[07:17] user is now helping build the thing that returns them to the product. Being honest about products I have worked on, we spent nearly all our time on the reward and almost none on the investment. The fourth phase is slower and much harder to fake than a reward is. I suspect that is exactly why it keeps getting left out. Trigger, action, reward, investment, [music] then another trigger, another action, 
+
+[07:47] another reward. One pass through the loop is not a habit. >> [music] >> Repetition is. And each pass changes something. The product gets more personalized. The user has more stored in it. >> [music] >> The action gets more familiar. Most importantly, the association between that internal trigger and this particular product keeps getting stronger. At first, an email brought you back. Later, you do not need it. You feel bored and you open the app. 
+
+[08:18] That is what the Hook model is aiming at. >> [music] >> The point where the user starts triggering the behavior without any help. This chapter landed differently than I expected. Read as a builder, it is a blueprint. Read as a user, it is a mirror. Which raises the commercial question. Why does any of this matter to a business? Because a habit changes the economics of a product. [music] If customers come back on their own, you 
+
+[08:49] are not paying to win their attention every [music] single time. It shows up as retention, as more opportunities to make money from the same person, and as a cheaper path to both of those. There is a defensive side, too. Imagine two products that are technically similar. One already [music] holds your friends, your history, your saved things, your preferences. Now, switching is not a judgment about which product is better. 
+
+[09:19] >> [music] >> It is a judgment about everything you would be leaving behind. >> [music] >> And if you have been listening closely, there is an obvious problem. If this framework works, could you use it to make something people use far more than they meant to? Yes, and to its credit, the book takes that seriously rather than leaving it for someone else to raise. >> A product can help someone exercise, learn a language, or remember medication. 
+
+[09:50] The same four phases can keep someone scrolling long past the point they wanted to stop. The Hook model itself does not decide whether the habit is a good one. The person building it does. His tool for it is the manipulation matrix, and it is two questions. Would you use this yourself? And do you believe it materially improves the user's life? Both yes, and he calls you a facilitator. Improves their life, but not something 
+
+[10:20] you would use, a peddler. You use it, but it helps nobody, an entertainer. Neither, and the word he picks is dealer. The second question is easy to answer generously about yourself. The first one is not. Whether you personally use the thing is simply a fact. So of the two, I think the personal use question does most of the work. You can talk yourself into impact. You cannot talk yourself into being a user. 
+
+[10:52] Which leads to a limit that gets quoted far too rarely. Should every product be habit-forming? No. >> [music] >> And the book is clear about it. You do not need to open your mortgage application every morning. You do not need a daily relationship with the service that helped you file one legal document. The model needs the behavior to happen often enough to attach to an internal trigger at all. Messaging, [music] entertainment, fitness, learning, 
+
+[11:22] things people return to. If the natural behavior happens once every 3 years, there is nothing for a habit to attach to, [music] and forcing one makes no sense. So, the question I would ask before reaching for any of the four phases [music] is whether the behavior naturally repeats at all. If it does not, a hook is simply the wrong tool, and forcing one is how perfectly good products turn into the ones people mute. 
+
+[11:54] So, Hooked is not really saying add notifications, [music] build a feed, and hand out random rewards. Read that way, it is a bag of tricks. The deeper idea is a loop with an order to it, and the order is the argument. If you are building something, the whole book reduces to four questions. What feeling brings the user here? What is the easiest useful thing they can do? What reward keeps it interesting enough 
+
+[12:24] to return for? And what can they invest that makes the [music] next visit better than this one? The thing I would tell myself before reading this. Every time I treated retention as a messaging problem, I was working on the scaffolding. The question underneath was always which feeling we wanted to be the answer to. In years of road maps, I do not think we ever wrote that down once. 
+
+[12:54] If any of that was interesting, the book itself is worth your time. It is short and far more careful than its reputation suggests. Because the products that win are rarely the ones that talk to you into coming back. They are what you reach for before [music] you notice you decided anything. 

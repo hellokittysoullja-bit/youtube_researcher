@@ -1,0 +1,40 @@
+# Jean Hanks: Part 4/5 - Affordance, "Norman Doors": Beyond the Task, Towards a Philosophy.
+The EPIC Project · 9 мин · 124 просмотров · en · https://youtu.be/DOAhLG7uYh4
+
+
+
+[00:01] Part four: Affordance, '"Norman Doors", Beyond the task, towards a philosophy. Presented by Jean Hanks. Jean: so we are talking about in the physical environment. I'm gonna touch in this briefly because I don't think this has as much applicability in the visual and VR. I think in VR, this is probably more applicable because in VR you're mimicking some of the physical environment and access. Oh! I want to make sure I end in a few minutes because I know that you need to have this wind up. But, we have a phenomena called 
+
+[00:36] Norman Doors. If you've heard of Norman Doors - so what it is, is that you have a door that says pull, and this instead of pulling you push because the door makes you think that you have access to pulling. And this is so prevalent in the environment that people collect examples of Norman Doors. And Norman Doors can be applied that things that aren't doors because they imply that the  - his book is the design of everyday things. 
+
+[01:07] Narrator: The slide shows the cover of the 'Design of Everyday Things' by Don Norman. Jean: Even if you're not designing for a built environment or a physical environment this is an extremely insightful. And it'll make you mad everywhere you walk for three days. If you look at the screen this is a really good example - is that large enough for you to see? Because I can yeah.. oops.. So we have the picture here, 
+
+[01:37] Narrator: Jean points to of a door with a handle that looks like it should be pulled but with a sign above it label to push. Jean: A door that goes in door goes out, they both say push and what's sticking out bigger than anything in site -  we they've even done interaction testing on this - this [sign] part of the door will always override this information. So even if you can make this sign gigantic and flashing,  this affordance, this the fact that it has a handle will override your brain and at the very least is going to take up too 
+
+[02:11] much time to figure out how to use a door. Don Norman says that doors should not have to have instructions. There's also, I don't think it's in this example but there is an example, yeah oh, here it is okay. This says pull on the door. Narrator: The picture shows a square door handle, unique in shape. Jean: Now this is an affordance, right. It's good because there's a handle on it and so you could pull but it does not look like any it doesn't look like a door. It's not a metaphor of the kind of things that we think of that is a handle for a door so 
+
+[02:44] that odd shape doesn't [see a push or pull]. you have to sit and do a couple extra nanoseconds of cognitive load. So this is also a thing called 'cognitive load'. So if you have an animation in your - doesn't matter its storytelling, anything that requires you to keep a running narrative in your head and remember key facts it's called 'cognitive load'. And so anything that you've asked people to remember and then apply later is going to be something that is gonna fail and testing most of 
+
+[03:21] the time. This is one of those all you have to do is - it's like when you're in web development discussing the arrangement the categorization of menus and people want to do drop-down menus well you have a drop-down menu but when you want to go back how do we you remember if they put library under facilities or library under you know map or so these kinds of things [are] where you have to arise a taxonomy or a controlled 
+
+[03:54] language about how something is referred to in a, you know, it's discretionary how things are described. Then, you are you're asking for someone to do a lot of work on the user end. But can't they just go back to the drop-down menu? Well they can but I can't remember if I if the drop-down menu was in the third column or the second column after I've read the article. So affordance - this is a principle called affordance. If you afford someone the 
+
+[04:26] opportunity to make us mistake in your interface that should be taken out so if you head up a button that looks live, when in fact it can't be used in that context, then you've afforded the possibility of a mistake. So you don't want to give [that], and that's also going to be an interface problem if you have all kinds of clutter in your animation or your visual that don't really have anything to do with moving the messaging forward. As you have 
+
+[05:00] affording - or what you're affording is perceived affordance: is inattention in lack of focus on your your main storyline. Narrator: The slide shows the seven principles of universal design. Jean: So, I'm gonna go a little bit quickly through this again but we  want equitable use, flexibility, simple and intuitive, perceptible [information], tolerance for error, low physical effort - this is a really interesting one because when you say 'okay there's a ramp', does that mean 
+
+[05:35] that ramp can be used by person who propels himself with their arms? Yeah there's a ramp but I couldn't get up it with my bicycle. I couldn't wheel a suitcase up it for any length of time I'd have to stop and rest so we have to also think about the amount of physical effort it takes to use a product in size and space and approach. This was for a more web environment, so I'm gonna go quickly, but 
+
+[06:06] we want our users to be perfect users - we want them to not have anything distracting that we have to work around. And the - when you know something needs redesigning when you're talking to somebody and they have designed and you're talking about the critique, if you hear any of these all you have to do is "can't they just", "who is really going to"; these are signals that the problem is being solved by the user and not the designer. So the designer does 
+
+[06:40] not want to solve this problem,  they want the user to solve the problem. Statistics, statistics, statistics: how many people are deaf how many people are blind and deaf how many people are blind and deaf and don't have dexterity in their arms? You'll hear these kinds of things when you talk about adding access to any kind of a product. Doesn't - what does it matter? 
+
+[07:13] "Social justice." The last thing I want to say is that this is mainly for visual environments, accessibility for everyone. Narrator: The slide displays the cover of the book accessibility for everyone by Laura Kalbag. Jean: but it's put out by a book apart and great organization, but it's a great start for visual environments. It focuses on web development. Screens for mobile devices and computers. If you want 
+
+[07:49] to start thinking about physical interaction, that is - I don't believe that any product that is on the screen is not a physical product. I think it is industrial design. I don't think it's a 2d product because my interaction with this is no different from interacting with the chair. I have a space between that object and the thing I'm interacting with and I have to use parts of my physicality to interact so I'm actually designing a 
+
+[08:21] physical interaction as much as I am designing a door. So going back to Don Norman and affordance and doors, that book will just start to shape your thinking about the environment no matter what it's peek what where it's being delivered the other thing. I wanted to mention is that we were talking yesterday with the digital media students about - we have set up here at 
+
+[08:54] demo for a screen reader for a computer using a window - on Windows you can get a utility that you can install called NVDA, if anyone needs more, Bill has this installed, and also can tell you how to download it and put it on any windows computer. It's really interesting to spend - set yourself thirty minutes and one task. A search tasks, getting through to finding a link... Give yourself thirty 
+
+[09:27] minutes and one task and try put something on that covers your vision and try to complete that task. 1 task. 

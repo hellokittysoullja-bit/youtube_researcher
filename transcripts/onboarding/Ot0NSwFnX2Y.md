@@ -1,0 +1,22 @@
+# Top 5 User Onboarding Best Practices for Better Conversion & User Retention
+UserGuiding.com · 4 мин · 1547 просмотров · en · https://youtu.be/Ot0NSwFnX2Y
+
+
+
+[00:00] are you designing a user onboarding flow and need all the Hot Tips did you create an onboarding process that made zero impact are you just interested in user importing well in any case I got you this is Sarah from music writing and today I am letting you in on our best of the best top 5 best practices that we practice in user guiding let's get started [Music] one Simplicity is key the very first thing you need to do before starting to design user and boarding process is to get in a minimalist mindset not as a 
+
+[00:30] general why but as a rule of thumb you can have the most maximalist ux you can be the Lady Gaga of sauce products out there but if you don't keep it simple short and concise for your users they just might get lost a good example is trello's future tour it's four stops the copy is short and the design is simple kudos to Trello two let's get personal in 2023 you cannot compromise on personalization you are all conditioned to get great personalized experiences from Netflix Amazon and other platforms 
+
+[01:02] we use every single day any less won't cut it and your product needs to keep up especially during onboarding good news is depending on your product creating a personalized experience might be easier than you might think for example personalization can be as simple as canva desert or it can be as well thought as grammarly's email insights you know your audience you set the boundaries just get personal three let there be fun with gamification now whoever said user boarding is a 
+
+[01:32] hassle obviously hasn't tried their hand at gamification gamification is a best practice that can take many shapes and sizes but the most prominent forms are checklists Awards and badges as well as leader scores now not all SAS products are compatible with all that but even a bit of interactivity can do the trick still your best friend at gamification is a good old user and boarding checklist here's how Keyhole did it and scored a good 550 increase in the number of trial to paid user conversions thanks 
+
+[02:03] to it four get that feedback so then how do we know that we're doing a good job with our user importing flows you can create tons of checklists and add your users first names to a product tour but how do we know that works by asking your users of course collecting feedback is an underrated best practice when creating onboarding processes but without good data from your users you're practically blind and how do you collect feedback in the best way possible by using in-app service hear me out 
+
+[02:33] traditional methods of surveys are highly inefficient when all that we do actually takes place inside the app so you need an in-app survey like how HubSpot does it or how survey kiwi does it I say you check out our new in-app survey feature Link in the description five know the pecan Rule and finally know your theory on onboarding the pecan rule is a cognitive bias that none of us are immune from it basically means that users will remember the climax and the end of an experience so while on 
+
+[03:04] boarding this becomes an even more important phenomenon as it may dictate whether your users are going to be fans or tuners a good example of the pecan rule in practice can be a good interactive onboarding for the peak and a celebrity message at the end lenbot is a great example of this since the peak of the importing has lots of interactivity and the and has confettis for sale operation I went through a dead on boarding last year and it was the first example that popped up in my head that's what the peak end rule does for 
+
+[03:35] your onboarding and believe me it is the best best practice you'll ever practice so to wrap it up keep five key points in mind when creating your very own onboarding process Simplicity is key personalization makes a difference gamification keeps users engaged and you are blind without feedback and users will always remember an onboarding if you know how to Peak it and end it oh and if you want to do all that no code in a matter of minutes tools like user guiding is your best friend but if you don't need a tool we still have cool on 
+
+[04:07] boarding ux tips and tricks so don't forget to subscribe this was Sarah from user guiding and see you next time foreign foreign 

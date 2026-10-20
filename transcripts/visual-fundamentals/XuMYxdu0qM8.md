@@ -1,0 +1,22 @@
+# Material 3 Icon & Segmented Buttons Tutorial (2025) | Sleek Android UI Design
+Bolt UIX · 4 мин · 472 просмотров · en · https://youtu.be/XuMYxdu0qM8
+
+
+
+[00:00] Welcome. In this tutorial, we'll explore two key UI elements, icon buttons and segmented buttons. Both part of Android Material UI/UX. Icon buttons are great for adding visuals to your app. They keep the design clean and simple by using icons instead of text. You can choose different styles like filled, outlined, or tonal to match your app's look. Segmented buttons group related options together, making it easy for users to choose between them. With a material button toggle group, you can 
+
+[00:31] ensure that only one option is selected at a time, making the interface clear and simple. Our app template offers a sleek, modern design based on material UI/UX. It makes building your app faster and easier. With components like icon buttons and segmented buttons, ready to use with material design, your app will have a polished, consistent look, improving the overall user experience. Icon buttons let users take quick actions with just one tap. They use 
+
+[01:01] icons instead of text, keeping the UI clean and easy to understand. Perfect for actions like favorite, share, or delete. There are two types of icon buttons. The standard icon button is icon only with low emphasis used for subtle actions. The contained icon button has a filled style with higher emphasis ideal for primary or important actions. Material 3 icon buttons. Use icons to visually communicate actions. The icon should clearly represent what the button does so users can understand 
+
+[01:32] it at a glance. Here's a quick guide to the XML attributes for a material free icon button. Use style equals/material icon button style to apply the default icon button style. Android layout underscore width in Android layout underscore height to find the button size. Android layout underscore margin sets the outer spacing around the button. Android content description adds an accessibility label for screen readers. App icon sets the icon image 
+
+[02:04] and app icon tint lets you apply a tint color to the icon. In material 3, the container holds the icon and gives the button its shape and background. It's only visible in contained icon buttons, adding emphasis and helping the action stand out. Let's look at the XML attributes for a filled icon button in material 3. Use style equals ed/material icon button filled style. To apply the filled style with an elevated background app icon sets the 
+
+[02:35] icon image, you can optionally use app icon tint to change the icon color and app background tint to set the buttons background color. Segmented buttons help users choose between options, switch views, or sort content. They group related actions together, making the interface more organized and easier to use. There are two types of segmented buttons. A single select segmented button allows only one option to be selected at a time. A multi select segmented button lets users select 
+
+[03:06] multiple options at once. This is a material three single select segmented button used for choosing one beverage size at a time like small, medium or large. Only one option can be active at once. Here's a quick guide to the XML attributes for a single select segmented button using material button toggle group. Set app single selection to true to allow only one button to be selected at a time. Use app selection required to ensure that one option always remains selected. Finally, Android orientation 
+
+[03:39] controls whether the buttons are arranged horizontally or vertically. This is a material 3 multi select segmented button, ideal for filtering restaurant search options. Users can select multiple filters like cuisine type or price range at once, allowing for a more customized search experience. Here's a quick guide to the XML attributes for a multi select segmented button. Set app single selection to true to allow only one button to be selected at a time. Use app selection required 
+
+[04:10] equals false to let users deselect options allowing multiple selections. Lastly, Android orientation controls the layout direction, whether horizontal or vertical. Join us as we explore how to use material 3 multi select segmented buttons. We'll learn how to create flexible user-friendly designs that allow users to choose multiple options. Enhancing the app's interactivity. Let's work together to build designs that provide users with more control while improving the overall experience. 

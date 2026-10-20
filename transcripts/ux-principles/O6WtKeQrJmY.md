@@ -1,0 +1,32 @@
+# MOOC EDSCI1x | Video 1: Cognitive Load | Student Learning Strategies
+ColumbiaLearn · 7 мин · 20304 просмотров · en · https://youtu.be/O6WtKeQrJmY
+
+
+
+[00:08] - Have you ever tried to complete a simple task and given up after a short time because you just couldn't get it done? Maybe you were trying to read while you were worried about something. You got to the bottom of the page and you realized you had no idea what you just read? This happens to everyone. Our ability to function effectively in a mental sense can become temporarily overwhelmed and we suffer the consequences. We know this happens with our students too. They are sometimes asked to undertake a set of tasks that exceed their capacity to complete successfully. 
+
+[00:40] Fortunately, in situations like this, perceptive teachers usually pause, change things around and then begin again. This situation of over matching of our student's capacity to effectively mentally process is important to understand. Before we do that, let's review the memory model we studied during the first week of this MOOC. What can you recall about making, storing, and retrieving memories? What were the most important takeaway concepts for you as a teacher? 
+
+[01:11] We will briefly pause for you to recollect. Perhaps drawing a flow chart or a picture might help. Okay, here it is. An important feature of the model is that memories are formed through the dialog or active processing between working memory and long term memory. In other words, we have to think to learn in order to encode and make durable memories. 
+
+[01:43] The cognitive scientist Daniel Willingham captures this elegantly in the phrase, "Memory is the residue of thought." What's leftover after thinking and reflecting or creating interaction between working and long-term memory is the stuff of learning. In other words, learning is changes in long term memory. We started off this session by talking about how our mental processing capacity can be overloaded and we know this has a lot to do with working memory. 
+
+[02:13] Recall that working memory has a limited capacity and duration. It can't hold a lot of information and it lasts at most, 20 to 30 seconds. This is important because it is the gateway to long term memory and the nexus of most of our thinking and reasoning. One way to think about this is to learn about the concept of Cognitive Load. Cognitive Load is the total amount of mental capacity imposed on working memory in any one instant. 
+
+[02:44] Unfortunately, the capacity of our student's cognitive load can frequently be exceeded or overloaded, which significantly impairs their learning. For example, consider a student studying in her room doing history homework. We hope that a maximal amount of her working memory is being used to focus on reading and understanding her history text. However, if she is periodically attending to text messages coming through on her cell phone and she's also distracted by the sound of her little sister 
+
+[03:15] practicing piano in the next room, then her cognitive load is high. There's a lot going on in her working memory. In addition, if the history you're reading contains many new vocabulary words and requires prior knowledge she can't easily retrieve, what is already a high cognitive load becomes even bigger. She has to work harder to understand the reading and she may even become stressed, which can begin to occupy some of her precious working memory capacity. 
+
+[03:47] The result, she becomes cognitively overloaded. As a consequence, under these homework conditions, not as much intended learning from the history reading will happen. The same thing can and does happen in classrooms. Here's a way to think about this to help inform your teaching. We can sort cognitive load into three buckets. The first is when working memory is able to focus on the learning task at hand. In our example, it was processing the history reading 
+
+[04:19] to generate meaningful memories. We call that Effective Load and it's something we want to maximize. We also wanna minimize how much of our working memory is focused on distractions. The lures of digital devices and the less than optimal study environments make this a challenge for many young learners. That's the second cognitive load bucket. We'll call this Ineffective Load and we want that to be minimized. Finally, the complexity of the learning task will also consume some working memory. 
+
+[04:51] The more difficult it is, the more working memory will be required to simply make sense of the task, even before it is processed to encode memories. We'll call this third bucket Task Difficulty Load. As teachers, we have a lot of control over the degree of task difficulty load our students experience. This is reflected in the choice of activities we ask them to do. Both during class and for homework. The teaching challenge is to match, for as many of our students as possible, 
+
+[05:22] the level of difficulty of a cognitive task with the skills and prior knowledge of the students. We will say more about this later. You can see by this diagram that we want to minimize ineffective load, manage task difficulty load, and maximize effective load. All of these are to one degree or another under our influence as we work with and advise our students. One teaching complication is that cognitive load can differ from child to child in the same learning environment 
+
+[05:54] and even for the same child from day to day. Knowing how to diagnose and respond to learner diversity is one key to effective teaching. As teachers, there is much we can do and even avoid to help students manage their cognitive load so that learning is optimized. For those interested in learning more about cognitive load and it's instructional implications, please see the Teaching Strategies section of our MOOC. There, you'll find a variety of suggestions and ideas 
+
+[06:26] about how to translate the learning concepts we've discussed into teaching strategies for your own practice. The take home message for this session is that learners can process only a limited amount of information at once. So, we need to be mindful of our role in unintentionally overloading students' finite working memory capacity. We want their cognitive load to be maximally focused on effective learning processes. In addition, we need to encourage students to be equally mindful of how, when, and where they choose 
+
+[06:57] to study and learn, a topic for a later session about self-regulated learning. 

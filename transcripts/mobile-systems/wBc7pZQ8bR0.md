@@ -1,0 +1,50 @@
+# How to Organize Jellyfin Library! Genre Based Home, Collections, Tags & More!
+Jonah Jamesen · 11 мин · 100939 просмотров · en · https://youtu.be/wBc7pZQ8bR0
+
+
+
+[00:00] Does your Jellyfin media server look like this? Sure, everything's technically there, but let's be honest, it's not exactly sleek. Today, we're fixing that. Let's turn your Jellyfin home screen into something clean, intuitive, genre based, something you can be proud of. This video is your complete guide to organizing your JellyFin library. We'll cover structure, collections, movie tags, image art, and more. days. We can flee the night. We can flee 
+
+[00:33] the [Music] night. When your media library is just a dump of titles, it's hard to enjoy anything. You'll spend more time scrolling than actually watching. But when your library is well organized, browsing becomes a joy. You rediscover those forgotten favorites and everything just feels right. You agree, Will? Keep 
+
+[01:03] my wife's name out your mouth. Okay. Okay. Moving on. A polished server isn't just easier to use, it looks professional, especially if you're sharing access with friends or family. Think of the difference between a bookstore where everything's on the floor compared to one where the shelves are labeled and curated. Whether you're a longtime server owner or just getting started, this setup will take your JellyFin experience to the next level. 
+
+[01:34] If you're new here, I'm Jonah Jameson, your guide on getting the most out of your Jellyfin media server. Let's get into it. [Music] Our goal is simple. Make Jellyfin feel like Netflix. That means breaking your homepage into easy to browse sections, action movies, comedies, dramas, you get the idea. This gives your users the effect that psychologists call the cocktail party effect. The ability to 
+
+[02:04] focus on just the stuff that interests them and ignore the rest. It's similar to selectively focusing on your conversation at a crowded party while ignoring the background chatter. And the key to that in Jellyfin, each genre lives in its own library. It's all about structure. Let me show you. Instead of tossing everything into one giant movies folder, we're going to split things out by genre or however you want to organize it. This structure 
+
+[02:35] gives JellyFin the ability to display content in that Netflix style layout. You can use whatever categories you like. Some ideas include grouping by movie directors or popular movie studios, maybe your favorite actor or actress, or by film language. You can also get creative with categories like date night, rainy day flicks, or comfort movies. Here are the categories I use. I'll show you how to customize the cover 
+
+[03:05] art later, but if you like mine, you can download them for free using the link in the description below. The pack also contains 35 library covers in both a clean, minimal style and a bold, vibrant one, plus over 60 collection images for franchises like Star Wars or Harry Potter. Grab them all in the link below. Now, make sure each category has at least eight movies, ideally over 16, so that your home screen fills out nicely with the 
+
+[03:36] recently added rows. If you end up with too many movies in a specific category, you can consider subdividing it. For example, you could split animated movies into categories like anime, Disney, or Pixar films. But don't go overboard. Too many categories can backfire. Like, where did I put John Wick? Was it in action, crime, neon- noir, revenge? You'll always be able to search for movies by typing it in the search bar, 
+
+[04:08] but the movie itself will only live in the one library you assign it to. And keep in mind, you can always subgroup movies into collections or tags, which we'll cover later. Organizing everything might take time, but it can be fun. You get to revisit your old collections, rediscover old gems, and set things up exactly how you like it. I know you've got some movies in there that are dusty, but 
+
+[04:39] still singing. Hey, look at us. We're in complete set. Now it's on to the museum. Museum. Your folder structure should look like this. a main content folder with a subfolder called movies and a separate sub subfolder for action, drama, and so on. Avoid spaces or special characters in the folder names. They can cause issues with certain tools. Jellyfin appreciates the movies named in this 
+
+[05:10] format, movie name followed by the year in parenthesis, and an optional movie database tag. And if you've got a massive collection and don't want to manually rename files, check out Filebot or Tiny Media Manager, which can save you hours in renaming. Or if you're feeling spicy, you can always write a renaming script. Once you have the movies separated into their own folders, head over to your JellyFin admin dashboard. Go to libraries, then add 
+
+[05:40] media library. Set the content type, movies or shows. Then click the plus next to the folders and select the right folder. Change the display name to match the genre or category and make sure the library is enabled. Then click okay at the bottom. Your new library is now live and it will show up as a separate category in my media and Jellyfin will automatically populate a recently added section for that library. This is the 
+
+[06:12] magic of having multiple media libraries. Having multiple libraries also gives you a lot of control over your homepage layout. You can reorder the libraries to feature your favorites at the top. You do this by right-clicking on the library card, then clicking on metadata. Under the sort title, you can put in any name, and it will sort the libraries alphabetically by that name. For example, I wanted to put my collections to be the first category. So, I named 
+
+[06:43] the sort title AA series because the letters AA will show up before the letters AC in the action category. It's like pinning the library to the top. You can also assign custom background art to each library to make everything pop visually with some style and customization. In Canva, just click create. Select YouTube thumbnail to get a horizontal layout. From here, I'll set the background color and add and edit the 
+
+[07:13] text. Then I'll throw in a background image. A trick to make the background more of a background is to edit the image and select adjust and lower the brightness and saturation. You can go with any style or design you want. Think explosions and cityscapes for action movies or space scenes for sci-fi flicks. And when you're all finished, just choose share and then download it. To assign the image to the library, right click on the library, then choose edit images. Select 
+
+[07:44] the plus icon, then browse to the location that you put the file. Another benefit of having multiple libraries is that you can fine-tune library access by user. For example, this kids library only contains familyfriendly content. So you could set the kids profile so they can only see that library. To do this, open up the dashboard, then click users. Select the kids account, then choose access. From here, uncheck the enable access to all libraries option and 
+
+[08:15] uncheck any libraries that you want to block. Want to share your server with guests without giving them full access. Just create a guest profile with access to only to the libraries that you want and no admin settings. It's perfect for parties or when friends visit. For a little bit of work upfront, the payoff is huge for organization and appearance. These little touches make a big difference in your server. It's not just more organized, it's more inviting. 
+
+[08:47] You can group movies further within each library by using collections and movie tags. Use collections to group any sequels, spin-offs, or other related movies. To make a collection, just right click on the movie, then choose add to collection. Give the collection a name and save it. Back in the library folder, you can now see the collection you made as a separate tile. Rightclick any other related movies. Then choose that collection from the drop- down list to add it. Now we can add images to the 
+
+[09:19] collection. There are over 60 pre-made collection images in the free pack I put together linked below. and let me know in the comments any other movie collections you want and I'll add images to the set. Otherwise, head over to Canva. This is similar to the library images, but you'll want to create an Instagram post to get a vertical format for the image. Set the background and find a cool movie poster or image you can use to represent that collection. This next part is a premium feature, but 
+
+[09:49] I like to hit the background remover to clean things up a bit. Add your title and your golden. Now, right click on the collection tile or the three dots inside the collection to open the edit images interface and add your custom image to it. Movies can only be assigned to one collection. However, a movie can have as many tags as you like. To create a tag, right click on the movie tile, then choose metadata. Scroll all the way to the bottom to see the tags section. Use the 
+
+[10:22] plus icon to add a new tag. You can filter by these tags by clicking on the filter menu on the library page. [Music] The finale. Your media server is more than just a file dump. It's a curated experience. Once it's all dialed in, you'll be proud to show it off. In fact, one time I had a friend come over and they thought my Jellyfin media server was an actual streaming app that I built, not just an open- source tool. That's the power of a 
+
+[10:54] good layout. It will also make scaling your server easier. If you ever add new users, family, roommates, friends, everything will already be intuitive and easy for them to find. A little bit of organization now saves headaches later. So, if you want that Netflix style feel, spend a few hours organizing your libraries. Your future self will thank you and your server will look better than ever. Go ahead and subscribe because I've got a lot more jellyfin content coming in the pipeline. But for 
+
+[11:25] now, check out this next video. [Music] 

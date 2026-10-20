@@ -1,0 +1,26 @@
+# Have you experienced the dark side of design? Dark patterns, UX Design, Ethical Design
+UX Corner · 5 мин · 223 просмотров · en · https://youtu.be/mnFg_b1elaE
+
+
+
+[00:08] what's up everyone i'm vitor and i'm alex welcome back to ux corner if you're in the ux industry you've probably heard the term dark patterns before we've mentioned it but we've never really gone to detail so today we'll be talking about what that really means and what's so dark about it let's dive right in a term coined by ux specialist harry brignel in 2010 dark ux exploits human psychology to deceive and mislead for a hidden agenda the 
+
+[00:38] difference between dark ux and just playing bad ux is that dark ux is done on purpose here are some of the most common types of dark patterns let us know if you've been misled by any of these price comparison prevention this is when the retailer makes it hard for you to compare the price of an item with another item so you can't make an informed decision many apartment rental companies use this tactic they hide details about certain units and push you to call for more information maybe it's a millennial thing maybe it's 
+
+[01:09] just me but i'm more likely to go find a new complex than to call for details what about a roach motel this is a situation that you can get into very easily but then find it very hard to get out of think a premium subscription have you ever tried deleting your amazon account well i challenge you to try doing that today hidden costs you get to the last step of the checkout process only to discover some unexpected charges have appeared for example delivery charges tax service 
+
+[01:40] fees etc by now we all expect those horrific added fees to be applied to our cart when ordering from apps like post mates or uber eats and these hidden costs are everywhere think about how many other companies follow this same pattern of hiding unexpected charges until the end of the checkout process recently i was looking into furniture rentals and i found this awesome package that i thought was a deal it had everything i needed so i jumped on it but when i reached the end i realized it wasn't actually such a great deal 
+
+[02:11] such a shame a misdirection is when a design purposely focuses your attention on one thing in order to distract your attention from another canva does this by using their bright primary call to actions to lead you to a purchase page when there is a watermarked image in your design your free download is hidden behind a small inaccessible light gray link text also i'm not sure whose credit card number that is but not going to question it confirm shaming the act of guilting the 
+
+[02:43] user into opting into something every time i go to publix i brace myself for the question after i buy my groceries would you like to donate to the starving children in africa right now well this is replicated digitally by guilting the user into opting into something this dramatic duolingo bird is the perfect example you wouldn't want this little guy to go poison himself right disguised ads these are ads that are disguised as other kinds of content or navigation in order to get you to click on them this one gets me every time i'm looking 
+
+[03:14] for copyright free elements to use and i'm quickly scrolling and choose something that catches my eye which ultimately takes me to the very side i was avoiding although dark patterns may increase conversions at first they end up causing all sorts of issues so what do we do if we notice our stakeholders leaning towards dark design patterns to reach their goals well you should start by explaining to them what dark design is because chances are they don't even realize that they're doing anything wrong 
+
+[03:44] and after that what do we do next well remind them that when dark patterns are discovered they run the risk of being shared on social media and even one voice can be very loud a new flood of complaints from angry users may lead to more refunds higher costs and unnecessary stress on the support team even worse you may lose total customer trust believe it or not people are becoming aware that websites are manipulating them especially with all the media around 
+
+[04:15] facebook's court case and movies like the social dilemma and with the abundance of choices online now any one of these reasons can lead to you losing your customers to competitors a quote by warren buffett summarizes it best it takes 20 years to build a reputation and five minutes to ruin it if you think about that you'll do things differently while dark patterns show a lack of respect for our users opinion is split on their use as a business tactic think about this what's the difference 
+
+[04:45] between a marketing play that uses consumer psychology to influence users or a dark pattern that manipulates and deceives and who gets to decide that line all we know is that ux is meant to improve customer satisfaction loyalty and overall delight with users say no to dark design to be a better more ethical user experience designer make sure to like comment subscribe and hit the little bell to be notified every time we post new content thanks for watching now go out there and 
+
+[05:17] solve some people puzzles [Music] you 

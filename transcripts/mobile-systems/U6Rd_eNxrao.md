@@ -1,0 +1,24 @@
+# Scaling Design System Governance Without Becoming a Bottleneck
+Headway · 4 мин · 432 просмотров · en · https://youtu.be/U6Rd_eNxrao
+
+
+
+[00:00] For like teams of 10 or more designers, maybe living and breathing across multiple products, there's a different challenge for how do we build a system that scales for teams that large or larger that doesn't become a bottleneck for them. You might have the resources to build everything that you need, but then it's like, how do we manage that governance and how do we manage those teams so we can effectively deliver what what's needed for them? I think one of the biggest things that we've dealt with those bigger teams 
+
+[00:30] is thinking through like you get a lot of requests. You get a lot of component requests, a lot of products, maybe multi-brand, a lot of changes that need to come in. Really leaning into like an effective contribution model is very helpful. And really understanding like what are the different layers of contribution to the design system. I think everyone has this like gold star vision that contribution is I designed a thing, built a thing, and committed it all the 
+
+[01:01] way through the system. But not every team has the time to do that. And so I think contribution for one team could be here's a mock-up of what we would like and here's some documentation written up on on what we think we would need this to do for their specific product and they're not going to have time to maybe do the end-to-end testing and everything for that. And then other teams it might be like, "Hey, here's a first draft at a coded component. Can you guys bring it to the end?" And then teams that do have a little bit more time and availability, you know, they could really flesh something out 
+
+[01:34] and push a PR all the way through the system that are at led that the design system team maybe reviews. Yeah, I have a little bit of personal experience of being on a smaller team that was using a larger design system. We were building for for iPad, which is very unique, has its own own kind of quirks that not all every larger design system takes into account. So, what we did to kind of help keep us agile is create a product library, very 
+
+[02:06] much informed by the larger design system, to put together those smaller pieces of screens. And then once we found in something or a pattern that really worked for us, having that communication back to the larger design system team and seeing if that's something that can be incorporated into the larger design system. So, not being afraid to peel away in a sense, but you don't want to be siloed. So, that having those, like I mentioned, touch points, those 
+
+[02:37] channels, that dedicated person to have constant communication back that we've uncovered something and and we want to contribute back to the design system for the wider team to use, but still being flexible enough that we can kind of go ahead and and build something on our own. Yeah, and I think for those teams, just that that contribution model is so important. And we always we always have those like huge ultra huge diagrams of what contribution looks like. Uh and it's got a million layers and a million 
+
+[03:07] loops. And I want engagement someone had asked us like, "Just give it to me simple. Give me the simplest rawest form of contribution what that looks like." We did put this diagram together that we were like, "Oh, it's maybe like the four D's of design system contribution, right? So, like how do you empower teams to make decisions? Does it belong in the system? Does it not? Like, can they design that thing out for us? Then development, like are we building it? It's going to get kicked off from 
+
+[03:37] the backlog. It's going to take a little time for us to get to it. Can it be faster? Well, yeah, it can be faster, but then your team maybe builds that out. And then the slowest part for a lot of us is like the documentation parts. And that's one thing where I'm kind of eager with some of this AI documentation thing. How do we speed that up a little bit because we try not to release anything without having the design and dev hand-in-hand with all the documentation, as many of the edge cases covered because we've had bad 
+
+[04:07] experiences releasing things too early, then things get out of sync or issues that we just didn't consider come up, and then we got to patch things, and and that always becomes kind of a nightmare. And that's important to strike a balance between like too many cooks in the kitchen type of situation, but also allowing people to contribute that want to contribute, but having a process around it. At the same time, that balance is between your hitting those important deadlines, and then understanding when it's important to add something to the backlog, and 
+
+[04:39] it's like not the right time to actually do the work to get that component into the system. 

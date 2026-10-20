@@ -1,0 +1,38 @@
+# Landing page teardown 07 – increase affiliate sales
+Justin Jackson · 8 мин · 611 просмотров · en · https://youtu.be/BVcKruBziNk
+
+
+
+[00:00] hey folks long time no see it is time for another landing page teardown alright so let's get right into it this week is a little different because we have this page here it's on photography on the side comm and it looks like a blog post because it is a blog post but 
+
+[00:30] a blog post can still be a form of landing content really a landing page is just anything that has a single conversion event you're trying to convince people to complete one particular action and in this case Ryan's site is leading towards an affiliate sale so that's the purpose of the blog post so let's get right into it first of all these widgets on the side 
+
+[01:01] here this one is not rendering correctly I can tell already and it's there's some weird spacing here and these things I just am not a big fan of them I find that they often that will cover the content even right now it almost feels like it's covering part of the menu and the title it just doesn't feel great when you scroll down it's kind of off to the side but at the beginning it I don't 
+
+[01:31] know I think there are more effective ways to get people to share your content and that don't require these things here the other problem with these things is that for a lot of people they'll see that and they'll instantly turn off they'll be like okay this is one of those sites and if you want to stand out if you want to be unique you need to almost do the opposite of what everyone else is doing and in this case you know everybody has these share widgets I would say get rid of it it will declutter your site and make the reading 
+
+[02:03] experience that much greater which is what you want people to do you want people to get down the page now scrolling down this blog post here I can see there are are a lot of good things going on here you've got a great title yes this is going to be a list 9 tips to great photo slideshows but remember sometimes people are searching for tips to get great photo slideshows of not pregnant not rid of the cold photo slideshows there's 
+
+[02:36] nearly 12 million results and look who's right at the top our buddy Ryan here with his blog post so obviously there's some traction here don't be afraid to give people what they want what they're searching for what they want answers to runs done a great job of that here so now in terms of the writing I don't have time to read this whole thing out loud I do like these really strong headlines that are very you focused focused on the audience so audience start with the end in mind reader keep it short and sweet 
+
+[03:07] whoever's reading this make sure you remember motion creates emotion these are great one thing I would recommend there's two sites you can use to evaluate your writing the first is Hemingway app calm and if I paste in your blog post it is going to highlight sentences that are hard to read and sentences that are very hard to read and what you're looking to do is increase the readability usually this means 
+
+[03:37] writing simpler sentences so I would recommend you check out Hemingway app comm and anytime you see these read sentences rework them try to make them easier to understand after I'm done with Hemingway I would go into Graham early and when I paste your blogpost in here it automatically checks your grammar and gives you suggestions so just a great way to make your writing better all right so you create this downward motion mostly just because you have these 
+
+[04:10] numbers here and that's what you want you want people scrolling down one point lead to the next whether you're writing a blog post or a landing page you're trying to create momentum get them to read all the way down on point number six it looks like you have your first mention of any which is the site you're trying to get the affiliate sale from so that's nice it's right in the actual content and when you get to the very bottom you have this entire section about which slideshow software you recommend and 
+
+[04:41] this I'm guessing is an affiliate link yet you can do this the affiliate link there and this is what you're aiming for you want folks to click on that link and sign up for an Emoto so here is a video of the slideshow you've created on Animoto definitely shows what's possible with Animoto i think what's missing in this section is a button so when you pause the video there is a button here that people can click to make their own slideshow I'm guessing this is also your 
+
+[05:13] affiliate link oh it looks like there's a 404 on that so you might want to double check that make sure that that's going to the right place you want it to go to this link not that old broken link and this is a good idea this could use more contrast and I also think you need another button somewhere up here in the text so if this is going to be your video let me see if I can move this up so I've just moved your video up right underneath the sentence where you say 
+
+[05:44] here's the inspiration here's the video but underneath the video I would have these paragraphs and I would have a big button here that says get a free trial of Animoto now so I would style the button so it stands out so it looks something like this and there's a clear thing they should push to you know do the action that you want them to do now you'll see that this button is already competing with this 
+
+[06:16] call-to-action you have down at the bottom and I would choose one or the other either promote this free pdf tee sheet or promote an emote oh don't try to do both because now these two elements are competing against each other so again my recommendations are number one get rid of distracting floating widgets or to use tools like Hemingway and grammerly to fix your spelling mistakes to make your content more readable and 
+
+[06:48] number three rejigged your call to action section if you're selling Animoto via affiliate link really focus exclusively on that and a button that pops out that really lets the reader know this is your next course of action if you want to make a great slideshow this is how you do it and finally remove any other competing call to action so don't have a button to Animoto and a button that says sign up for a free PDF 
+
+[07:20] choose one or the other all right so I hope this is helpful for you Ryan and for anyone else that's watching this you can check out his blog post at photography on the side comm be sure to like this video and subscribe if you like what I'm doing here and this is really a part of a bigger service I offer called tiny marketing wins it's a subscription service for anyone who runs an online business and is intimidated by marketing marketing feels overwhelming to them and I'm going to give you a 
+
+[07:51] little preview of that right now if you want more sales you really need better marketing but here's the problem most of the tools out there are complicated and time-consuming to set up and hiring a professional marketer is really expensive this is why I built tiny marketing wins it enables you to build a marketing machine bit by bit every week I'll send you a new marketing tactic to implement all you have to do is log into tiny marketing wins choose 
+
+[08:23] the tactic you'd like watch the video tutorial and then follow the instructions in the attached PDF document for the hundreds of members who have already joined this has been just the kick in the pants they needed to start winning at online marketing sign up today get your first tactic and start earning more revenue for your business go to tiny marketing wyndcomm 

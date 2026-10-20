@@ -1,0 +1,46 @@
+# Subway Caution Stripe - Substance 3D Designer - Intro To Procedural Surfacing [3/3]
+renderBucket · 10 мин · 578 просмотров · en · https://youtu.be/xa3Y6nKsazA
+
+
+
+[00:05] in part three of this asset creation video on the intro to procedural servicing and designer we will export our surface textures and use the height map in blender to generate detailed geometry so once you've kind of gone through and added all the different features to replicate the surface that we're trying to create as i've done here to make this kind of dirty kind of anti-slip floor tile that probably seen around a lot of transit areas or subways and things like that we can start to export these textures 
+
+[00:37] now before i do that one thing you might notice about substance designer is sometimes the 3d view here will look a little bit blurry or not that detailed and this isn't so much a problem when you're just figuring out the basic shapes but starts to be an issue when you start to focus on details so one thing that you can do to fix this and it's something that i find quite important is up here under edit preferences you'll find under 3d view there's this viewport scaling set to auto 
+
+[01:09] turns to none or off and by doing that it might be a little bit slower but you're going to get a much sharper look of your materials here and i find that to be crucial to to doing a lot of detailing so i think that's something that you should definitely probably turn off if you're able to because it does help you focus on the details that you're adding so once you have your material maybe ready for export and 
+
+[01:41] you want to save it out you can just go in here to your graph and you can right click on your graph in the explorer and you can export outputs as bitmaps now if you're saving like a hard copy of this for you know future use in many different aspects games film anything you might want to save it as exrs or something because they have the full range of the image but if you're saving it specifically for unreal or something maybe you'd want to put it as like a png or a targa it doesn't really matter most game engines 
+
+[02:12] are going to convert the image anyways to their own format uh exr probably it's the most heaviest you probably wouldn't want to use it for games but it's good to retain all the data that you've you've created so for now i'm just going to save it as that but for games you probably want to save it something different something less heavy but i always keep my back up backups as exr format so they have all the original range that they were exported with so you're not losing data on export 
+
+[02:42] you kind of get the full range of values that you have here so now we can export these out you can specify their color space if you need to in this case only the base color is srgb or gamma corrected the rest should just be raw values because they're data maps they're not maps that have to be gamma corrected for our viewing and we'll export out these these maps it'll save them all out and what we'll do export is done we'll jump into blender now in blender i'm just going to create a grid so i'm 
+
+[03:13] going to go here and create a mesh and just create a grid i'm going to give this grid a lot of subdivision so i'm going to go in here to add grid and i'll put it at 2 20 48 by 2048 subdivisions you might want to put it at something less if it's going to cause your computer to crash or get really slow but it should be okay it might just take a little bit of time to to add those subdivisions once i've done that i'm going to add a modifier so i'm going to go here to this little wrench add a modifier the 
+
+[03:46] modifier i want to add is a displace modifier so i'm going to add a displace modifier i'm going to set that displace to use a new texture that texture is going to be the height map so i'm going to open up a texture and that texture that i'm going to use is going to be my height map so i'm just going to load that in so i have that here 
+
+[04:16] height map okay and there it is and this looks a little bit crazy right now but it's using that height map to push out the vertices or the polygons of the surface to match what that map defines and then we're going to change this or make sure the color space is either raw and not something different and that will give us the proper direction of it i think this is fine how it is and it's obviously too strong so i'm 
+
+[04:48] gonna have to adjust that but overall we're reading in the texture correctly so go back to the wrench here and i can set the strength so maybe a strength at a hundred is just far far too much so we probably want to adjust that so i'm going to pull that back down to a value that makes a little bit more sense maybe 0.1.2 something where it feels a bit better even though it's too much 0.05 okay that's a little bit better still probably could go lower maybe 0.035 
+
+[05:21] okay that feels good so now we have all this detailed geometry here problem with it is it's very heavy um to cut down the heaviness like you can't really reduce that if you're going to want these details to be in here through the model it's going to be heavy but one thing that you can do to make this a little bit less heavy is i can collapse this displacement modifier down um so what i can end up doing is adding like a decimate on top of this displace but before i do that 
+
+[05:53] uh what i'll have to do is collapse this displacement down otherwise it might not do the decimate correctly so we could do that we could go here and just apply it and that will kind of bake it into the surface now i no longer can remove that displacement ever so normally you might not want to do that but usually when adding the decimate i find that you sometimes have to do that so if i add decimate and i give it a minute maybe i should 
+
+[06:24] look at the wireframe so currently this is the wireframe that's a lot of edges and vertices so by setting a decimate node it will remove flat surfaces or details from areas that don't really have anything so like all the space where it's flat it could remove all these vertices so that could save us some geometry density so i can just put a decimate node on here a modifier 
+
+[06:55] uh triangulate it set the ratio to something really low ratio is like what percentage of triangles do you want to go to from its original so original is one if i put a point one it'd go down to ten percent of its original geo maybe i'll do something like .05 five percent of the original geometry density we see here and that will think a little bit and work away in the background it might take a minute or so but what it will give us is geometry that's much more optimized 
+
+[07:29] and we'll still probably match the shape pretty well and it might just be all that we need so i'll give it a minute and very soon we'll start to see the new geometry that it will generate so it shouldn't be too much longer and this can take a while you know it's it's face count currently 
+
+[07:59] is like 4 million 190 000 and it's going to go to a very small fraction of that after this finishes doing its thing so there we go it just completed and not too bad it started to get rid of all that the geometry that we don't really need but 
+
+[08:30] when you look at it it still pretty much maintains most of shape maybe it gets a little bit kind of lower quality here so maybe we can do 10 of its original geo instead of 5 but now we have a high resolution mesh that we can use that goes along with our texture that we've created so we've created a procedural texture that's adjustable we can also create geometry from that if we if we needed to in in certain cases but the cool thing 
+
+[09:01] is we'd be able to go back into designer changes from circles to you know something different like a triangle and have this all kind of update and we didn't go too much into making all your notes update and adapt to different shapes that takes a little bit more work but this starts to get you into the idea of how you can look at a photo break it down into something that you can make more procedurally and start going through that process and then as you try harder and harder surfaces go 
+
+[09:33] into a little bit more detail make them more flexible you can start to get some really powerful setups and kind of pre-made surfaces that you can adjust to a very detailed extent so you're not always having to remake textures you can create variations very easily so this is how we can also create geometry from our procedural textures if you've properly created your height maps and from here we could go and export this into unreal using nanite and and get all 
+
+[10:05] this detail into unreal as well so it's really cool uh really fun stuff to try out and if you give that a try you can also see in the pdfs that i actually do that i throw it into unreal and you can see kind of how it looks there a quick example of it so if you are part of patreon you'll be able to download this pdf which goes over kind of all those steps that we went over in a little bit of a bit more detail in some cases and kind of just a summary of everything and if you're not part of the patreon 
+
+[10:36] but you still enjoy the videos like and subscribe and comment below on what other videos you'd like to see 

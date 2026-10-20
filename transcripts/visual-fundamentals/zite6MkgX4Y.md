@@ -1,0 +1,46 @@
+# 1. Understanding Typography | Theory
+Canva · 11 мин · 123279 просмотров · en · https://youtu.be/zite6MkgX4Y
+
+
+
+[00:05] Have you ever wondered what all  those fonts on your system are? And more importantly, how to use them? In this class, we're going to  show you the power of typography. Very soon, you'll see words  in an exciting new way. What is typography? Typography is powerful. It can change how  you feel about a message being conveyed. 
+
+[00:37] Understanding typography is incredibly  important if you want to make impactful designs. In a nutshell, typography is everything to do with  the design and selection of text in your design. This includes the smallest detail  of individual letter forms, the arrangement of letters into  words, sentences, and lines, and the setting of larger blocks of text like  paragraphs which we often call body copy. So why is typography important? 
+
+[01:09] Every day, we observe a  staggering range of typefaces. The designer's job is to communicate and  make messages unmissable and unforgettable. Knowing how to select appropriate  typefaces will help you communicate ideas better and create more  meaningful and impactful designs. Knowing how to design with type will make your designs more accessible to  a larger number of people. But before we go too deep, it's  worth clarifying some definitions. 
+
+[01:41] Fonts versus Typefaces Today, the terms font and typeface are often used  interchangeably, but they mean different things. So let's make it as simple as possible. A typeface is created by a designer and  consists of a particular set of letters, numerals, and punctuation. A font is the thing we use like a specific style,  weight, or width within the typeface family. Helvetica is a typeface. Helvetica Bold is a font. 
+
+[02:15] Within a typeface, there may  be one font style or dozens. Using a font with different weights  or widths is a great way to create impact and hierarchy in your design. Helvetica for example has a large family of fonts. Take some time to scroll through the font list. You'll see some typefaces have light,  medium, regular, italic, and bold versions. Some even have different widths like  condensed, wide, and extra wide versions. 
+
+[02:47] Remember, when you need a bolder font, look  for heavier weight fonts in your fonts list. These have more detail and were  designed to be part of the typeface. Clicking B for bold is faster,  but it won't look as good. Hierarchy in text The world would be a boring  place if everything was presented to us in a single size, shape, or color. Consider the reader and how you can  tempt them to enjoy and read your text. 
+
+[03:18] One way is to use visual hierarchy. This is all  about organizing and prioritizing your content. We've discussed font weights and  widths as a way to create impact. Changing the size of your text is  also a simple way to create hierarchy. When measuring type, points  are our unit of measurement. Increasing or decreasing the point size simply  means making your text bigger or smaller. To get a basic idea of hierarchy, just  picture a newspaper or magazine article 
+
+[03:52] with a headline, subhead, and body copy. Here, size and weight are the simplest way to  create contrast and hierarchy within our text. The header is our focal point and designed  to catch the eye in a larger, bold font. A subhead in a smaller, bold font  will lead the reader into the story. Our body copy will be more comfortable and  readable in a smaller, regular weight font. If you're wondering if your hierarchy  is working for you, try this. 
+
+[04:25] Sit back from your computer screen  a bit and squint at your design so the text blurs and you see the general shapes. What stands out? Is it what you  would want viewers to look at first? Typeface categories Think of typefaces as personality types. Some are loud and flamboyant.  Some are quiet, but interesting. And others are flexible and adapt  depending on who they're with. A Serif is a typeface with small decorative  details at the ends of the letters 
+
+[04:59] often referred to as feet. Serifs have a more traditional look. Think  novels, newspapers, and formal documents. Serifs are more readable for long  blocks of text because the feet and other details give our eyes plenty of  anchor points as we read and read and read. If less is more your thing,  a Sans Serif might suit. These typefaces are more modern and  minimalist and have a geometric style. Sans Serifs are great for punchy headers. 
+
+[05:31] Sans Serif also work very  well for body copy on screens. You might be wondering about the  more decorative and fun fonts. We call these display fonts. Let's look at a few. Inspired by handwriting, a script font  mimics the stroke of a pen or paintbrush. The letters are often linked together. Some scripts are like calligraphy and  have a very elegant and traditional style. Others are more edgy and might  look like a quickly painted poster. 
+
+[06:04] As we know, a serif is a typeface with feet. Well, a slab serif is a font where  the feet are more pronounced. They might be extra large or sit like  planks at the end of their letter. Forms scripts, slab serifs, and other  display fonts are fantastic for headers. They add character and life to a design. Always remember, your message comes from  the design and the words themselves. The right style of display font will  match your message and always be readable. 
+
+[06:37] Spacing and alignment We've looked at how the tiniest detail like a  Serif on a letter might make text easier to read. Our typographic power extends to the  arrangement of larger blocks of text. Controlling the letter spacing is the first step. Tracking is adjusting the  overall spacing of your letters, making the text look loose, tight, or just right. Have you ever looked at a word or phrase  and something just looked off about it? 
+
+[07:10] It might be a kerning problem. Kerning refers to the amount of space between two  letters and the process of adjusting that space. Readability is greatly influenced  by the length of your lines. If your lines are too short or too long,  readers will have trouble scanning the text. An average length of 45 to 75  characters per line including spaces and punctuation is a common rule of thumb. Though the ideal length will depend on  your typeface's specific characteristics. 
+
+[07:46] Now, let's get vertical. Leading or line spacing is the  vertical space between lines. Adjusting this can have a significant impact  on how easy a block of text is to read. Most word processing and design  programs have a default or auto setting which is often a bit too narrow. The common recommendation is to  make your leading 120 to 150% larger than the point size of your text. So if your text is 12pt, the ideal  leading might sit between 14 to 18pt. 
+
+[08:22] With lots of objects on your page, alignment  might just be your new best friend. Alignment is the arrangement or adjustment  of objects to make them sit together. Try creating order with  different points of alignment. Alignment also applies to how the lines of text  are arranged. Usually left, centered, or right. Remember, left-align type is the  easiest to read in the Western world. You'll see the right edge of the paragraph  is nicely racked like a torn sheet of paper. 
+
+[08:56] When we get to the end of one line,  our eye can easily find the next. Pairing fonts There's a science to styling headings,  subheadings, and body copy to suit the type of content you're producing and  the message or tone of your design. Don't be afraid to use one  typeface across your entire design. A single font with a few style  variants is a clever way to create nuance without over complicating things. Here, the Serif is used in a bold,  all caps, and regular version. 
+
+[09:30] The combination has a strong hierarchy while  looking stylish, organized, and refined. You can also combine fonts from the same category. For example, different Sans Serifs. Here, a bold and rounded Sans Serif header works nicely  with a lighter and condensed Serif body copy. All three fonts in this example  are strong and easy to read. 
+
+[10:00] Pairing completely different typefaces is a great  way to add character and movement to your design. This example features a modern Sans Serif  typeface with strong structure and geometric form. As a header, it contrasts well against the  elegant and more traditional Serif for body copy. While there is a strong contrast, these two typefaces work well together  because both have rounded letter forms. Remember, keep it simple. Try different  combinations that work to your advantage 
+
+[10:33] by creating hierarchy in your text. Allow some text to become a focal  point and other text to recede. This lesson has introduced the  basic tools and techniques that are essential in mastering typography. Mastery won't happen instantly,  but by making stylistic choices and using appropriate fonts, your  designs will have more and more impact. Visual hierarchy and alignment  will organize designs making them readable and easier to navigate. 
+
+[11:05] Learning which fonts work together will give you go-to font pairs you can  trust to get the job done. Typography might be a big area to learn,  but is a powerful tool for designers. 

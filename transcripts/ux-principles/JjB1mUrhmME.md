@@ -1,0 +1,24 @@
+# User Centered Design Don Norman
+AICTE Swayam · 5 мин · 2431 просмотров · en · https://youtu.be/JjB1mUrhmME
+
+
+
+[00:00] each day we interact with thousands of objects objects as simple as a toothbrush or a coffee cup as complicated as a computer or an automobile but not all of these items are designed to be easy to use for example how many of us have trouble programming our VCRs or accidentally lock the keys in the car Don Norman has made a career of studying and improving the design of everyday things as a boy Don Norman wanted to know what makes things work from his toys to the family 
+
+[00:31] radio he tried to take them apart and figure them out so it was not surprising that he got a master's degree in electrical engineering at the University of Pennsylvania but he was also interested in how the human mind works he went on to study cognitive science earning a PhD in mathematical psychology from Penn and going on to teach at the University of California at San Diego engineering and psychology may seem like two completely different fields but when Norman was sent as part of a task force to study the Three Mile Island nuclear 
+
+[01:03] accident in 1979 all of his passions converged in one Eureka moment that defined the rest of his career if you were to design a control room to make errors to cause errors you couldn't have done a better job that was a magic moment what that did was bring back all of my engineering background to psychology and say hey we now know a lot about psychology and we know a lot about engineering you've got to take the two and put them together Norman began to work on the design of 
+
+[01:35] high-tech objects like computers and aviation technology but while on a sabbatical in Cambridge England he found that design problems were everywhere in the world around him I discovered I couldn't work the water faucets water taps or the light switches or the stove I couldn't even open doors I couldn't figure out whether I should push her poll I asked myself one major question I said I walk around the world encounter new objects all the time how do I know 
+
+[02:07] how to use them Norma's observations led him to write a book that has become a classic the design of so I tried to understand this communication process between the object and the person what were the signals are let me understand it Norman asked how do people relate to the objects that they encounter everyday he found that many objects that were difficult to use could be improved by teaching designers a set of simple but powerful principles that force them to think about how their products would be 
+
+[02:37] used who would be using them and why when I tell designers and engineers is that they need to understand the context in which the tool device they are using is to be employed a problem with many designers and engineers is that they're too logical and logic is wonderful but it doesn't describe real behavior and when the designing technology we have to design for real people Norman observe that emotions play a crucial role in good design even if we understand an object on a 
+
+[03:07] cognitive or intellectual level we might still hate using it which makes that design a failure so emotional design is critical part of design things that we come to love things that we come to hate cognition is trying to understand interpret the world emotion is an information processing system in the head that is evaluating the world determining what's good or bad safe or dangerous and it takes precedence over cognition most of the time he believes 
+
+[03:40] that even if you need to be taught how to use it the first time if the object is designed well you will never need to relearn how to use it and one of the things I teach about design is you know it's okay if you can't use it the first time it's okay if you have to read a book or someone has to instruct you but it's not okay if you have to do the same thing a second time good design is when someone shows it to you you say oh I see bad design is where you still don't understand it Norman's design concepts 
+
+[04:12] have been applied to just about every kind of technology imaginable and he constantly sees opportunities to improve the way we live and interact with technology everywhere he looks in the world around I spend a lot of time just walking around watching trying to observe people in natural settings trying to see how they behave what problems they encountered today what things go well many scientists have laboratories they go off and do experiments to me my laboratory is the real world the 2006 Benjamin Franklin 
+
+[04:44] method and computer and cognitive science is awarded to Donald a Norman for the development of the field of user centered design which utilizes our understanding of how people think to develop technologies designed to be easily usable 

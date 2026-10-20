@@ -1,0 +1,24 @@
+# Duolingo UX Project | Mai Geisner
+Mai · 5 мин · 637 просмотров · en · https://youtu.be/BBMIVB8RG4o
+
+
+
+[00:00] hi my name is Mai and today I'll be presenting my UX project on the duolingo phone app which I completed for my UX course with RMIT University duolingo is one of the world's leading language learning apps known for its gamification and freemium business model I personally have been studying German on it for a year now but always felt it lacked proper linguistic explanations I only recently discovered the tips feature on the homepage which basically fulfills 
+
+[00:32] this purpose I had a hunch that other users were also unaware of this feature so my chosen user flow aim to include and make it prominent with enjoying those lessons to gain some context I first read user reviews on sensor tower which revealed that a many users strongly dislike the live system and B users complained about a lack of linguistic explanations there for supporting my hunch my landscape review of the apps Babel and BOSU demonstrated 
+
+[01:04] that these key competitors of duolingo but had specific sections in their lessons with explanations and these built on from previous teachings both apps also had icons that you could press for either a pop-up tip or a short summary I then made an interview guide that discussed users language learning experiences and also how they dealt with confusing questions or answers in their duolingo lessons are then conducted six interviews through which my participants 
+
+[01:35] all expressed similar ideas to each other for example tamil kalki and jessie a-- all stressed how easy it was to overlook the current tips button on the homepage and saucony cindy and daniel here all specifically wanted tips at the start and during lessons to improve their learning to sort and synthesize these findings I completed affinity mapping using a digital software called mirror key insights I made from this without though 
+
+[02:06] everyone liked having tips they only discovered it during the interview secondly you has wanted professional explanations to what they were learning before diving into lessons and thirdly users wanted to access previous levels tips as they progress through their language course my recommendations were therefore to make a tips button within the lessons to display tips at the start of a new level and to have a save feature to access previous tips this also informed my lean 
+
+[02:40] persona which took into account users needs pain points and opportunities to improve their learning on duolingo keeping this persona in mind I ideated two scenarios scenario one here was based on my interviews where users often exited duolingo to Google explanations whereas scenario two had the user read the tips prior to her lesson therefore streamlining her experience next I designed a number of paper prototypes 
+
+[03:11] with some feedback I prioritized the following to include in my wireframes number one while keeping the home pages current tips button users would also access it at the start of new level and after they answered a question number two create a star icon to save tips number three have a side menu to access previously saved tips and number four to break down tips into several shorter pages from this I created a lo-fi prototype using Adobe XD I then 
+
+[03:44] conducted three usability tests where users access tips from both a brand new level and then a level with some lessons already completed users were also asked to save tips and use the submenu to access a different topic feedback revealed that users wanted to swipe between pages rather than pressing next each time they also thought that a lightbulb would better indicate tips instead of a question mark and finally they wanted all lessons to be accessible from the submenu instead of just the 
+
+[04:16] safe ones so here's my mid fidelity for which I kept the two scenarios mentioned before and essentially the key difference here was that the new level displayed tips the start of a listen whereas the other one just went straight into it so conducting two more usability tests I refined my prototype some key feedback here included having a collapsible submenu when users click the check point titles making the tips button on the home page either white or yellow and for 
+
+[04:48] a potential high fidelity prototype creating some popup instructions overall the feedback regarding this prototype was that it was clear and concise therefore helping users build a deeper understanding of the language as they were learning the next step for this would potentially be to build a high fidelity prototype with more user testing but for now the link to this mid fidelity prototype can be accessed from my assignment submission and through the presentation PDF thank you for watching 
